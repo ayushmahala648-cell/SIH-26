@@ -12,7 +12,7 @@ With the increasing availability of high-resolution drone imagery, there is an o
 
 Our system aims to process drone images and automatically identify and extract important urban cadastral features, generate accurate parcel boundaries, and represent the resulting information in a GIS-compatible format.
 
-<a href="YOUR_SIH26012_URL_HERE" target="_blank">
+<a href="https://sih2026.vuce.in/ps/SIH26012" target="_blank">
   🔗 View SIH26012 Problem Statement
 </a>
 
