@@ -1,4 +1,4 @@
-# AI-Based Urban Parcel Mapping & Cadastral Feature Extraction(https://sih2026.vuce.in/ps/SIH26012)
+# AI-Based Urban Parcel Mapping & Cadastral Feature Extraction
 
 > **Smart India Hackathon 2026 — SIH26012**
 
@@ -11,6 +11,10 @@ Traditional cadastral mapping and urban land-surveying processes can be time-con
 With the increasing availability of high-resolution drone imagery, there is an opportunity to automate significant portions of this workflow.
 
 Our system aims to process drone images and automatically identify and extract important urban cadastral features, generate accurate parcel boundaries, and represent the resulting information in a GIS-compatible format.
+
+<a href="YOUR_SIH26012_URL_HERE" target="_blank">
+  🔗 View SIH26012 Problem Statement
+</a>
 
 ## 🎯 Objectives
 
