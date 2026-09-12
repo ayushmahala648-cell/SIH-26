@@ -25,16 +25,18 @@
     <h1>Upload Drone Image</h1>
     <p>Upload a high-quality drone image to start mapping parcels</p>
 
-    <div class="uploadArea">
-        <button id="plus" onClick="openDrawer()">+</button>
+    <div class="uploadArea" id="uploadArea">
+      <input type="file" id="fileInput" accept=".png,.jpg,.jpeg" hidden>
+
+    <button id="plus" >+</button>
         <div class="uploadText">
         <h2 >Drag & drop your image here</h2>
         <p id="orClick">or click to browse</p>
           <div id="PNG">PNG,JPG,JPEG | Max 10 MB</div>
         </div>
-        
+        <img id="previewImage" class="uploadedImage" hidden>
     </div>
-    <button id="upload-btn" onClick="closeDrawer()"><i class="fa-solid fa-upload"></i>Upload Image</button>
+    <button id="upload-btn" onClick="openDrawer()"><i class="fa-solid fa-upload"></i>Upload Image</button>
     
     
 
@@ -43,23 +45,23 @@
        <div id="drawerText">Select the Aerial Image</div>
        <h2 id="underline"></h2>
        <div class="images">
-       <img src="./images/aerialPhoto1.jpg.jpeg"  >
+       <img src="./images/aerialPhoto1.jpg.jpeg"  class="sampleImage">
         
 
       
-       <img src="images/aerialPhoto2.jpg.jpeg"   >
+       <img src="images/aerialPhoto2.jpg.jpeg"  class="sampleImage" >
         
 
         
-       <img src="images/aerialPhoto3.jpg.jpeg"  >
+       <img src="images/aerialPhoto3.jpg.jpeg" class="sampleImage" >
         
 
         
-       <img src="images/aerialPhoto4.jpg.jpeg"  >
+       <img src="images/aerialPhoto4.jpg.jpeg" class="sampleImage" >
 
 
         
-       <img src="images/aerialPhoto5.jpg.jpeg"  >
+       <img src="images/aerialPhoto5.jpg.jpeg" class="sampleImage" >
       
 
        </div>
