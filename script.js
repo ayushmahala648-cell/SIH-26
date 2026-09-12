@@ -4,16 +4,7 @@ const uploadArea = document.getElementById("uploadArea");
 const orClick = document.getElementById("orClick");
 const previewImage = document.getElementById("previewImage");
 const uploadText = document.getElementById("uploadText");
-
-
-
-
-function openFilePicker() {
-    fileInput.click();
-}
-
-
-
+const selectBtn=document.getElementById("select-btn");
 
 function openDrawer() {
     drawer.classList.add("open")
@@ -55,6 +46,11 @@ sampleImages.forEach(function (image) {
     <img src="${image.src}" class="uploadedImage">
 `;
         closeDrawer();
+        selectBtn.textContent="Start Analysis";
+         
+        selectBtn.onclick=()=>{
+            window.location.href="new_analysis.html";
+        };
 
     });
 

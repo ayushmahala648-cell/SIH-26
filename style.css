@@ -3,7 +3,7 @@ body{
     scroll-behavior: smooth;
 }
 
-.top-bar{
+.nav-bar{
    background-color:rgb(5, 5, 93);
    height: 70px;
    border-radius:25px;
@@ -11,7 +11,36 @@ body{
    display:flex;
    flex-direction:row;
    margin-top:15px;
+   gap:15px;
 }
+.nav-links{
+    display:flex;
+    flex-direction:row;
+    margin-left:auto;
+    align-items:center;
+    gap:30px;
+    margin-right:100px;
+}
+#home.active , #new_analysis.active{
+    color:azure;
+    margin-right:5px;
+    font-family:"Noto Sans Devanagari", sans-serif;
+    font-size:20px;
+    font-weight:bold;
+    padding-top:20px;
+    text-decoration: none;
+
+}
+#home,#new_analysis{
+    color:rgb(143, 139, 139);
+    margin-right:5px;
+    font-family:"Noto Sans Devanagari", sans-serif;
+    font-size:20px;
+    font-weight:bold;
+    padding-top:20px;
+    text-decoration: none;
+}
+
 
 #title{
     color:azure;
@@ -90,7 +119,7 @@ p{
     box-shadow:0 6px 15px rgba(0,0,0,0.18);
 }
 
-#upload-btn{
+#select-btn{
     display:block;
     margin: 0 auto;
     margin-top: 35px;
