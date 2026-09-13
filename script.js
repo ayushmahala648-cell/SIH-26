@@ -47,11 +47,25 @@ sampleImages.forEach(function (image) {
 `;
         closeDrawer();
         selectBtn.textContent="Start Analysis";
-         
+
         selectBtn.onclick=()=>{
             window.location.href="new_analysis.html";
+            selectBtn.classList.add("active");
+            changeImage.classList.remove("active");
         };
-
+        let changeImage=document.getElementById("changeImage");
+     if(!changeImage){
+        const changeImage = document.createElement("button");
+        changeImage.textContent = "Change Image";
+        changeImage.id = "changeImage";
+        selectBtn.parentElement.appendChild(changeImage);
+     
+      changeImage.addEventListener("click",function(){
+        openDrawer();
+        changeImage.classList.add("active");
+        selectBtn.classList.add("notActive");
+      })
+    }
     });
 
 });

@@ -27,6 +27,8 @@
         </div>
     </div>
 
+
+<div class="homeBottom">
     <h1>Select Drone Image</h1>
     <p>Upload a high-quality drone image to start mapping parcels</p>
 
@@ -41,10 +43,29 @@
         </div>
         <img id="previewImage" class="uploadedImage" hidden>
     </div>
+    <div class="buttons">
     <button id="select-btn" onClick="openDrawer()"><i class="fa-solid fa-upload"></i>Select Image</button>
-    
-    
+    </div>
+ </div>   
 
+
+ <div class="about">
+      <div class="introduction">
+        <div id="header">परिधि</div>
+        <h1 id="aiPowered">AI-Powered Urban Parcel Mapping</h1>
+        <p id="text">Transform aerial imagery into structured
+        cadastral information using AI and GIS</p>
+        <div class="lists">
+        <li>Detects Buildings & Land Features</li>
+        <li>Generates Parcel Boundaries</li>
+        <li>Enables Human Verification</li>
+        <li>Export Ready GIS Formats</li>
+        </div>
+      </div>
+      <img id="map" src="images/map.png">
+    </div>
+
+    
      <div class="drawer" id="drawer">
        <button id="closeBtn" onClick="closeDrawer()">x</button>
        <div id="drawerText">Select the Aerial Image</div>
