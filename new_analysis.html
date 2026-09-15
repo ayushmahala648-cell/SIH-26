@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>SIH frontend</title>
-    <link rel ="stylesheet" href = "index.css">
+    <link rel ="stylesheet" href = "style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
@@ -18,52 +18,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudfare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
   </head>
   <body>
-    <div class="top-bar">
+    <div class="nav-bar">
         <div id="title">परिधि</div>
-    </div>
-
-    <h1>Upload Drone Image</h1>
-    <p>Upload a high-quality drone image to start mapping parcels</p>
-
-    <div class="uploadArea">
-        <button id="plus" onClick="openDrawer()">+</button>
-        <div class="uploadText">
-        <h2 >Drag & drop your image here</h2>
-        <p id="orClick">or click to browse</p>
-          <div id="PNG">PNG,JPG,JPEG | Max 10 MB</div>
+        
+        <div class="nav-links">
+        <a id="home" href="index.html"   >Home</a>
+        <a id="new_analysis" href="new_analysis.html" class="active">New Analysis</a>
         </div>
-        
     </div>
-    <button id="upload-btn" onClick="closeDrawer()"><i class="fa-solid fa-upload"></i>Upload Image</button>
-    
-    
-
-     <div class="drawer" id="drawer">
-       <button id="closeBtn" onClick="closeDrawer()">x</button>
-       <div id="drawerText">Select the Aerial Image</div>
-       <h2 id="underline"></h2>
-       <div class="images">
-       <img src="./images/aerialPhoto1.jpg.jpeg"  >
-        
-
-      
-       <img src="images/aerialPhoto2.jpg.jpeg"   >
-        
-
-        
-       <img src="images/aerialPhoto3.jpg.jpeg"  >
-        
-
-        
-       <img src="images/aerialPhoto4.jpg.jpeg"  >
-
-
-        
-       <img src="images/aerialPhoto5.jpg.jpeg"  >
-      
-
-       </div>
-     </div>
-     <script src="index.js"></script>
-  </body>
-</html>
+    <script src="script.js"></script>
+    </body>
