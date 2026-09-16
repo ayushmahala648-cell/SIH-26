@@ -23,7 +23,7 @@ function closeDrawer() {
 }
 
 
-// "or click to browse"
+
 if (orClick && fileInput) {
 
     orClick.addEventListener("click", function () {
@@ -35,7 +35,7 @@ if (orClick && fileInput) {
 }
 
 
-// FILE SELECTED FROM COMPUTER
+
 if (fileInput && selectBtn) {
 
     fileInput.addEventListener("change", function () {
@@ -55,7 +55,7 @@ if (fileInput && selectBtn) {
 }
 
 
-// SELECT IMAGE / START ANALYSIS BUTTON
+
 if (selectBtn && fileInput) {
 
     selectBtn.addEventListener("click", function () {
@@ -75,14 +75,13 @@ if (selectBtn && fileInput) {
 }
 
 
-// SAMPLE IMAGES
 const sampleImages = document.querySelectorAll(".sampleImage");
 
 sampleImages.forEach(function (image) {
 
     image.addEventListener("click", async function () {
 
-        // Show selected sample image
+        
         uploadArea.innerHTML = `
             <img src="${image.src}" class="uploadedImage">
         `;
@@ -90,7 +89,7 @@ sampleImages.forEach(function (image) {
         closeDrawer();
 
 
-        // Convert sample image into a File
+        
         try {
 
             const response = await fetch(image.src);
@@ -112,7 +111,7 @@ sampleImages.forEach(function (image) {
         }
 
 
-        // CREATE CHANGE IMAGE BUTTON
+        
         let changeImage = document.getElementById("changeImage");
 
         if (!changeImage) {
@@ -170,7 +169,7 @@ async function uploadImage() {
 
     const formData = new FormData();
 
-    // IMPORTANT: "file" must match FastAPI's UploadFile parameter
+    
     formData.append("file", selectedFile);
 
 
@@ -207,7 +206,7 @@ async function uploadImage() {
         console.log("Backend response:", data);
 
 
-        // Go to New Analysis ONLY after successful upload
+    
         window.location.href = "new_analysis.html";
 
 
