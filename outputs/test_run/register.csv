@@ -1,0 +1,21 @@
+parcel_id,land_use,area_sqm,area_hectares,area_acres,area_gaj,perimeter_m,builtup_pct,builtup_area_sqm,building_count,compactness,confidence,verification_status,centroid_lon,centroid_lat
+P-0019,Vacant / Open Plot,6.47,0.0006,0.0016,7.74,12.1,0.0,0.0,0,0.555,0.86,Pending Review,77.209388,28.613806
+P-0003,Vacant / Open Plot,6.15,0.0006,0.0015,7.36,18.66,0.0,0.0,0,0.222,0.79,Pending Review,77.209204,28.613869
+P-0031,Vacant / Open Plot,2.92,0.0003,0.0007,3.49,7.07,0.0,0.0,0,0.733,0.9,Pending Review,77.209371,28.613618
+P-0029,Vacant / Open Plot,2.55,0.0003,0.0006,3.05,6.42,0.0,0.0,0,0.777,0.91,Pending Review,77.20941,28.613633
+P-0023,Vacant / Open Plot,1.69,0.0002,0.0004,2.02,5.85,0.0,0.0,0,0.622,0.87,Pending Review,77.209311,28.613734
+P-0001,Vacant / Open Plot,1.6,0.0002,0.0004,1.91,10.59,0.0,0.0,0,0.179,0.79,Pending Review,77.209094,28.61388
+P-0022,Vacant / Open Plot,1.56,0.0002,0.0004,1.86,10.45,0.0,0.0,0,0.179,0.79,Pending Review,77.209342,28.613742
+P-0025,Vacant / Open Plot,1.41,0.0001,0.0003,1.69,6.14,0.0,0.0,0,0.472,0.84,Pending Review,77.209009,28.613728
+P-0018,Vacant / Open Plot,1.41,0.0001,0.0003,1.68,4.9,0.0,0.0,0,0.736,0.9,Pending Review,77.20926,28.613811
+P-0036,Vacant / Open Plot,1.14,0.0001,0.0003,1.36,5.24,0.0,0.0,0,0.522,0.85,Pending Review,77.209039,28.613536
+P-0014,Vacant / Open Plot,0.99,0.0001,0.0002,1.18,4.05,0.0,0.0,0,0.756,0.9,Pending Review,77.209242,28.613825
+P-0002,Vacant / Open Plot,1.12,0.0001,0.0003,1.34,4.47,0.0,0.0,0,0.703,0.89,Pending Review,77.209063,28.613892
+P-0013,Vacant / Open Plot,1.22,0.0001,0.0003,1.46,7.42,0.0,0.0,0,0.278,0.81,Pending Review,77.209047,28.613829
+P-0008,Vacant / Open Plot,0.94,0.0001,0.0002,1.12,3.95,0.0,0.0,0,0.755,0.9,Pending Review,77.209264,28.613882
+P-0028,Vacant / Open Plot,0.92,0.0001,0.0002,1.11,5.93,0.0,0.0,0,0.33,0.82,Pending Review,77.20904,28.613665
+P-0034,Vacant / Open Plot,0.88,0.0001,0.0002,1.06,3.77,0.0,0.0,0,0.781,0.91,Pending Review,77.209242,28.613579
+P-0007,Vacant / Open Plot,0.68,0.0001,0.0002,0.82,3.98,0.0,0.0,0,0.539,0.86,Pending Review,77.209221,28.613885
+P-0006,Vacant / Open Plot,0.76,0.0001,0.0002,0.91,3.45,0.0,0.0,0,0.799,0.91,Pending Review,77.209242,28.613889
+P-0020,Vacant / Open Plot,0.72,0.0001,0.0002,0.86,4.19,0.0,0.0,0,0.515,0.85,Pending Review,77.209389,28.613787
+P-0012,Vacant / Open Plot,0.74,0.0001,0.0002,0.88,5.86,0.0,0.0,0,0.27,0.8,Pending Review,77.209165,28.613846

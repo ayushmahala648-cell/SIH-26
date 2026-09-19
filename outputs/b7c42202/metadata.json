@@ -1,0 +1,5102 @@
+{
+  "success": true,
+  "summary": {
+    "analysis_id": "b7c42202",
+    "image_name": "aerialPhoto1.jpg.jpeg",
+    "image_dims": [
+      512,
+      512
+    ],
+    "total_parcels": 32,
+    "total_buildings": 0,
+    "total_roads": 0,
+    "total_surveyed_area_sqm": 47.48,
+    "total_surveyed_hectares": 0.0047,
+    "total_builtup_sqm": 0.0,
+    "overall_builtup_pct": 0.0,
+    "gsd_meters": 0.08,
+    "processing_time_sec": 6.99,
+    "created_at": "2026-09-19 20:45:33"
+  },
+  "overlay_url": "/outputs/b7c42202/cadastral_overlay.jpg",
+  "geojson_url": "/outputs/b7c42202/cadastral_features.geojson",
+  "csv_url": "/outputs/b7c42202/cadastral_register.csv",
+  "parcels": [
+    {
+      "parcel_id": "P-0012",
+      "numeric_id": 12,
+      "area_sqm": 5.85,
+      "area_hectares": 0.0006,
+      "area_acres": 0.0014,
+      "area_gaj": 7.0,
+      "perimeter_m": 11.98,
+      "compactness": 0.512,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Residential",
+      "confidence": 0.85,
+      "verification_status": "Verified",
+      "centroid_px": [
+        21.7,
+        71.1
+      ],
+      "centroid_geo": [
+        77.209018,
+        28.613849
+      ]
+    },
+    {
+      "parcel_id": "P-0063",
+      "numeric_id": 63,
+      "area_sqm": 5.08,
+      "area_hectares": 0.0005,
+      "area_acres": 0.0013,
+      "area_gaj": 6.07,
+      "perimeter_m": 11.29,
+      "compactness": 0.5,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.85,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        455.0,
+        392.7
+      ],
+      "centroid_geo": [
+        77.209372,
+        28.613618
+      ]
+    },
+    {
+      "parcel_id": "P-0010",
+      "numeric_id": 10,
+      "area_sqm": 4.4,
+      "area_hectares": 0.0004,
+      "area_acres": 0.0011,
+      "area_gaj": 5.27,
+      "perimeter_m": 13.5,
+      "compactness": 0.304,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.81,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        197.8,
+        67.8
+      ],
+      "centroid_geo": [
+        77.209162,
+        28.613851
+      ]
+    },
+    {
+      "parcel_id": "P-0022",
+      "numeric_id": 22,
+      "area_sqm": 2.84,
+      "area_hectares": 0.0003,
+      "area_acres": 0.0007,
+      "area_gaj": 3.39,
+      "perimeter_m": 10.26,
+      "compactness": 0.339,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.82,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        460.4,
+        135.0
+      ],
+      "centroid_geo": [
+        77.209377,
+        28.613803
+      ]
+    },
+    {
+      "parcel_id": "P-0058",
+      "numeric_id": 58,
+      "area_sqm": 2.28,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0006,
+      "area_gaj": 2.72,
+      "perimeter_m": 7.33,
+      "compactness": 0.532,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.86,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        498.5,
+        371.1
+      ],
+      "centroid_geo": [
+        77.209408,
+        28.613633
+      ]
+    },
+    {
+      "parcel_id": "P-0001",
+      "numeric_id": 1,
+      "area_sqm": 2.1,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0005,
+      "area_gaj": 2.51,
+      "perimeter_m": 11.62,
+      "compactness": 0.196,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.79,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        114.0,
+        29.0
+      ],
+      "centroid_geo": [
+        77.209093,
+        28.613879
+      ]
+    },
+    {
+      "parcel_id": "P-0020",
+      "numeric_id": 20,
+      "area_sqm": 1.64,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0004,
+      "area_gaj": 1.97,
+      "perimeter_m": 5.32,
+      "compactness": 0.73,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.9,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        317.1,
+        124.1
+      ],
+      "centroid_geo": [
+        77.20926,
+        28.613811
+      ]
+    },
+    {
+      "parcel_id": "P-0015",
+      "numeric_id": 15,
+      "area_sqm": 1.36,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.62,
+      "perimeter_m": 4.74,
+      "compactness": 0.76,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.9,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        295.9,
+        103.7
+      ],
+      "centroid_geo": [
+        77.209242,
+        28.613825
+      ]
+    },
+    {
+      "parcel_id": "P-0067",
+      "numeric_id": 67,
+      "area_sqm": 1.36,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.62,
+      "perimeter_m": 6.45,
+      "compactness": 0.409,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.83,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        204.2,
+        414.5
+      ],
+      "centroid_geo": [
+        77.209167,
+        28.613602
+      ]
+    },
+    {
+      "parcel_id": "P-0026",
+      "numeric_id": 26,
+      "area_sqm": 1.5,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0004,
+      "area_gaj": 1.79,
+      "perimeter_m": 7.95,
+      "compactness": 0.299,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.81,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        179.7,
+        161.5
+      ],
+      "centroid_geo": [
+        77.209147,
+        28.613784
+      ]
+    },
+    {
+      "parcel_id": "P-0030",
+      "numeric_id": 30,
+      "area_sqm": 1.64,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0004,
+      "area_gaj": 1.96,
+      "perimeter_m": 7.6,
+      "compactness": 0.357,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.82,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        481.4,
+        197.4
+      ],
+      "centroid_geo": [
+        77.209394,
+        28.613758
+      ]
+    },
+    {
+      "parcel_id": "P-0031",
+      "numeric_id": 31,
+      "area_sqm": 1.47,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0004,
+      "area_gaj": 1.75,
+      "perimeter_m": 7.94,
+      "compactness": 0.292,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.81,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        308.1,
+        186.3
+      ],
+      "centroid_geo": [
+        77.209252,
+        28.613766
+      ]
+    },
+    {
+      "parcel_id": "P-0014",
+      "numeric_id": 14,
+      "area_sqm": 1.07,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.27,
+      "perimeter_m": 4.37,
+      "compactness": 0.701,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.89,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        128.3,
+        91.8
+      ],
+      "centroid_geo": [
+        77.209105,
+        28.613834
+      ]
+    },
+    {
+      "parcel_id": "P-0068",
+      "numeric_id": 68,
+      "area_sqm": 1.06,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.27,
+      "perimeter_m": 4.17,
+      "compactness": 0.766,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.9,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        296.0,
+        425.0
+      ],
+      "centroid_geo": [
+        77.209242,
+        28.613595
+      ]
+    },
+    {
+      "parcel_id": "P-0070",
+      "numeric_id": 70,
+      "area_sqm": 0.96,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.15,
+      "perimeter_m": 4.41,
+      "compactness": 0.622,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.87,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        295.1,
+        447.7
+      ],
+      "centroid_geo": [
+        77.209242,
+        28.613578
+      ]
+    },
+    {
+      "parcel_id": "P-0029",
+      "numeric_id": 29,
+      "area_sqm": 1.0,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.19,
+      "perimeter_m": 4.36,
+      "compactness": 0.657,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.88,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        462.5,
+        181.6
+      ],
+      "centroid_geo": [
+        77.209379,
+        28.61377
+      ]
+    },
+    {
+      "parcel_id": "P-0040",
+      "numeric_id": 40,
+      "area_sqm": 1.03,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.24,
+      "perimeter_m": 5.04,
+      "compactness": 0.512,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.85,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        138.9,
+        249.0
+      ],
+      "centroid_geo": [
+        77.209114,
+        28.613721
+      ]
+    },
+    {
+      "parcel_id": "P-0023",
+      "numeric_id": 23,
+      "area_sqm": 0.91,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.08,
+      "perimeter_m": 4.02,
+      "compactness": 0.703,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.89,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        296.1,
+        130.9
+      ],
+      "centroid_geo": [
+        77.209242,
+        28.613806
+      ]
+    },
+    {
+      "parcel_id": "P-0013",
+      "numeric_id": 13,
+      "area_sqm": 0.78,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.93,
+      "perimeter_m": 5.24,
+      "compactness": 0.355,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.82,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        165.3,
+        75.5
+      ],
+      "centroid_geo": [
+        77.209135,
+        28.613846
+      ]
+    },
+    {
+      "parcel_id": "P-0037",
+      "numeric_id": 37,
+      "area_sqm": 0.88,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.06,
+      "perimeter_m": 4.14,
+      "compactness": 0.647,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.88,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        15.6,
+        237.6
+      ],
+      "centroid_geo": [
+        77.209013,
+        28.613729
+      ]
+    },
+    {
+      "parcel_id": "P-0052",
+      "numeric_id": 52,
+      "area_sqm": 0.86,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.03,
+      "perimeter_m": 3.8,
+      "compactness": 0.752,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.9,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        323.2,
+        299.3
+      ],
+      "centroid_geo": [
+        77.209265,
+        28.613685
+      ]
+    },
+    {
+      "parcel_id": "P-0038",
+      "numeric_id": 38,
+      "area_sqm": 0.76,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.91,
+      "perimeter_m": 4.27,
+      "compactness": 0.523,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.85,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        207.9,
+        240.3
+      ],
+      "centroid_geo": [
+        77.20917,
+        28.613727
+      ]
+    },
+    {
+      "parcel_id": "P-0062",
+      "numeric_id": 62,
+      "area_sqm": 0.87,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.04,
+      "perimeter_m": 3.64,
+      "compactness": 0.822,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.91,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        296.1,
+        384.0
+      ],
+      "centroid_geo": [
+        77.209242,
+        28.613624
+      ]
+    },
+    {
+      "parcel_id": "P-0006",
+      "numeric_id": 6,
+      "area_sqm": 0.73,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.88,
+      "perimeter_m": 4.53,
+      "compactness": 0.449,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.84,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        198.5,
+        32.6
+      ],
+      "centroid_geo": [
+        77.209163,
+        28.613877
+      ]
+    },
+    {
+      "parcel_id": "P-0044",
+      "numeric_id": 44,
+      "area_sqm": 0.64,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.77,
+      "perimeter_m": 5.19,
+      "compactness": 0.299,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.81,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        222.5,
+        261.3
+      ],
+      "centroid_geo": [
+        77.209182,
+        28.613712
+      ]
+    },
+    {
+      "parcel_id": "P-0048",
+      "numeric_id": 48,
+      "area_sqm": 0.69,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.83,
+      "perimeter_m": 3.84,
+      "compactness": 0.588,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.87,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        140.0,
+        270.5
+      ],
+      "centroid_geo": [
+        77.209115,
+        28.613706
+      ]
+    },
+    {
+      "parcel_id": "P-0017",
+      "numeric_id": 17,
+      "area_sqm": 0.53,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0001,
+      "area_gaj": 0.64,
+      "perimeter_m": 3.1,
+      "compactness": 0.695,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.89,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        371.4,
+        110.0
+      ],
+      "centroid_geo": [
+        77.209304,
+        28.613821
+      ]
+    },
+    {
+      "parcel_id": "P-0054",
+      "numeric_id": 54,
+      "area_sqm": 0.75,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.9,
+      "perimeter_m": 3.91,
+      "compactness": 0.615,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.87,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        291.6,
+        327.9
+      ],
+      "centroid_geo": [
+        77.209239,
+        28.613664
+      ]
+    },
+    {
+      "parcel_id": "P-0056",
+      "numeric_id": 56,
+      "area_sqm": 0.66,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.79,
+      "perimeter_m": 3.39,
+      "compactness": 0.723,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.89,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        181.3,
+        330.0
+      ],
+      "centroid_geo": [
+        77.209148,
+        28.613663
+      ]
+    },
+    {
+      "parcel_id": "P-0059",
+      "numeric_id": 59,
+      "area_sqm": 0.65,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.78,
+      "perimeter_m": 3.59,
+      "compactness": 0.633,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.88,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        314.7,
+        367.4
+      ],
+      "centroid_geo": [
+        77.209258,
+        28.613636
+      ]
+    },
+    {
+      "parcel_id": "P-0051",
+      "numeric_id": 51,
+      "area_sqm": 0.6,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0001,
+      "area_gaj": 0.72,
+      "perimeter_m": 3.46,
+      "compactness": 0.629,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.88,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        204.2,
+        294.0
+      ],
+      "centroid_geo": [
+        77.209167,
+        28.613689
+      ]
+    },
+    {
+      "parcel_id": "P-0046",
+      "numeric_id": 46,
+      "area_sqm": 0.53,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0001,
+      "area_gaj": 0.64,
+      "perimeter_m": 3.01,
+      "compactness": 0.739,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.9,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        163.4,
+        263.4
+      ],
+      "centroid_geo": [
+        77.209134,
+        28.613711
+      ]
+    }
+  ],
+  "geojson_pixel": {
+    "type": "FeatureCollection",
+    "name": "Cadastral_Features_Paridhi",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "pixel"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "id": "P-0012",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.0,
+                52.0
+              ],
+              [
+                8.0,
+                81.0
+              ],
+              [
+                20.0,
+                93.0
+              ],
+              [
+                42.0,
+                77.0
+              ],
+              [
+                49.0,
+                79.0
+              ],
+              [
+                50.0,
+                76.0
+              ],
+              [
+                36.0,
+                75.0
+              ],
+              [
+                31.0,
+                71.0
+              ],
+              [
+                31.0,
+                62.0
+              ],
+              [
+                36.0,
+                58.0
+              ],
+              [
+                35.0,
+                55.0
+              ],
+              [
+                8.0,
+                52.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0012",
+          "numeric_id": 12,
+          "area_sqm": 5.85,
+          "area_hectares": 0.0006,
+          "area_acres": 0.0014,
+          "area_gaj": 7.0,
+          "perimeter_m": 11.98,
+          "compactness": 0.512,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Residential",
+          "confidence": 0.85,
+          "verification_status": "Verified",
+          "centroid_px": [
+            21.7,
+            71.1
+          ],
+          "centroid_geo": [
+            77.209018,
+            28.613849
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0063",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                461.0,
+                378.0
+              ],
+              [
+                441.0,
+                380.0
+              ],
+              [
+                439.0,
+                395.0
+              ],
+              [
+                435.0,
+                398.0
+              ],
+              [
+                437.0,
+                401.0
+              ],
+              [
+                442.0,
+                400.0
+              ],
+              [
+                451.0,
+                408.0
+              ],
+              [
+                467.0,
+                407.0
+              ],
+              [
+                472.0,
+                396.0
+              ],
+              [
+                473.0,
+                383.0
+              ],
+              [
+                465.0,
+                382.0
+              ],
+              [
+                461.0,
+                378.0
+              ]
+            ],
+            [
+              [
+                465.0,
+                390.0
+              ],
+              [
+                471.0,
+                392.0
+              ],
+              [
+                469.0,
+                398.0
+              ],
+              [
+                463.0,
+                396.0
+              ],
+              [
+                465.0,
+                390.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0063",
+          "numeric_id": 63,
+          "area_sqm": 5.08,
+          "area_hectares": 0.0005,
+          "area_acres": 0.0013,
+          "area_gaj": 6.07,
+          "perimeter_m": 11.29,
+          "compactness": 0.5,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.85,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            455.0,
+            392.7
+          ],
+          "centroid_geo": [
+            77.209372,
+            28.613618
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0010",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                188.0,
+                47.0
+              ],
+              [
+                191.0,
+                52.0
+              ],
+              [
+                198.0,
+                52.0
+              ],
+              [
+                200.0,
+                58.0
+              ],
+              [
+                184.0,
+                59.0
+              ],
+              [
+                183.0,
+                68.0
+              ],
+              [
+                199.0,
+                74.0
+              ],
+              [
+                197.0,
+                80.0
+              ],
+              [
+                185.0,
+                79.0
+              ],
+              [
+                186.0,
+                87.0
+              ],
+              [
+                208.0,
+                87.0
+              ],
+              [
+                207.0,
+                47.0
+              ],
+              [
+                188.0,
+                47.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0010",
+          "numeric_id": 10,
+          "area_sqm": 4.4,
+          "area_hectares": 0.0004,
+          "area_acres": 0.0011,
+          "area_gaj": 5.27,
+          "perimeter_m": 13.5,
+          "compactness": 0.304,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            197.8,
+            67.8
+          ],
+          "centroid_geo": [
+            77.209162,
+            28.613851
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0022",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                449.0,
+                121.0
+              ],
+              [
+                444.0,
+                128.0
+              ],
+              [
+                445.0,
+                142.0
+              ],
+              [
+                468.0,
+                142.0
+              ],
+              [
+                470.0,
+                139.0
+              ],
+              [
+                494.0,
+                141.0
+              ],
+              [
+                482.0,
+                138.0
+              ],
+              [
+                478.0,
+                133.0
+              ],
+              [
+                468.0,
+                129.0
+              ],
+              [
+                454.0,
+                131.0
+              ],
+              [
+                449.0,
+                121.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0022",
+          "numeric_id": 22,
+          "area_sqm": 2.84,
+          "area_hectares": 0.0003,
+          "area_acres": 0.0007,
+          "area_gaj": 3.39,
+          "perimeter_m": 10.26,
+          "compactness": 0.339,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.82,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            460.4,
+            135.0
+          ],
+          "centroid_geo": [
+            77.209377,
+            28.613803
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0058",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                510.0,
+                360.0
+              ],
+              [
+                491.0,
+                361.0
+              ],
+              [
+                489.0,
+                382.0
+              ],
+              [
+                510.0,
+                383.0
+              ],
+              [
+                504.0,
+                379.0
+              ],
+              [
+                504.0,
+                368.0
+              ],
+              [
+                510.0,
+                366.0
+              ],
+              [
+                510.0,
+                360.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0058",
+          "numeric_id": 58,
+          "area_sqm": 2.28,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0006,
+          "area_gaj": 2.72,
+          "perimeter_m": 7.33,
+          "compactness": 0.532,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.86,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            498.5,
+            371.1
+          ],
+          "centroid_geo": [
+            77.209408,
+            28.613633
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0001",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                105.0,
+                1.0
+              ],
+              [
+                105.0,
+                10.0
+              ],
+              [
+                111.0,
+                14.0
+              ],
+              [
+                113.0,
+                26.0
+              ],
+              [
+                112.0,
+                61.0
+              ],
+              [
+                119.0,
+                61.0
+              ],
+              [
+                118.0,
+                50.0
+              ],
+              [
+                114.0,
+                48.0
+              ],
+              [
+                114.0,
+                44.0
+              ],
+              [
+                117.0,
+                39.0
+              ],
+              [
+                118.0,
+                22.0
+              ],
+              [
+                122.0,
+                19.0
+              ],
+              [
+                116.0,
+                10.0
+              ],
+              [
+                110.0,
+                8.0
+              ],
+              [
+                108.0,
+                1.0
+              ],
+              [
+                105.0,
+                1.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0001",
+          "numeric_id": 1,
+          "area_sqm": 2.1,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0005,
+          "area_gaj": 2.51,
+          "perimeter_m": 11.62,
+          "compactness": 0.196,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.79,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            114.0,
+            29.0
+          ],
+          "centroid_geo": [
+            77.209093,
+            28.613879
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0020",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                312.0,
+                112.0
+              ],
+              [
+                310.0,
+                134.0
+              ],
+              [
+                324.0,
+                134.0
+              ],
+              [
+                323.0,
+                115.0
+              ],
+              [
+                312.0,
+                112.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0020",
+          "numeric_id": 20,
+          "area_sqm": 1.64,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0004,
+          "area_gaj": 1.97,
+          "perimeter_m": 5.32,
+          "compactness": 0.73,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            317.1,
+            124.1
+          ],
+          "centroid_geo": [
+            77.20926,
+            28.613811
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0015",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                291.0,
+                95.0
+              ],
+              [
+                288.0,
+                112.0
+              ],
+              [
+                300.0,
+                112.0
+              ],
+              [
+                305.0,
+                97.0
+              ],
+              [
+                291.0,
+                95.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0015",
+          "numeric_id": 15,
+          "area_sqm": 1.36,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.62,
+          "perimeter_m": 4.74,
+          "compactness": 0.76,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            295.9,
+            103.7
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613825
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0067",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                218.0,
+                410.0
+              ],
+              [
+                186.0,
+                412.0
+              ],
+              [
+                187.0,
+                417.0
+              ],
+              [
+                210.0,
+                417.0
+              ],
+              [
+                212.0,
+                421.0
+              ],
+              [
+                217.0,
+                421.0
+              ],
+              [
+                218.0,
+                410.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0067",
+          "numeric_id": 67,
+          "area_sqm": 1.36,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.62,
+          "perimeter_m": 6.45,
+          "compactness": 0.409,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.83,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            204.2,
+            414.5
+          ],
+          "centroid_geo": [
+            77.209167,
+            28.613602
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0026",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                159.0,
+                154.0
+              ],
+              [
+                165.0,
+                165.0
+              ],
+              [
+                201.0,
+                165.0
+              ],
+              [
+                197.0,
+                156.0
+              ],
+              [
+                194.0,
+                160.0
+              ],
+              [
+                188.0,
+                160.0
+              ],
+              [
+                172.0,
+                159.0
+              ],
+              [
+                159.0,
+                154.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0026",
+          "numeric_id": 26,
+          "area_sqm": 1.5,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0004,
+          "area_gaj": 1.79,
+          "perimeter_m": 7.95,
+          "compactness": 0.299,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            179.7,
+            161.5
+          ],
+          "centroid_geo": [
+            77.209147,
+            28.613784
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0030",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                481.0,
+                176.0
+              ],
+              [
+                480.0,
+                189.0
+              ],
+              [
+                477.0,
+                191.0
+              ],
+              [
+                478.0,
+                218.0
+              ],
+              [
+                483.0,
+                218.0
+              ],
+              [
+                486.0,
+                179.0
+              ],
+              [
+                485.0,
+                176.0
+              ],
+              [
+                481.0,
+                176.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0030",
+          "numeric_id": 30,
+          "area_sqm": 1.64,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0004,
+          "area_gaj": 1.96,
+          "perimeter_m": 7.6,
+          "compactness": 0.357,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.82,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            481.4,
+            197.4
+          ],
+          "centroid_geo": [
+            77.209394,
+            28.613758
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0031",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                310.0,
+                180.0
+              ],
+              [
+                309.0,
+                189.0
+              ],
+              [
+                299.0,
+                189.0
+              ],
+              [
+                297.0,
+                182.0
+              ],
+              [
+                291.0,
+                181.0
+              ],
+              [
+                291.0,
+                191.0
+              ],
+              [
+                302.0,
+                193.0
+              ],
+              [
+                304.0,
+                190.0
+              ],
+              [
+                323.0,
+                190.0
+              ],
+              [
+                324.0,
+                181.0
+              ],
+              [
+                310.0,
+                180.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0031",
+          "numeric_id": 31,
+          "area_sqm": 1.47,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0004,
+          "area_gaj": 1.75,
+          "perimeter_m": 7.94,
+          "compactness": 0.292,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            308.1,
+            186.3
+          ],
+          "centroid_geo": [
+            77.209252,
+            28.613766
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0014",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                120.0,
+                86.0
+              ],
+              [
+                121.0,
+                96.0
+              ],
+              [
+                128.0,
+                96.0
+              ],
+              [
+                130.0,
+                100.0
+              ],
+              [
+                135.0,
+                99.0
+              ],
+              [
+                135.0,
+                86.0
+              ],
+              [
+                120.0,
+                86.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0014",
+          "numeric_id": 14,
+          "area_sqm": 1.07,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.27,
+          "perimeter_m": 4.37,
+          "compactness": 0.701,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.89,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            128.3,
+            91.8
+          ],
+          "centroid_geo": [
+            77.209105,
+            28.613834
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0068",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                296.0,
+                419.0
+              ],
+              [
+                287.0,
+                423.0
+              ],
+              [
+                287.0,
+                430.0
+              ],
+              [
+                303.0,
+                430.0
+              ],
+              [
+                305.0,
+                420.0
+              ],
+              [
+                296.0,
+                419.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0068",
+          "numeric_id": 68,
+          "area_sqm": 1.06,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.27,
+          "perimeter_m": 4.17,
+          "compactness": 0.766,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            296.0,
+            425.0
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613595
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0070",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                290.0,
+                438.0
+              ],
+              [
+                289.0,
+                454.0
+              ],
+              [
+                298.0,
+                453.0
+              ],
+              [
+                303.0,
+                456.0
+              ],
+              [
+                301.0,
+                445.0
+              ],
+              [
+                290.0,
+                438.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0070",
+          "numeric_id": 70,
+          "area_sqm": 0.96,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.15,
+          "perimeter_m": 4.41,
+          "compactness": 0.622,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.87,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            295.1,
+            447.7
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613578
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0029",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                459.0,
+                175.0
+              ],
+              [
+                455.0,
+                179.0
+              ],
+              [
+                456.0,
+                187.0
+              ],
+              [
+                462.0,
+                186.0
+              ],
+              [
+                466.0,
+                192.0
+              ],
+              [
+                470.0,
+                176.0
+              ],
+              [
+                459.0,
+                175.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0029",
+          "numeric_id": 29,
+          "area_sqm": 1.0,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.19,
+          "perimeter_m": 4.36,
+          "compactness": 0.657,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.88,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            462.5,
+            181.6
+          ],
+          "centroid_geo": [
+            77.209379,
+            28.61377
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0040",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                138.0,
+                240.0
+              ],
+              [
+                135.0,
+                249.0
+              ],
+              [
+                131.0,
+                251.0
+              ],
+              [
+                128.0,
+                259.0
+              ],
+              [
+                136.0,
+                256.0
+              ],
+              [
+                138.0,
+                252.0
+              ],
+              [
+                147.0,
+                251.0
+              ],
+              [
+                149.0,
+                245.0
+              ],
+              [
+                138.0,
+                240.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0040",
+          "numeric_id": 40,
+          "area_sqm": 1.03,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.24,
+          "perimeter_m": 5.04,
+          "compactness": 0.512,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.85,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            138.9,
+            249.0
+          ],
+          "centroid_geo": [
+            77.209114,
+            28.613721
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0023",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                298.0,
+                122.0
+              ],
+              [
+                296.0,
+                125.0
+              ],
+              [
+                291.0,
+                124.0
+              ],
+              [
+                291.0,
+                138.0
+              ],
+              [
+                301.0,
+                138.0
+              ],
+              [
+                301.0,
+                124.0
+              ],
+              [
+                298.0,
+                122.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0023",
+          "numeric_id": 23,
+          "area_sqm": 0.91,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.08,
+          "perimeter_m": 4.02,
+          "compactness": 0.703,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.89,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            296.1,
+            130.9
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613806
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0013",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                167.0,
+                71.0
+              ],
+              [
+                155.0,
+                72.0
+              ],
+              [
+                155.0,
+                76.0
+              ],
+              [
+                160.0,
+                79.0
+              ],
+              [
+                183.0,
+                78.0
+              ],
+              [
+                176.0,
+                75.0
+              ],
+              [
+                170.0,
+                77.0
+              ],
+              [
+                167.0,
+                71.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0013",
+          "numeric_id": 13,
+          "area_sqm": 0.78,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.93,
+          "perimeter_m": 5.24,
+          "compactness": 0.355,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.82,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            165.3,
+            75.5
+          ],
+          "centroid_geo": [
+            77.209135,
+            28.613846
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0037",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                15.0,
+                229.0
+              ],
+              [
+                15.0,
+                233.0
+              ],
+              [
+                9.0,
+                237.0
+              ],
+              [
+                8.0,
+                246.0
+              ],
+              [
+                23.0,
+                239.0
+              ],
+              [
+                23.0,
+                233.0
+              ],
+              [
+                15.0,
+                229.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0037",
+          "numeric_id": 37,
+          "area_sqm": 0.88,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.06,
+          "perimeter_m": 4.14,
+          "compactness": 0.647,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.88,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            15.6,
+            237.6
+          ],
+          "centroid_geo": [
+            77.209013,
+            28.613729
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0052",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                332.0,
+                295.0
+              ],
+              [
+                316.0,
+                295.0
+              ],
+              [
+                315.0,
+                301.0
+              ],
+              [
+                318.0,
+                305.0
+              ],
+              [
+                331.0,
+                302.0
+              ],
+              [
+                332.0,
+                295.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0052",
+          "numeric_id": 52,
+          "area_sqm": 0.86,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.03,
+          "perimeter_m": 3.8,
+          "compactness": 0.752,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            323.2,
+            299.3
+          ],
+          "centroid_geo": [
+            77.209265,
+            28.613685
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0038",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                201.0,
+                233.0
+              ],
+              [
+                204.0,
+                246.0
+              ],
+              [
+                220.0,
+                244.0
+              ],
+              [
+                209.0,
+                238.0
+              ],
+              [
+                207.0,
+                233.0
+              ],
+              [
+                201.0,
+                233.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0038",
+          "numeric_id": 38,
+          "area_sqm": 0.76,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.91,
+          "perimeter_m": 4.27,
+          "compactness": 0.523,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.85,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            207.9,
+            240.3
+          ],
+          "centroid_geo": [
+            77.20917,
+            28.613727
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0062",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                302.0,
+                378.0
+              ],
+              [
+                290.0,
+                379.0
+              ],
+              [
+                289.0,
+                386.0
+              ],
+              [
+                294.0,
+                390.0
+              ],
+              [
+                302.0,
+                390.0
+              ],
+              [
+                302.0,
+                378.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0062",
+          "numeric_id": 62,
+          "area_sqm": 0.87,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.04,
+          "perimeter_m": 3.64,
+          "compactness": 0.822,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.91,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            296.1,
+            384.0
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613624
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0006",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                194.0,
+                25.0
+              ],
+              [
+                190.0,
+                37.0
+              ],
+              [
+                211.0,
+                35.0
+              ],
+              [
+                211.0,
+                32.0
+              ],
+              [
+                204.0,
+                33.0
+              ],
+              [
+                194.0,
+                25.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0006",
+          "numeric_id": 6,
+          "area_sqm": 0.73,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.88,
+          "perimeter_m": 4.53,
+          "compactness": 0.449,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.84,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            198.5,
+            32.6
+          ],
+          "centroid_geo": [
+            77.209163,
+            28.613877
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0044",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                231.0,
+                255.0
+              ],
+              [
+                224.0,
+                260.0
+              ],
+              [
+                215.0,
+                260.0
+              ],
+              [
+                211.0,
+                257.0
+              ],
+              [
+                209.0,
+                263.0
+              ],
+              [
+                221.0,
+                262.0
+              ],
+              [
+                230.0,
+                268.0
+              ],
+              [
+                231.0,
+                255.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0044",
+          "numeric_id": 44,
+          "area_sqm": 0.64,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.77,
+          "perimeter_m": 5.19,
+          "compactness": 0.299,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            222.5,
+            261.3
+          ],
+          "centroid_geo": [
+            77.209182,
+            28.613712
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0048",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                131.0,
+                267.0
+              ],
+              [
+                131.0,
+                273.0
+              ],
+              [
+                149.0,
+                274.0
+              ],
+              [
+                149.0,
+                268.0
+              ],
+              [
+                131.0,
+                267.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0048",
+          "numeric_id": 48,
+          "area_sqm": 0.69,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.83,
+          "perimeter_m": 3.84,
+          "compactness": 0.588,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.87,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            140.0,
+            270.5
+          ],
+          "centroid_geo": [
+            77.209115,
+            28.613706
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0017",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                369.0,
+                104.0
+              ],
+              [
+                367.0,
+                114.0
+              ],
+              [
+                373.0,
+                118.0
+              ],
+              [
+                376.0,
+                104.0
+              ],
+              [
+                369.0,
+                104.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0017",
+          "numeric_id": 17,
+          "area_sqm": 0.53,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.64,
+          "perimeter_m": 3.1,
+          "compactness": 0.695,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.89,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            371.4,
+            110.0
+          ],
+          "centroid_geo": [
+            77.209304,
+            28.613821
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0054",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                285.0,
+                321.0
+              ],
+              [
+                290.0,
+                337.0
+              ],
+              [
+                293.0,
+                333.0
+              ],
+              [
+                299.0,
+                333.0
+              ],
+              [
+                294.0,
+                322.0
+              ],
+              [
+                285.0,
+                321.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0054",
+          "numeric_id": 54,
+          "area_sqm": 0.75,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.9,
+          "perimeter_m": 3.91,
+          "compactness": 0.615,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.87,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            291.6,
+            327.9
+          ],
+          "centroid_geo": [
+            77.209239,
+            28.613664
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0056",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                178.0,
+                325.0
+              ],
+              [
+                173.0,
+                334.0
+              ],
+              [
+                187.0,
+                334.0
+              ],
+              [
+                188.0,
+                326.0
+              ],
+              [
+                178.0,
+                325.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0056",
+          "numeric_id": 56,
+          "area_sqm": 0.66,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.79,
+          "perimeter_m": 3.39,
+          "compactness": 0.723,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.89,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            181.3,
+            330.0
+          ],
+          "centroid_geo": [
+            77.209148,
+            28.613663
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0059",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                305.0,
+                364.0
+              ],
+              [
+                310.0,
+                371.0
+              ],
+              [
+                323.0,
+                371.0
+              ],
+              [
+                321.0,
+                364.0
+              ],
+              [
+                305.0,
+                364.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0059",
+          "numeric_id": 59,
+          "area_sqm": 0.65,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.78,
+          "perimeter_m": 3.59,
+          "compactness": 0.633,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.88,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            314.7,
+            367.4
+          ],
+          "centroid_geo": [
+            77.209258,
+            28.613636
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0051",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                211.0,
+                290.0
+              ],
+              [
+                196.0,
+                292.0
+              ],
+              [
+                196.0,
+                297.0
+              ],
+              [
+                212.0,
+                297.0
+              ],
+              [
+                211.0,
+                290.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0051",
+          "numeric_id": 51,
+          "area_sqm": 0.6,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.72,
+          "perimeter_m": 3.46,
+          "compactness": 0.629,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.88,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            204.2,
+            294.0
+          ],
+          "centroid_geo": [
+            77.209167,
+            28.613689
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0046",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                167.0,
+                257.0
+              ],
+              [
+                160.0,
+                260.0
+              ],
+              [
+                158.0,
+                270.0
+              ],
+              [
+                166.0,
+                267.0
+              ],
+              [
+                169.0,
+                262.0
+              ],
+              [
+                167.0,
+                257.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0046",
+          "numeric_id": 46,
+          "area_sqm": 0.53,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.64,
+          "perimeter_m": 3.01,
+          "compactness": 0.739,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            163.4,
+            263.4
+          ],
+          "centroid_geo": [
+            77.209134,
+            28.613711
+          ],
+          "feature_type": "parcel"
+        }
+      }
+    ]
+  },
+  "geojson_wgs84": {
+    "type": "FeatureCollection",
+    "name": "Cadastral_Features_Paridhi",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "id": "P-0012",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209007,
+                28.613863
+              ],
+              [
+                77.209007,
+                28.613842
+              ],
+              [
+                77.209016,
+                28.613833
+              ],
+              [
+                77.209034,
+                28.613845
+              ],
+              [
+                77.20904,
+                28.613843
+              ],
+              [
+                77.209041,
+                28.613845
+              ],
+              [
+                77.209029,
+                28.613846
+              ],
+              [
+                77.209025,
+                28.613849
+              ],
+              [
+                77.209025,
+                28.613855
+              ],
+              [
+                77.209029,
+                28.613858
+              ],
+              [
+                77.209029,
+                28.61386
+              ],
+              [
+                77.209007,
+                28.613863
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0012",
+          "numeric_id": 12,
+          "area_sqm": 5.85,
+          "area_hectares": 0.0006,
+          "area_acres": 0.0014,
+          "area_gaj": 7.0,
+          "perimeter_m": 11.98,
+          "compactness": 0.512,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Residential",
+          "confidence": 0.85,
+          "verification_status": "Verified",
+          "centroid_px": [
+            21.7,
+            71.1
+          ],
+          "centroid_geo": [
+            77.209018,
+            28.613849
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0063",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209377,
+                28.613628
+              ],
+              [
+                77.209361,
+                28.613627
+              ],
+              [
+                77.209359,
+                28.613616
+              ],
+              [
+                77.209356,
+                28.613614
+              ],
+              [
+                77.209358,
+                28.613612
+              ],
+              [
+                77.209362,
+                28.613613
+              ],
+              [
+                77.209369,
+                28.613607
+              ],
+              [
+                77.209382,
+                28.613608
+              ],
+              [
+                77.209386,
+                28.613615
+              ],
+              [
+                77.209387,
+                28.613625
+              ],
+              [
+                77.209381,
+                28.613625
+              ],
+              [
+                77.209377,
+                28.613628
+              ]
+            ],
+            [
+              [
+                77.209381,
+                28.61362
+              ],
+              [
+                77.209386,
+                28.613618
+              ],
+              [
+                77.209384,
+                28.613614
+              ],
+              [
+                77.209379,
+                28.613615
+              ],
+              [
+                77.209381,
+                28.61362
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0063",
+          "numeric_id": 63,
+          "area_sqm": 5.08,
+          "area_hectares": 0.0005,
+          "area_acres": 0.0013,
+          "area_gaj": 6.07,
+          "perimeter_m": 11.29,
+          "compactness": 0.5,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.85,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            455.0,
+            392.7
+          ],
+          "centroid_geo": [
+            77.209372,
+            28.613618
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0010",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209154,
+                28.613866
+              ],
+              [
+                77.209156,
+                28.613863
+              ],
+              [
+                77.209162,
+                28.613863
+              ],
+              [
+                77.209164,
+                28.613858
+              ],
+              [
+                77.209151,
+                28.613858
+              ],
+              [
+                77.20915,
+                28.613851
+              ],
+              [
+                77.209163,
+                28.613847
+              ],
+              [
+                77.209161,
+                28.613843
+              ],
+              [
+                77.209151,
+                28.613843
+              ],
+              [
+                77.209152,
+                28.613837
+              ],
+              [
+                77.20917,
+                28.613837
+              ],
+              [
+                77.209169,
+                28.613866
+              ],
+              [
+                77.209154,
+                28.613866
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0010",
+          "numeric_id": 10,
+          "area_sqm": 4.4,
+          "area_hectares": 0.0004,
+          "area_acres": 0.0011,
+          "area_gaj": 5.27,
+          "perimeter_m": 13.5,
+          "compactness": 0.304,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            197.8,
+            67.8
+          ],
+          "centroid_geo": [
+            77.209162,
+            28.613851
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0022",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209368,
+                28.613813
+              ],
+              [
+                77.209363,
+                28.613808
+              ],
+              [
+                77.209364,
+                28.613798
+              ],
+              [
+                77.209383,
+                28.613798
+              ],
+              [
+                77.209385,
+                28.6138
+              ],
+              [
+                77.209404,
+                28.613799
+              ],
+              [
+                77.209395,
+                28.613801
+              ],
+              [
+                77.209391,
+                28.613804
+              ],
+              [
+                77.209383,
+                28.613807
+              ],
+              [
+                77.209372,
+                28.613806
+              ],
+              [
+                77.209368,
+                28.613813
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0022",
+          "numeric_id": 22,
+          "area_sqm": 2.84,
+          "area_hectares": 0.0003,
+          "area_acres": 0.0007,
+          "area_gaj": 3.39,
+          "perimeter_m": 10.26,
+          "compactness": 0.339,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.82,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            460.4,
+            135.0
+          ],
+          "centroid_geo": [
+            77.209377,
+            28.613803
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0058",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209418,
+                28.613641
+              ],
+              [
+                77.209402,
+                28.613641
+              ],
+              [
+                77.2094,
+                28.613625
+              ],
+              [
+                77.209418,
+                28.613625
+              ],
+              [
+                77.209413,
+                28.613628
+              ],
+              [
+                77.209413,
+                28.613636
+              ],
+              [
+                77.209418,
+                28.613637
+              ],
+              [
+                77.209418,
+                28.613641
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0058",
+          "numeric_id": 58,
+          "area_sqm": 2.28,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0006,
+          "area_gaj": 2.72,
+          "perimeter_m": 7.33,
+          "compactness": 0.532,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.86,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            498.5,
+            371.1
+          ],
+          "centroid_geo": [
+            77.209408,
+            28.613633
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0001",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209086,
+                28.613899
+              ],
+              [
+                77.209086,
+                28.613893
+              ],
+              [
+                77.209091,
+                28.61389
+              ],
+              [
+                77.209093,
+                28.613881
+              ],
+              [
+                77.209092,
+                28.613856
+              ],
+              [
+                77.209097,
+                28.613856
+              ],
+              [
+                77.209097,
+                28.613864
+              ],
+              [
+                77.209093,
+                28.613866
+              ],
+              [
+                77.209093,
+                28.613868
+              ],
+              [
+                77.209096,
+                28.613872
+              ],
+              [
+                77.209097,
+                28.613884
+              ],
+              [
+                77.2091,
+                28.613886
+              ],
+              [
+                77.209095,
+                28.613893
+              ],
+              [
+                77.20909,
+                28.613894
+              ],
+              [
+                77.209088,
+                28.613899
+              ],
+              [
+                77.209086,
+                28.613899
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0001",
+          "numeric_id": 1,
+          "area_sqm": 2.1,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0005,
+          "area_gaj": 2.51,
+          "perimeter_m": 11.62,
+          "compactness": 0.196,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.79,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            114.0,
+            29.0
+          ],
+          "centroid_geo": [
+            77.209093,
+            28.613879
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0020",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209255,
+                28.61382
+              ],
+              [
+                77.209254,
+                28.613804
+              ],
+              [
+                77.209265,
+                28.613804
+              ],
+              [
+                77.209264,
+                28.613817
+              ],
+              [
+                77.209255,
+                28.61382
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0020",
+          "numeric_id": 20,
+          "area_sqm": 1.64,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0004,
+          "area_gaj": 1.97,
+          "perimeter_m": 5.32,
+          "compactness": 0.73,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            317.1,
+            124.1
+          ],
+          "centroid_geo": [
+            77.20926,
+            28.613811
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0015",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209238,
+                28.613832
+              ],
+              [
+                77.209236,
+                28.61382
+              ],
+              [
+                77.209246,
+                28.61382
+              ],
+              [
+                77.20925,
+                28.61383
+              ],
+              [
+                77.209238,
+                28.613832
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0015",
+          "numeric_id": 15,
+          "area_sqm": 1.36,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.62,
+          "perimeter_m": 4.74,
+          "compactness": 0.76,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            295.9,
+            103.7
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613825
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0067",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209178,
+                28.613605
+              ],
+              [
+                77.209152,
+                28.613604
+              ],
+              [
+                77.209153,
+                28.6136
+              ],
+              [
+                77.209172,
+                28.6136
+              ],
+              [
+                77.209174,
+                28.613597
+              ],
+              [
+                77.209178,
+                28.613597
+              ],
+              [
+                77.209178,
+                28.613605
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0067",
+          "numeric_id": 67,
+          "area_sqm": 1.36,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.62,
+          "perimeter_m": 6.45,
+          "compactness": 0.409,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.83,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            204.2,
+            414.5
+          ],
+          "centroid_geo": [
+            77.209167,
+            28.613602
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0026",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.20913,
+                28.613789
+              ],
+              [
+                77.209135,
+                28.613781
+              ],
+              [
+                77.209165,
+                28.613781
+              ],
+              [
+                77.209161,
+                28.613788
+              ],
+              [
+                77.209159,
+                28.613785
+              ],
+              [
+                77.209154,
+                28.613785
+              ],
+              [
+                77.209141,
+                28.613786
+              ],
+              [
+                77.20913,
+                28.613789
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0026",
+          "numeric_id": 26,
+          "area_sqm": 1.5,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0004,
+          "area_gaj": 1.79,
+          "perimeter_m": 7.95,
+          "compactness": 0.299,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            179.7,
+            161.5
+          ],
+          "centroid_geo": [
+            77.209147,
+            28.613784
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0030",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209394,
+                28.613774
+              ],
+              [
+                77.209393,
+                28.613764
+              ],
+              [
+                77.20939,
+                28.613763
+              ],
+              [
+                77.209391,
+                28.613743
+              ],
+              [
+                77.209395,
+                28.613743
+              ],
+              [
+                77.209398,
+                28.613771
+              ],
+              [
+                77.209397,
+                28.613774
+              ],
+              [
+                77.209394,
+                28.613774
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0030",
+          "numeric_id": 30,
+          "area_sqm": 1.64,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0004,
+          "area_gaj": 1.96,
+          "perimeter_m": 7.6,
+          "compactness": 0.357,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.82,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            481.4,
+            197.4
+          ],
+          "centroid_geo": [
+            77.209394,
+            28.613758
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0031",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209254,
+                28.613771
+              ],
+              [
+                77.209253,
+                28.613764
+              ],
+              [
+                77.209245,
+                28.613764
+              ],
+              [
+                77.209243,
+                28.613769
+              ],
+              [
+                77.209238,
+                28.61377
+              ],
+              [
+                77.209238,
+                28.613763
+              ],
+              [
+                77.209247,
+                28.613761
+              ],
+              [
+                77.209249,
+                28.613763
+              ],
+              [
+                77.209264,
+                28.613763
+              ],
+              [
+                77.209265,
+                28.61377
+              ],
+              [
+                77.209254,
+                28.613771
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0031",
+          "numeric_id": 31,
+          "area_sqm": 1.47,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0004,
+          "area_gaj": 1.75,
+          "perimeter_m": 7.94,
+          "compactness": 0.292,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            308.1,
+            186.3
+          ],
+          "centroid_geo": [
+            77.209252,
+            28.613766
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0014",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209098,
+                28.613838
+              ],
+              [
+                77.209099,
+                28.613831
+              ],
+              [
+                77.209105,
+                28.613831
+              ],
+              [
+                77.209106,
+                28.613828
+              ],
+              [
+                77.209111,
+                28.613829
+              ],
+              [
+                77.209111,
+                28.613838
+              ],
+              [
+                77.209098,
+                28.613838
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0014",
+          "numeric_id": 14,
+          "area_sqm": 1.07,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.27,
+          "perimeter_m": 4.37,
+          "compactness": 0.701,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.89,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            128.3,
+            91.8
+          ],
+          "centroid_geo": [
+            77.209105,
+            28.613834
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0068",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209242,
+                28.613599
+              ],
+              [
+                77.209235,
+                28.613596
+              ],
+              [
+                77.209235,
+                28.613591
+              ],
+              [
+                77.209248,
+                28.613591
+              ],
+              [
+                77.20925,
+                28.613598
+              ],
+              [
+                77.209242,
+                28.613599
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0068",
+          "numeric_id": 68,
+          "area_sqm": 1.06,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.27,
+          "perimeter_m": 4.17,
+          "compactness": 0.766,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            296.0,
+            425.0
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613595
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0070",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209237,
+                28.613585
+              ],
+              [
+                77.209237,
+                28.613574
+              ],
+              [
+                77.209244,
+                28.613574
+              ],
+              [
+                77.209248,
+                28.613572
+              ],
+              [
+                77.209246,
+                28.61358
+              ],
+              [
+                77.209237,
+                28.613585
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0070",
+          "numeric_id": 70,
+          "area_sqm": 0.96,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.15,
+          "perimeter_m": 4.41,
+          "compactness": 0.622,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.87,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            295.1,
+            447.7
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613578
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0029",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209376,
+                28.613774
+              ],
+              [
+                77.209372,
+                28.613771
+              ],
+              [
+                77.209373,
+                28.613766
+              ],
+              [
+                77.209378,
+                28.613766
+              ],
+              [
+                77.209381,
+                28.613762
+              ],
+              [
+                77.209385,
+                28.613774
+              ],
+              [
+                77.209376,
+                28.613774
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0029",
+          "numeric_id": 29,
+          "area_sqm": 1.0,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.19,
+          "perimeter_m": 4.36,
+          "compactness": 0.657,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.88,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            462.5,
+            181.6
+          ],
+          "centroid_geo": [
+            77.209379,
+            28.61377
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0040",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209113,
+                28.613728
+              ],
+              [
+                77.209111,
+                28.613721
+              ],
+              [
+                77.209107,
+                28.61372
+              ],
+              [
+                77.209105,
+                28.613714
+              ],
+              [
+                77.209111,
+                28.613716
+              ],
+              [
+                77.209113,
+                28.613719
+              ],
+              [
+                77.20912,
+                28.61372
+              ],
+              [
+                77.209122,
+                28.613724
+              ],
+              [
+                77.209113,
+                28.613728
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0040",
+          "numeric_id": 40,
+          "area_sqm": 1.03,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.24,
+          "perimeter_m": 5.04,
+          "compactness": 0.512,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.85,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            138.9,
+            249.0
+          ],
+          "centroid_geo": [
+            77.209114,
+            28.613721
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0023",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209244,
+                28.613812
+              ],
+              [
+                77.209242,
+                28.61381
+              ],
+              [
+                77.209238,
+                28.613811
+              ],
+              [
+                77.209238,
+                28.613801
+              ],
+              [
+                77.209246,
+                28.613801
+              ],
+              [
+                77.209246,
+                28.613811
+              ],
+              [
+                77.209244,
+                28.613812
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0023",
+          "numeric_id": 23,
+          "area_sqm": 0.91,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.08,
+          "perimeter_m": 4.02,
+          "compactness": 0.703,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.89,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            296.1,
+            130.9
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613806
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0013",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209137,
+                28.613849
+              ],
+              [
+                77.209127,
+                28.613848
+              ],
+              [
+                77.209127,
+                28.613845
+              ],
+              [
+                77.209131,
+                28.613843
+              ],
+              [
+                77.20915,
+                28.613844
+              ],
+              [
+                77.209144,
+                28.613846
+              ],
+              [
+                77.209139,
+                28.613845
+              ],
+              [
+                77.209137,
+                28.613849
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0013",
+          "numeric_id": 13,
+          "area_sqm": 0.78,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.93,
+          "perimeter_m": 5.24,
+          "compactness": 0.355,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.82,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            165.3,
+            75.5
+          ],
+          "centroid_geo": [
+            77.209135,
+            28.613846
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0037",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209012,
+                28.613735
+              ],
+              [
+                77.209012,
+                28.613733
+              ],
+              [
+                77.209007,
+                28.61373
+              ],
+              [
+                77.209007,
+                28.613723
+              ],
+              [
+                77.209019,
+                28.613728
+              ],
+              [
+                77.209019,
+                28.613733
+              ],
+              [
+                77.209012,
+                28.613735
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0037",
+          "numeric_id": 37,
+          "area_sqm": 0.88,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.06,
+          "perimeter_m": 4.14,
+          "compactness": 0.647,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.88,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            15.6,
+            237.6
+          ],
+          "centroid_geo": [
+            77.209013,
+            28.613729
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0052",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209272,
+                28.613688
+              ],
+              [
+                77.209259,
+                28.613688
+              ],
+              [
+                77.209258,
+                28.613684
+              ],
+              [
+                77.20926,
+                28.613681
+              ],
+              [
+                77.209271,
+                28.613683
+              ],
+              [
+                77.209272,
+                28.613688
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0052",
+          "numeric_id": 52,
+          "area_sqm": 0.86,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.03,
+          "perimeter_m": 3.8,
+          "compactness": 0.752,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            323.2,
+            299.3
+          ],
+          "centroid_geo": [
+            77.209265,
+            28.613685
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0038",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209165,
+                28.613733
+              ],
+              [
+                77.209167,
+                28.613723
+              ],
+              [
+                77.20918,
+                28.613725
+              ],
+              [
+                77.209171,
+                28.613729
+              ],
+              [
+                77.209169,
+                28.613733
+              ],
+              [
+                77.209165,
+                28.613733
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0038",
+          "numeric_id": 38,
+          "area_sqm": 0.76,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.91,
+          "perimeter_m": 4.27,
+          "compactness": 0.523,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.85,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            207.9,
+            240.3
+          ],
+          "centroid_geo": [
+            77.20917,
+            28.613727
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0062",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209247,
+                28.613628
+              ],
+              [
+                77.209237,
+                28.613628
+              ],
+              [
+                77.209237,
+                28.613623
+              ],
+              [
+                77.209241,
+                28.61362
+              ],
+              [
+                77.209247,
+                28.61362
+              ],
+              [
+                77.209247,
+                28.613628
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0062",
+          "numeric_id": 62,
+          "area_sqm": 0.87,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.04,
+          "perimeter_m": 3.64,
+          "compactness": 0.822,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.91,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            296.1,
+            384.0
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613624
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0006",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209159,
+                28.613882
+              ],
+              [
+                77.209156,
+                28.613873
+              ],
+              [
+                77.209173,
+                28.613875
+              ],
+              [
+                77.209173,
+                28.613877
+              ],
+              [
+                77.209167,
+                28.613876
+              ],
+              [
+                77.209159,
+                28.613882
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0006",
+          "numeric_id": 6,
+          "area_sqm": 0.73,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.88,
+          "perimeter_m": 4.53,
+          "compactness": 0.449,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.84,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            198.5,
+            32.6
+          ],
+          "centroid_geo": [
+            77.209163,
+            28.613877
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0044",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209189,
+                28.613717
+              ],
+              [
+                77.209183,
+                28.613713
+              ],
+              [
+                77.209176,
+                28.613713
+              ],
+              [
+                77.209173,
+                28.613715
+              ],
+              [
+                77.209171,
+                28.613711
+              ],
+              [
+                77.209181,
+                28.613712
+              ],
+              [
+                77.209188,
+                28.613707
+              ],
+              [
+                77.209189,
+                28.613717
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0044",
+          "numeric_id": 44,
+          "area_sqm": 0.64,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.77,
+          "perimeter_m": 5.19,
+          "compactness": 0.299,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            222.5,
+            261.3
+          ],
+          "centroid_geo": [
+            77.209182,
+            28.613712
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0048",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209107,
+                28.613708
+              ],
+              [
+                77.209107,
+                28.613704
+              ],
+              [
+                77.209122,
+                28.613703
+              ],
+              [
+                77.209122,
+                28.613707
+              ],
+              [
+                77.209107,
+                28.613708
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0048",
+          "numeric_id": 48,
+          "area_sqm": 0.69,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.83,
+          "perimeter_m": 3.84,
+          "compactness": 0.588,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.87,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            140.0,
+            270.5
+          ],
+          "centroid_geo": [
+            77.209115,
+            28.613706
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0017",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209302,
+                28.613825
+              ],
+              [
+                77.2093,
+                28.613818
+              ],
+              [
+                77.209305,
+                28.613815
+              ],
+              [
+                77.209308,
+                28.613825
+              ],
+              [
+                77.209302,
+                28.613825
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0017",
+          "numeric_id": 17,
+          "area_sqm": 0.53,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.64,
+          "perimeter_m": 3.1,
+          "compactness": 0.695,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.89,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            371.4,
+            110.0
+          ],
+          "centroid_geo": [
+            77.209304,
+            28.613821
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0054",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209233,
+                28.613669
+              ],
+              [
+                77.209237,
+                28.613658
+              ],
+              [
+                77.20924,
+                28.613661
+              ],
+              [
+                77.209245,
+                28.613661
+              ],
+              [
+                77.209241,
+                28.613669
+              ],
+              [
+                77.209233,
+                28.613669
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0054",
+          "numeric_id": 54,
+          "area_sqm": 0.75,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.9,
+          "perimeter_m": 3.91,
+          "compactness": 0.615,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.87,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            291.6,
+            327.9
+          ],
+          "centroid_geo": [
+            77.209239,
+            28.613664
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0056",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209146,
+                28.613666
+              ],
+              [
+                77.209142,
+                28.61366
+              ],
+              [
+                77.209153,
+                28.61366
+              ],
+              [
+                77.209154,
+                28.613666
+              ],
+              [
+                77.209146,
+                28.613666
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0056",
+          "numeric_id": 56,
+          "area_sqm": 0.66,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.79,
+          "perimeter_m": 3.39,
+          "compactness": 0.723,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.89,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            181.3,
+            330.0
+          ],
+          "centroid_geo": [
+            77.209148,
+            28.613663
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0059",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.20925,
+                28.613638
+              ],
+              [
+                77.209254,
+                28.613633
+              ],
+              [
+                77.209264,
+                28.613633
+              ],
+              [
+                77.209263,
+                28.613638
+              ],
+              [
+                77.20925,
+                28.613638
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0059",
+          "numeric_id": 59,
+          "area_sqm": 0.65,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.78,
+          "perimeter_m": 3.59,
+          "compactness": 0.633,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.88,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            314.7,
+            367.4
+          ],
+          "centroid_geo": [
+            77.209258,
+            28.613636
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0051",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209173,
+                28.613692
+              ],
+              [
+                77.20916,
+                28.61369
+              ],
+              [
+                77.20916,
+                28.613687
+              ],
+              [
+                77.209174,
+                28.613687
+              ],
+              [
+                77.209173,
+                28.613692
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0051",
+          "numeric_id": 51,
+          "area_sqm": 0.6,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.72,
+          "perimeter_m": 3.46,
+          "compactness": 0.629,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.88,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            204.2,
+            294.0
+          ],
+          "centroid_geo": [
+            77.209167,
+            28.613689
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0046",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209137,
+                28.613715
+              ],
+              [
+                77.209131,
+                28.613713
+              ],
+              [
+                77.209129,
+                28.613706
+              ],
+              [
+                77.209136,
+                28.613708
+              ],
+              [
+                77.209138,
+                28.613712
+              ],
+              [
+                77.209137,
+                28.613715
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0046",
+          "numeric_id": 46,
+          "area_sqm": 0.53,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.64,
+          "perimeter_m": 3.01,
+          "compactness": 0.739,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            163.4,
+            263.4
+          ],
+          "centroid_geo": [
+            77.209134,
+            28.613711
+          ],
+          "feature_type": "parcel"
+        }
+      }
+    ]
+  }
+}

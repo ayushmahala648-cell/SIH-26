@@ -1,30 +1,285 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>SIH frontend</title>
-    <link rel ="stylesheet" href = "style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@100..900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudfare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-  </head>
-  <body>
-    <div class="nav-bar">
-        <div id="title">परिधि</div>
-        
-        <div class="nav-links">
-        <a id="home" href="index.html"   >Home</a>
-        <a id="new_analysis" href="new_analysis.html" class="active">New Analysis</a>
-        </div>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>परिधि — AI Urban Parcel Mapping & Cadastral Workspace</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+Devanagari:wght@100..900&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body class="analysis-body">
+
+  <!-- Main Top Navigation -->
+  <header class="nav-bar">
+    <div id="title">परिधि</div>
+    <div class="header-tagline">AI Cadastral Feature Extraction & Urban Parcel Mapping</div>
+    <div class="nav-links">
+      <a id="home" href="index.html">Home</a>
+      <a id="new_analysis" href="new_analysis.html" class="active">New Analysis</a>
+      <span class="api-status-badge" id="apiStatusBadge"><i class="fa-solid fa-circle-check"></i> AI Engine Ready</span>
     </div>
-    <script src="script.js"></script>
-    </body>
+  </header>
+
+  <!-- Workspace Top Action Bar -->
+  <section class="action-bar">
+    <div class="action-left">
+      <label for="imageSelector"><i class="fa-solid fa-satellite"></i> Active Image:</label>
+      <select id="imageSelector" class="custom-select">
+        <option value="aerialPhoto1.jpg.jpeg">Sample 1: Dense Urban (512x512)</option>
+        <option value="aerialPhoto2.jpg.jpeg">Sample 2: High-Res Orthomosaic (4K)</option>
+        <option value="aerialPhoto3.jpg.jpeg">Sample 3: Residential Grid (4K)</option>
+        <option value="aerialPhoto4.jpg.jpeg">Sample 4: Mixed Cadastral Zone (4K)</option>
+        <option value="aerialPhoto5.jpg.jpeg">Sample 5: Gigapixel Drone Survey (8K)</option>
+      </select>
+      <button id="btnRunAnalysis" class="btn-primary">
+        <i class="fa-solid fa-bolt"></i> <span id="btnRunText">Run AI Analysis</span>
+      </button>
+      <span id="analysisTimer" class="timer-badge" style="display:none;"><i class="fa-regular fa-clock"></i> <span id="timerVal">0.0s</span></span>
+    </div>
+
+    <div class="action-right">
+      <div class="export-group">
+        <button id="btnExportGeoJSON" class="btn-secondary" title="Export RFC 7946 GeoJSON FeatureCollection">
+          <i class="fa-solid fa-file-code"></i> Export GeoJSON
+        </button>
+        <button id="btnExportCSV" class="btn-secondary" title="Export Cadastral Land Record Register CSV">
+          <i class="fa-solid fa-table"></i> Export CSV Register
+        </button>
+        <button id="btnExportOverlay" class="btn-secondary" title="Download Full Annotated Overlay">
+          <i class="fa-solid fa-image"></i> Download Overlay
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Analysis Workspace -->
+  <main class="analysis-workspace">
+
+    <!-- Left Sidebar: Controls, Metrics & Layers -->
+    <aside class="analysis-sidebar">
+
+      <!-- Survey & Model Parameters Card -->
+      <div class="sidebar-card">
+        <div class="card-header">
+          <h3><i class="fa-solid fa-sliders"></i> Survey Parameters</h3>
+          <button id="toggleParamsBtn" class="icon-toggle" title="Collapse/Expand"><i class="fa-solid fa-chevron-up"></i></button>
+        </div>
+        <div class="card-content" id="paramsContent">
+          <div class="param-row">
+            <label for="gsdInput">Ground Sample Distance (GSD):</label>
+            <div class="input-unit-group">
+              <input type="number" id="gsdInput" value="0.08" step="0.01" min="0.01" max="1.5">
+              <span>m/px</span>
+            </div>
+          </div>
+          <div class="param-row">
+            <label for="simplifyTolInput">Boundary Smoothness (Tol):</label>
+            <div class="input-unit-group">
+              <input type="range" id="simplifyTolInput" min="0.5" max="6.0" step="0.5" value="2.0">
+              <span id="simplifyVal">2.0px</span>
+            </div>
+          </div>
+          <div class="param-row">
+            <label for="minAreaInput">Min Parcel Area:</label>
+            <div class="input-unit-group">
+              <input type="number" id="minAreaInput" value="100" min="20" step="10">
+              <span>px</span>
+            </div>
+          </div>
+          <div class="param-row-checkbox">
+            <input type="checkbox" id="snapOrthogonalCheck" checked>
+            <label for="snapOrthogonalCheck">Snap Orthogonal Building Corners</label>
+          </div>
+          <button id="btnApplyParams" class="btn-apply-params">
+            <i class="fa-solid fa-rotate"></i> Apply & Re-Analyze
+          </button>
+        </div>
+      </div>
+
+      <!-- Cadastral Summary Metrics Card -->
+      <div class="sidebar-card">
+        <div class="card-header">
+          <h3><i class="fa-solid fa-chart-pie"></i> Cadastral Summary</h3>
+        </div>
+        <div class="metrics-grid">
+          <div class="metric-box">
+            <div class="metric-icon parcel-icon"><i class="fa-solid fa-vector-square"></i></div>
+            <div class="metric-info">
+              <span class="metric-label">Parcels</span>
+              <span class="metric-value" id="valTotalParcels">0</span>
+            </div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-icon building-icon"><i class="fa-solid fa-building"></i></div>
+            <div class="metric-info">
+              <span class="metric-label">Buildings</span>
+              <span class="metric-value" id="valTotalBuildings">0</span>
+            </div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-icon area-icon"><i class="fa-solid fa-ruler-combined"></i></div>
+            <div class="metric-info">
+              <span class="metric-label">Surveyed Area</span>
+              <span class="metric-value" id="valTotalArea">0 m²</span>
+            </div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-icon builtup-icon"><i class="fa-solid fa-city"></i></div>
+            <div class="metric-info">
+              <span class="metric-label">Built-Up Density</span>
+              <span class="metric-value" id="valBuiltupPct">0%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- GIS Layer Controls Card -->
+      <div class="sidebar-card">
+        <div class="card-header">
+          <h3><i class="fa-solid fa-layer-group"></i> Cadastral Layers</h3>
+        </div>
+        <div class="layer-list">
+          <div class="layer-item">
+            <div class="layer-left">
+              <input type="checkbox" id="layerOrtho" checked>
+              <label for="layerOrtho"><i class="fa-solid fa-satellite"></i> Drone Orthomosaic</label>
+            </div>
+            <input type="range" id="orthoOpacity" min="0" max="1" step="0.05" value="1.0" class="opacity-slider" title="Ortho Opacity">
+          </div>
+
+          <div class="layer-item">
+            <div class="layer-left">
+              <input type="checkbox" id="layerParcels" checked>
+              <span class="color-badge badge-parcel"></span>
+              <label for="layerParcels">Parcel Boundaries</label>
+            </div>
+            <input type="range" id="parcelOpacity" min="0" max="1" step="0.05" value="0.75" class="opacity-slider" title="Parcel Opacity">
+          </div>
+
+          <div class="layer-item">
+            <div class="layer-left">
+              <input type="checkbox" id="layerBuildings" checked>
+              <span class="color-badge badge-building"></span>
+              <label for="layerBuildings">Building Footprints</label>
+            </div>
+          </div>
+
+          <div class="layer-item">
+            <div class="layer-left">
+              <input type="checkbox" id="layerRoads" checked>
+              <span class="color-badge badge-road"></span>
+              <label for="layerRoads">Roads & Access Paths</label>
+            </div>
+          </div>
+
+          <div class="layer-item">
+            <div class="layer-left">
+              <input type="checkbox" id="layerLabels" checked>
+              <label for="layerLabels"><i class="fa-solid fa-tag"></i> Parcel ID Labels</label>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- Center/Right: Interactive GIS Viewport & Property Register -->
+    <div class="analysis-main-panel">
+
+      <!-- Interactive GIS Viewport Window -->
+      <div class="viewport-card">
+        <div class="viewport-toolbar">
+          <div class="toolbar-title">
+            <i class="fa-solid fa-map-location-dot"></i> Interactive Cadastral Map Viewport
+            <span id="viewportHoverInfo" class="hover-info-badge">Pan: Click & Drag | Zoom: Scroll Wheel</span>
+          </div>
+          <div class="toolbar-controls">
+            <button id="btnZoomIn" class="btn-tool" title="Zoom In"><i class="fa-solid fa-plus"></i></button>
+            <button id="btnZoomOut" class="btn-tool" title="Zoom Out"><i class="fa-solid fa-minus"></i></button>
+            <button id="btnResetZoom" class="btn-tool" title="Reset Center"><i class="fa-solid fa-arrows-to-dot"></i></button>
+            <button id="btnToggleOverlay" class="btn-tool" title="Toggle AI Annotated View"><i class="fa-solid fa-wand-magic-sparkles"></i> AI Overlay</button>
+          </div>
+        </div>
+
+        <!-- Canvas Map Container -->
+        <div class="canvas-container" id="canvasContainer">
+          <canvas id="gisCanvas"></canvas>
+          <div id="canvasTooltip" class="canvas-tooltip"></div>
+          
+          <!-- Loading Overlay -->
+          <div id="processingOverlay" class="processing-overlay" style="display:none;">
+            <div class="spinner"></div>
+            <div class="overlay-text">Running AI Cadastral Inference...</div>
+            <div class="overlay-sub">Applying CLAHE, Deep Segmentation, and Marker-Controlled Watershed</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Cadastral Land Record Register Table -->
+      <div class="register-card">
+        <div class="register-header">
+          <div class="register-title-group">
+            <h3><i class="fa-solid fa-book-bookmark"></i> Cadastral Land Record Register (खसरा / भू-अभिलेख सूची)</h3>
+            <span class="badge-count" id="badgeParcelCount">0 Parcels</span>
+          </div>
+
+          <div class="register-controls">
+            <div class="search-input-group">
+              <i class="fa-solid fa-magnifying-glass"></i>
+              <input type="text" id="parcelSearch" placeholder="Search Parcel ID or Land Use...">
+            </div>
+
+            <select id="statusFilter" class="custom-select-small">
+              <option value="ALL">All Statuses</option>
+              <option value="Verified">Verified ✅</option>
+              <option value="Pending Review">Pending Review ⏳</option>
+              <option value="Disputed">Disputed ⚠️</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="table-scroll-container">
+          <table class="cadastral-table" id="cadastralTable">
+            <thead>
+              <tr>
+                <th>Parcel ID</th>
+                <th>Land Use</th>
+                <th>Area (m²)</th>
+                <th>Area (गज / Sq.Yd)</th>
+                <th>Perimeter (m)</th>
+                <th>Built-Up %</th>
+                <th>Confidence</th>
+                <th>Verification Status</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="cadastralTableBody">
+              <tr>
+                <td colspan="9" class="empty-table-msg">Click "Run AI Analysis" or select an aerial image to extract cadastral parcels.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+
+  </main>
+
+  <!-- Parcel Detail Inspector Modal / Drawer -->
+  <div class="inspector-drawer" id="parcelInspector">
+    <div class="inspector-header">
+      <h3 id="inspParcelId">Parcel Details</h3>
+      <button id="closeInspectorBtn" class="close-btn">&times;</button>
+    </div>
+    <div class="inspector-body" id="inspectorBody">
+      <!-- Dynamically filled by new_analysis.js -->
+    </div>
+  </div>
+
+  <script src="new_analysis.js"></script>
+</body>
+</html>

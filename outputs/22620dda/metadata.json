@@ -1,0 +1,5390 @@
+{
+  "success": true,
+  "summary": {
+    "analysis_id": "22620dda",
+    "image_name": "aerialPhoto1.jpg.jpeg",
+    "image_dims": [
+      512,
+      512
+    ],
+    "total_parcels": 20,
+    "total_buildings": 0,
+    "total_roads": 1,
+    "total_surveyed_area_sqm": 44.78,
+    "total_surveyed_hectares": 0.0045,
+    "total_builtup_sqm": 0.0,
+    "overall_builtup_pct": 0.0,
+    "gsd_meters": 0.08,
+    "processing_time_sec": 0.83,
+    "created_at": "2026-09-19 20:41:45"
+  },
+  "overlay_url": "/outputs/22620dda/cadastral_overlay.jpg",
+  "geojson_url": "/outputs/22620dda/cadastral_features.geojson",
+  "csv_url": "/outputs/22620dda/cadastral_register.csv",
+  "parcels": [
+    {
+      "parcel_id": "P-0009",
+      "numeric_id": 9,
+      "area_sqm": 17.51,
+      "area_hectares": 0.0018,
+      "area_acres": 0.0043,
+      "area_gaj": 20.94,
+      "perimeter_m": 26.8,
+      "compactness": 0.306,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.81,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        13.4,
+        108.2
+      ],
+      "centroid_geo": [
+        77.209011,
+        28.613822
+      ]
+    },
+    {
+      "parcel_id": "P-0015",
+      "numeric_id": 15,
+      "area_sqm": 5.66,
+      "area_hectares": 0.0006,
+      "area_acres": 0.0014,
+      "area_gaj": 6.77,
+      "perimeter_m": 11.62,
+      "compactness": 0.527,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.86,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        474.8,
+        130.8
+      ],
+      "centroid_geo": [
+        77.209389,
+        28.613806
+      ]
+    },
+    {
+      "parcel_id": "P-0003",
+      "numeric_id": 3,
+      "area_sqm": 3.08,
+      "area_hectares": 0.0003,
+      "area_acres": 0.0008,
+      "area_gaj": 3.69,
+      "perimeter_m": 11.03,
+      "compactness": 0.318,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.81,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        460.0,
+        23.2
+      ],
+      "centroid_geo": [
+        77.209377,
+        28.613883
+      ]
+    },
+    {
+      "parcel_id": "P-0024",
+      "numeric_id": 24,
+      "area_sqm": 2.18,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0005,
+      "area_gaj": 2.6,
+      "perimeter_m": 6.2,
+      "compactness": 0.711,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.89,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        453.3,
+        392.1
+      ],
+      "centroid_geo": [
+        77.209371,
+        28.613618
+      ]
+    },
+    {
+      "parcel_id": "P-0022",
+      "numeric_id": 22,
+      "area_sqm": 2.18,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0005,
+      "area_gaj": 2.61,
+      "perimeter_m": 5.94,
+      "compactness": 0.778,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.91,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        501.2,
+        371.7
+      ],
+      "centroid_geo": [
+        77.20941,
+        28.613633
+      ]
+    },
+    {
+      "parcel_id": "P-0023",
+      "numeric_id": 23,
+      "area_sqm": 1.9,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0005,
+      "area_gaj": 2.28,
+      "perimeter_m": 6.22,
+      "compactness": 0.619,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.87,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        51.2,
+        391.7
+      ],
+      "centroid_geo": [
+        77.209042,
+        28.613618
+      ]
+    },
+    {
+      "parcel_id": "P-0017",
+      "numeric_id": 17,
+      "area_sqm": 1.25,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.5,
+      "perimeter_m": 5.21,
+      "compactness": 0.579,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.87,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        379.8,
+        231.0
+      ],
+      "centroid_geo": [
+        77.209311,
+        28.613734
+      ]
+    },
+    {
+      "parcel_id": "P-0001",
+      "numeric_id": 1,
+      "area_sqm": 1.34,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.6,
+      "perimeter_m": 4.79,
+      "compactness": 0.732,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Residential",
+      "confidence": 0.9,
+      "verification_status": "Verified",
+      "centroid_px": [
+        76.7,
+        8.3
+      ],
+      "centroid_geo": [
+        77.209063,
+        28.613894
+      ]
+    },
+    {
+      "parcel_id": "P-0026",
+      "numeric_id": 26,
+      "area_sqm": 1.04,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.24,
+      "perimeter_m": 5.81,
+      "compactness": 0.387,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.83,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        62.9,
+        445.5
+      ],
+      "centroid_geo": [
+        77.209052,
+        28.61358
+      ]
+    },
+    {
+      "parcel_id": "P-0014",
+      "numeric_id": 14,
+      "area_sqm": 1.0,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.2,
+      "perimeter_m": 4.17,
+      "compactness": 0.727,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.9,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        317.7,
+        123.6
+      ],
+      "centroid_geo": [
+        77.20926,
+        28.613811
+      ]
+    },
+    {
+      "parcel_id": "P-0028",
+      "numeric_id": 28,
+      "area_sqm": 0.9,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.08,
+      "perimeter_m": 4.76,
+      "compactness": 0.498,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.85,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        47.4,
+        507.0
+      ],
+      "centroid_geo": [
+        77.209039,
+        28.613536
+      ]
+    },
+    {
+      "parcel_id": "P-0018",
+      "numeric_id": 18,
+      "area_sqm": 1.08,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.29,
+      "perimeter_m": 5.51,
+      "compactness": 0.447,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.84,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        11.1,
+        239.8
+      ],
+      "centroid_geo": [
+        77.209009,
+        28.613728
+      ]
+    },
+    {
+      "parcel_id": "P-0016",
+      "numeric_id": 16,
+      "area_sqm": 0.71,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.85,
+      "perimeter_m": 3.41,
+      "compactness": 0.773,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.9,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        183.2,
+        232.9
+      ],
+      "centroid_geo": [
+        77.20915,
+        28.613733
+      ]
+    },
+    {
+      "parcel_id": "P-0010",
+      "numeric_id": 10,
+      "area_sqm": 0.78,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.93,
+      "perimeter_m": 3.5,
+      "compactness": 0.799,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.91,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        296.3,
+        103.7
+      ],
+      "centroid_geo": [
+        77.209243,
+        28.613825
+      ]
+    },
+    {
+      "parcel_id": "P-0020",
+      "numeric_id": 20,
+      "area_sqm": 0.84,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.0,
+      "perimeter_m": 4.47,
+      "compactness": 0.525,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.86,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        477.8,
+        259.9
+      ],
+      "centroid_geo": [
+        77.209391,
+        28.613713
+      ]
+    },
+    {
+      "parcel_id": "P-0013",
+      "numeric_id": 13,
+      "area_sqm": 0.73,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.87,
+      "perimeter_m": 4.3,
+      "compactness": 0.496,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.85,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        129.0,
+        120.8
+      ],
+      "centroid_geo": [
+        77.209106,
+        28.613813
+      ]
+    },
+    {
+      "parcel_id": "P-0005",
+      "numeric_id": 5,
+      "area_sqm": 0.79,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.94,
+      "perimeter_m": 5.14,
+      "compactness": 0.375,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.82,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        114.9,
+        23.2
+      ],
+      "centroid_geo": [
+        77.209094,
+        28.613883
+      ]
+    },
+    {
+      "parcel_id": "P-0006",
+      "numeric_id": 6,
+      "area_sqm": 0.57,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0001,
+      "area_gaj": 0.68,
+      "perimeter_m": 3.27,
+      "compactness": 0.664,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.88,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        322.6,
+        25.8
+      ],
+      "centroid_geo": [
+        77.209264,
+        28.613881
+      ]
+    },
+    {
+      "parcel_id": "P-0008",
+      "numeric_id": 8,
+      "area_sqm": 0.66,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.79,
+      "perimeter_m": 3.28,
+      "compactness": 0.772,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.9,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        504.2,
+        51.6
+      ],
+      "centroid_geo": [
+        77.209413,
+        28.613863
+      ]
+    },
+    {
+      "parcel_id": "P-0027",
+      "numeric_id": 27,
+      "area_sqm": 0.58,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0001,
+      "area_gaj": 0.69,
+      "perimeter_m": 3.05,
+      "compactness": 0.779,
+      "builtup_area_sqm": 0.0,
+      "builtup_pct": 0.0,
+      "building_count": 0,
+      "land_use": "Vacant / Open Plot",
+      "confidence": 0.91,
+      "verification_status": "Pending Review",
+      "centroid_px": [
+        295.7,
+        446.3
+      ],
+      "centroid_geo": [
+        77.209242,
+        28.613579
+      ]
+    }
+  ],
+  "geojson_pixel": {
+    "type": "FeatureCollection",
+    "name": "Cadastral_Features_Paridhi",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "pixel"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "id": "P-0009",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                1.0,
+                48.0
+              ],
+              [
+                1.0,
+                179.0
+              ],
+              [
+                8.0,
+                176.0
+              ],
+              [
+                7.0,
+                163.0
+              ],
+              [
+                11.0,
+                158.0
+              ],
+              [
+                26.0,
+                158.0
+              ],
+              [
+                28.0,
+                153.0
+              ],
+              [
+                24.0,
+                148.0
+              ],
+              [
+                24.0,
+                140.0
+              ],
+              [
+                31.0,
+                134.0
+              ],
+              [
+                24.0,
+                110.0
+              ],
+              [
+                17.0,
+                105.0
+              ],
+              [
+                17.0,
+                98.0
+              ],
+              [
+                20.0,
+                90.0
+              ],
+              [
+                38.0,
+                77.0
+              ],
+              [
+                29.0,
+                72.0
+              ],
+              [
+                29.0,
+                62.0
+              ],
+              [
+                33.0,
+                57.0
+              ],
+              [
+                11.0,
+                56.0
+              ],
+              [
+                1.0,
+                48.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0009",
+          "numeric_id": 9,
+          "area_sqm": 17.51,
+          "area_hectares": 0.0018,
+          "area_acres": 0.0043,
+          "area_gaj": 20.94,
+          "perimeter_m": 26.8,
+          "compactness": 0.306,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            13.4,
+            108.2
+          ],
+          "centroid_geo": [
+            77.209011,
+            28.613822
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0015",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                504.0,
+                123.0
+              ],
+              [
+                447.0,
+                123.0
+              ],
+              [
+                445.0,
+                138.0
+              ],
+              [
+                502.0,
+                139.0
+              ],
+              [
+                504.0,
+                123.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0015",
+          "numeric_id": 15,
+          "area_sqm": 5.66,
+          "area_hectares": 0.0006,
+          "area_acres": 0.0014,
+          "area_gaj": 6.77,
+          "perimeter_m": 11.62,
+          "compactness": 0.527,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.86,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            474.8,
+            130.8
+          ],
+          "centroid_geo": [
+            77.209389,
+            28.613806
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0003",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                456.0,
+                1.0
+              ],
+              [
+                454.0,
+                41.0
+              ],
+              [
+                450.0,
+                51.0
+              ],
+              [
+                458.0,
+                51.0
+              ],
+              [
+                465.0,
+                36.0
+              ],
+              [
+                460.0,
+                33.0
+              ],
+              [
+                460.0,
+                25.0
+              ],
+              [
+                467.0,
+                20.0
+              ],
+              [
+                467.0,
+                9.0
+              ],
+              [
+                475.0,
+                3.0
+              ],
+              [
+                456.0,
+                1.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0003",
+          "numeric_id": 3,
+          "area_sqm": 3.08,
+          "area_hectares": 0.0003,
+          "area_acres": 0.0008,
+          "area_gaj": 3.69,
+          "perimeter_m": 11.03,
+          "compactness": 0.318,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            460.0,
+            23.2
+          ],
+          "centroid_geo": [
+            77.209377,
+            28.613883
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0024",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                445.0,
+                381.0
+              ],
+              [
+                442.0,
+                391.0
+              ],
+              [
+                448.0,
+                394.0
+              ],
+              [
+                450.0,
+                405.0
+              ],
+              [
+                460.0,
+                405.0
+              ],
+              [
+                462.0,
+                383.0
+              ],
+              [
+                445.0,
+                381.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0024",
+          "numeric_id": 24,
+          "area_sqm": 2.18,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0005,
+          "area_gaj": 2.6,
+          "perimeter_m": 6.2,
+          "compactness": 0.711,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.89,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            453.3,
+            392.1
+          ],
+          "centroid_geo": [
+            77.209371,
+            28.613618
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0022",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                510.0,
+                361.0
+              ],
+              [
+                493.0,
+                363.0
+              ],
+              [
+                491.0,
+                381.0
+              ],
+              [
+                510.0,
+                381.0
+              ],
+              [
+                510.0,
+                361.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0022",
+          "numeric_id": 22,
+          "area_sqm": 2.18,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0005,
+          "area_gaj": 2.61,
+          "perimeter_m": 5.94,
+          "compactness": 0.778,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.91,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            501.2,
+            371.7
+          ],
+          "centroid_geo": [
+            77.20941,
+            28.613633
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0023",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                50.0,
+                377.0
+              ],
+              [
+                45.0,
+                383.0
+              ],
+              [
+                44.0,
+                397.0
+              ],
+              [
+                52.0,
+                407.0
+              ],
+              [
+                56.0,
+                404.0
+              ],
+              [
+                57.0,
+                395.0
+              ],
+              [
+                62.0,
+                392.0
+              ],
+              [
+                55.0,
+                388.0
+              ],
+              [
+                55.0,
+                378.0
+              ],
+              [
+                50.0,
+                377.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0023",
+          "numeric_id": 23,
+          "area_sqm": 1.9,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0005,
+          "area_gaj": 2.28,
+          "perimeter_m": 6.22,
+          "compactness": 0.619,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.87,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            51.2,
+            391.7
+          ],
+          "centroid_geo": [
+            77.209042,
+            28.613618
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0017",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                392.0,
+                226.0
+              ],
+              [
+                367.0,
+                228.0
+              ],
+              [
+                367.0,
+                235.0
+              ],
+              [
+                391.0,
+                235.0
+              ],
+              [
+                392.0,
+                226.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0017",
+          "numeric_id": 17,
+          "area_sqm": 1.25,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.5,
+          "perimeter_m": 5.21,
+          "compactness": 0.579,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.87,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            379.8,
+            231.0
+          ],
+          "centroid_geo": [
+            77.209311,
+            28.613734
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0001",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                68.0,
+                1.0
+              ],
+              [
+                69.0,
+                10.0
+              ],
+              [
+                74.0,
+                13.0
+              ],
+              [
+                74.0,
+                17.0
+              ],
+              [
+                84.0,
+                17.0
+              ],
+              [
+                83.0,
+                1.0
+              ],
+              [
+                68.0,
+                1.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0001",
+          "numeric_id": 1,
+          "area_sqm": 1.34,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.6,
+          "perimeter_m": 4.79,
+          "compactness": 0.732,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Residential",
+          "confidence": 0.9,
+          "verification_status": "Verified",
+          "centroid_px": [
+            76.7,
+            8.3
+          ],
+          "centroid_geo": [
+            77.209063,
+            28.613894
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0026",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                66.0,
+                434.0
+              ],
+              [
+                66.0,
+                437.0
+              ],
+              [
+                59.0,
+                441.0
+              ],
+              [
+                56.0,
+                458.0
+              ],
+              [
+                63.0,
+                457.0
+              ],
+              [
+                64.0,
+                445.0
+              ],
+              [
+                70.0,
+                442.0
+              ],
+              [
+                70.0,
+                435.0
+              ],
+              [
+                73.0,
+                432.0
+              ],
+              [
+                66.0,
+                434.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0026",
+          "numeric_id": 26,
+          "area_sqm": 1.04,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.24,
+          "perimeter_m": 5.81,
+          "compactness": 0.387,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.83,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            62.9,
+            445.5
+          ],
+          "centroid_geo": [
+            77.209052,
+            28.61358
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0014",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                313.0,
+                115.0
+              ],
+              [
+                313.0,
+                132.0
+              ],
+              [
+                322.0,
+                132.0
+              ],
+              [
+                323.0,
+                116.0
+              ],
+              [
+                313.0,
+                115.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0014",
+          "numeric_id": 14,
+          "area_sqm": 1.0,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.2,
+          "perimeter_m": 4.17,
+          "compactness": 0.727,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            317.7,
+            123.6
+          ],
+          "centroid_geo": [
+            77.20926,
+            28.613811
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0028",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                58.0,
+                503.0
+              ],
+              [
+                36.0,
+                505.0
+              ],
+              [
+                34.0,
+                510.0
+              ],
+              [
+                59.0,
+                510.0
+              ],
+              [
+                58.0,
+                503.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0028",
+          "numeric_id": 28,
+          "area_sqm": 0.9,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.08,
+          "perimeter_m": 4.76,
+          "compactness": 0.498,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.85,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            47.4,
+            507.0
+          ],
+          "centroid_geo": [
+            77.209039,
+            28.613536
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0018",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                17.0,
+                231.0
+              ],
+              [
+                11.0,
+                239.0
+              ],
+              [
+                1.0,
+                236.0
+              ],
+              [
+                1.0,
+                246.0
+              ],
+              [
+                9.0,
+                247.0
+              ],
+              [
+                12.0,
+                241.0
+              ],
+              [
+                21.0,
+                243.0
+              ],
+              [
+                21.0,
+                233.0
+              ],
+              [
+                17.0,
+                231.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0018",
+          "numeric_id": 18,
+          "area_sqm": 1.08,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.29,
+          "perimeter_m": 5.51,
+          "compactness": 0.447,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.84,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            11.1,
+            239.8
+          ],
+          "centroid_geo": [
+            77.209009,
+            28.613728
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0016",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                184.0,
+                227.0
+              ],
+              [
+                177.0,
+                229.0
+              ],
+              [
+                175.0,
+                233.0
+              ],
+              [
+                188.0,
+                240.0
+              ],
+              [
+                190.0,
+                232.0
+              ],
+              [
+                184.0,
+                227.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0016",
+          "numeric_id": 16,
+          "area_sqm": 0.71,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.85,
+          "perimeter_m": 3.41,
+          "compactness": 0.773,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            183.2,
+            232.9
+          ],
+          "centroid_geo": [
+            77.20915,
+            28.613733
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0010",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                293.0,
+                97.0
+              ],
+              [
+                290.0,
+                110.0
+              ],
+              [
+                298.0,
+                110.0
+              ],
+              [
+                302.0,
+                105.0
+              ],
+              [
+                302.0,
+                98.0
+              ],
+              [
+                293.0,
+                97.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0010",
+          "numeric_id": 10,
+          "area_sqm": 0.78,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.93,
+          "perimeter_m": 3.5,
+          "compactness": 0.799,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.91,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            296.3,
+            103.7
+          ],
+          "centroid_geo": [
+            77.209243,
+            28.613825
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0020",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                467.0,
+                254.0
+              ],
+              [
+                469.0,
+                261.0
+              ],
+              [
+                477.0,
+                261.0
+              ],
+              [
+                480.0,
+                267.0
+              ],
+              [
+                484.0,
+                267.0
+              ],
+              [
+                487.0,
+                258.0
+              ],
+              [
+                467.0,
+                254.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0020",
+          "numeric_id": 20,
+          "area_sqm": 0.84,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.0,
+          "perimeter_m": 4.47,
+          "compactness": 0.525,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.86,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            477.8,
+            259.9
+          ],
+          "centroid_geo": [
+            77.209391,
+            28.613713
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0013",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                132.0,
+                112.0
+              ],
+              [
+                123.0,
+                114.0
+              ],
+              [
+                128.0,
+                125.0
+              ],
+              [
+                127.0,
+                133.0
+              ],
+              [
+                130.0,
+                133.0
+              ],
+              [
+                133.0,
+                120.0
+              ],
+              [
+                132.0,
+                112.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0013",
+          "numeric_id": 13,
+          "area_sqm": 0.73,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.87,
+          "perimeter_m": 4.3,
+          "compactness": 0.496,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.85,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            129.0,
+            120.8
+          ],
+          "centroid_geo": [
+            77.209106,
+            28.613813
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0005",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                112.0,
+                12.0
+              ],
+              [
+                112.0,
+                27.0
+              ],
+              [
+                114.0,
+                39.0
+              ],
+              [
+                118.0,
+                34.0
+              ],
+              [
+                115.0,
+                22.0
+              ],
+              [
+                120.0,
+                16.0
+              ],
+              [
+                118.0,
+                12.0
+              ],
+              [
+                112.0,
+                12.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0005",
+          "numeric_id": 5,
+          "area_sqm": 0.79,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.94,
+          "perimeter_m": 5.14,
+          "compactness": 0.375,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.82,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            114.9,
+            23.2
+          ],
+          "centroid_geo": [
+            77.209094,
+            28.613883
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0006",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                328.0,
+                19.0
+              ],
+              [
+                318.0,
+                24.0
+              ],
+              [
+                315.0,
+                30.0
+              ],
+              [
+                327.0,
+                30.0
+              ],
+              [
+                328.0,
+                19.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0006",
+          "numeric_id": 6,
+          "area_sqm": 0.57,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.68,
+          "perimeter_m": 3.27,
+          "compactness": 0.664,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.88,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            322.6,
+            25.8
+          ],
+          "centroid_geo": [
+            77.209264,
+            28.613881
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0008",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                499.0,
+                47.0
+              ],
+              [
+                498.0,
+                56.0
+              ],
+              [
+                510.0,
+                56.0
+              ],
+              [
+                510.0,
+                47.0
+              ],
+              [
+                499.0,
+                47.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0008",
+          "numeric_id": 8,
+          "area_sqm": 0.66,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.79,
+          "perimeter_m": 3.28,
+          "compactness": 0.772,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            504.2,
+            51.6
+          ],
+          "centroid_geo": [
+            77.209413,
+            28.613863
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0027",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                291.0,
+                441.0
+              ],
+              [
+                291.0,
+                451.0
+              ],
+              [
+                301.0,
+                451.0
+              ],
+              [
+                300.0,
+                442.0
+              ],
+              [
+                291.0,
+                441.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0027",
+          "numeric_id": 27,
+          "area_sqm": 0.58,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.69,
+          "perimeter_m": 3.05,
+          "compactness": 0.779,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.91,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            295.7,
+            446.3
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613579
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "R-0001",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              2.0,
+              0.0
+            ],
+            [
+              1.0,
+              2.0
+            ],
+            [
+              2.0,
+              23.0
+            ],
+            [
+              2.0,
+              28.0
+            ],
+            [
+              1.0,
+              45.0
+            ],
+            [
+              1.0,
+              79.0
+            ],
+            [
+              2.0,
+              91.0
+            ],
+            [
+              2.0,
+              93.0
+            ],
+            [
+              2.0,
+              120.0
+            ],
+            [
+              2.0,
+              122.0
+            ],
+            [
+              2.0,
+              201.0
+            ],
+            [
+              2.0,
+              248.0
+            ],
+            [
+              2.0,
+              250.0
+            ],
+            [
+              2.0,
+              266.0
+            ],
+            [
+              2.0,
+              278.0
+            ],
+            [
+              2.0,
+              297.0
+            ],
+            [
+              2.0,
+              347.0
+            ],
+            [
+              2.0,
+              349.0
+            ],
+            [
+              0.0,
+              430.0
+            ],
+            [
+              2.0,
+              432.0
+            ],
+            [
+              2.0,
+              476.0
+            ],
+            [
+              2.0,
+              486.0
+            ],
+            [
+              1.0,
+              494.0
+            ],
+            [
+              5.0,
+              495.0
+            ],
+            [
+              3.0,
+              497.0
+            ],
+            [
+              2.0,
+              496.0
+            ],
+            [
+              2.0,
+              500.0
+            ],
+            [
+              1.0,
+              503.0
+            ],
+            [
+              2.0,
+              505.0
+            ],
+            [
+              4.0,
+              507.0
+            ],
+            [
+              1.0,
+              509.0
+            ],
+            [
+              4.0,
+              510.0
+            ],
+            [
+              6.0,
+              510.0
+            ],
+            [
+              7.0,
+              508.0
+            ],
+            [
+              10.0,
+              505.0
+            ],
+            [
+              9.0,
+              501.0
+            ],
+            [
+              13.0,
+              500.0
+            ],
+            [
+              15.0,
+              501.0
+            ],
+            [
+              14.0,
+              503.0
+            ],
+            [
+              16.0,
+              503.0
+            ],
+            [
+              16.0,
+              500.0
+            ],
+            [
+              18.0,
+              499.0
+            ],
+            [
+              21.0,
+              499.0
+            ],
+            [
+              22.0,
+              503.0
+            ],
+            [
+              20.0,
+              503.0
+            ],
+            [
+              22.0,
+              504.0
+            ],
+            [
+              19.0,
+              508.0
+            ],
+            [
+              21.0,
+              511.0
+            ],
+            [
+              24.0,
+              509.0
+            ],
+            [
+              25.0,
+              511.0
+            ],
+            [
+              28.0,
+              511.0
+            ],
+            [
+              41.0,
+              509.0
+            ],
+            [
+              46.0,
+              510.0
+            ],
+            [
+              62.0,
+              510.0
+            ],
+            [
+              65.0,
+              510.0
+            ],
+            [
+              68.0,
+              509.0
+            ],
+            [
+              74.0,
+              511.0
+            ],
+            [
+              77.0,
+              509.0
+            ],
+            [
+              82.0,
+              509.0
+            ],
+            [
+              92.0,
+              509.0
+            ],
+            [
+              106.0,
+              509.0
+            ],
+            [
+              116.0,
+              510.0
+            ],
+            [
+              122.0,
+              510.0
+            ],
+            [
+              123.0,
+              504.0
+            ],
+            [
+              126.0,
+              504.0
+            ],
+            [
+              128.0,
+              505.0
+            ],
+            [
+              129.0,
+              507.0
+            ],
+            [
+              126.0,
+              509.0
+            ],
+            [
+              128.0,
+              510.0
+            ],
+            [
+              134.0,
+              509.0
+            ],
+            [
+              145.0,
+              509.0
+            ],
+            [
+              157.0,
+              510.0
+            ],
+            [
+              158.0,
+              506.0
+            ],
+            [
+              160.0,
+              506.0
+            ],
+            [
+              162.0,
+              504.0
+            ],
+            [
+              163.0,
+              506.0
+            ],
+            [
+              166.0,
+              507.0
+            ],
+            [
+              162.0,
+              508.0
+            ],
+            [
+              163.0,
+              510.0
+            ],
+            [
+              172.0,
+              509.0
+            ],
+            [
+              174.0,
+              509.0
+            ],
+            [
+              187.0,
+              510.0
+            ],
+            [
+              191.0,
+              508.0
+            ],
+            [
+              192.0,
+              510.0
+            ],
+            [
+              193.0,
+              508.0
+            ],
+            [
+              194.0,
+              510.0
+            ],
+            [
+              196.0,
+              509.0
+            ],
+            [
+              198.0,
+              511.0
+            ],
+            [
+              199.0,
+              508.0
+            ],
+            [
+              201.0,
+              510.0
+            ],
+            [
+              205.0,
+              511.0
+            ],
+            [
+              212.0,
+              509.0
+            ],
+            [
+              219.0,
+              509.0
+            ],
+            [
+              221.0,
+              509.0
+            ],
+            [
+              223.0,
+              510.0
+            ],
+            [
+              227.0,
+              509.0
+            ],
+            [
+              250.0,
+              510.0
+            ],
+            [
+              250.0,
+              506.0
+            ],
+            [
+              252.0,
+              504.0
+            ],
+            [
+              258.0,
+              503.0
+            ],
+            [
+              261.0,
+              503.0
+            ],
+            [
+              262.0,
+              506.0
+            ],
+            [
+              260.0,
+              507.0
+            ],
+            [
+              260.0,
+              509.0
+            ],
+            [
+              265.0,
+              510.0
+            ],
+            [
+              270.0,
+              510.0
+            ],
+            [
+              278.0,
+              509.0
+            ],
+            [
+              290.0,
+              509.0
+            ],
+            [
+              296.0,
+              509.0
+            ],
+            [
+              301.0,
+              510.0
+            ],
+            [
+              311.0,
+              510.0
+            ],
+            [
+              315.0,
+              510.0
+            ],
+            [
+              314.0,
+              506.0
+            ],
+            [
+              316.0,
+              502.0
+            ],
+            [
+              317.0,
+              504.0
+            ],
+            [
+              319.0,
+              504.0
+            ],
+            [
+              319.0,
+              506.0
+            ],
+            [
+              321.0,
+              507.0
+            ],
+            [
+              320.0,
+              510.0
+            ],
+            [
+              323.0,
+              510.0
+            ],
+            [
+              324.0,
+              509.0
+            ],
+            [
+              327.0,
+              510.0
+            ],
+            [
+              336.0,
+              510.0
+            ],
+            [
+              348.0,
+              509.0
+            ],
+            [
+              356.0,
+              511.0
+            ],
+            [
+              358.0,
+              511.0
+            ],
+            [
+              364.0,
+              510.0
+            ],
+            [
+              367.0,
+              511.0
+            ],
+            [
+              369.0,
+              509.0
+            ],
+            [
+              371.0,
+              509.0
+            ],
+            [
+              384.0,
+              509.0
+            ],
+            [
+              386.0,
+              509.0
+            ],
+            [
+              389.0,
+              511.0
+            ],
+            [
+              397.0,
+              509.0
+            ],
+            [
+              401.0,
+              511.0
+            ],
+            [
+              403.0,
+              509.0
+            ],
+            [
+              409.0,
+              509.0
+            ],
+            [
+              411.0,
+              511.0
+            ],
+            [
+              413.0,
+              511.0
+            ],
+            [
+              415.0,
+              509.0
+            ],
+            [
+              422.0,
+              510.0
+            ],
+            [
+              426.0,
+              510.0
+            ],
+            [
+              427.0,
+              509.0
+            ],
+            [
+              429.0,
+              509.0
+            ],
+            [
+              426.0,
+              509.0
+            ],
+            [
+              425.0,
+              508.0
+            ],
+            [
+              415.0,
+              507.0
+            ],
+            [
+              431.0,
+              505.0
+            ],
+            [
+              437.0,
+              505.0
+            ],
+            [
+              438.0,
+              509.0
+            ],
+            [
+              435.0,
+              508.0
+            ],
+            [
+              433.0,
+              509.0
+            ],
+            [
+              435.0,
+              510.0
+            ],
+            [
+              443.0,
+              511.0
+            ],
+            [
+              444.0,
+              509.0
+            ],
+            [
+              452.0,
+              510.0
+            ],
+            [
+              450.0,
+              509.0
+            ],
+            [
+              449.0,
+              508.0
+            ],
+            [
+              447.0,
+              508.0
+            ],
+            [
+              443.0,
+              510.0
+            ],
+            [
+              441.0,
+              506.0
+            ],
+            [
+              444.0,
+              506.0
+            ],
+            [
+              447.0,
+              506.0
+            ],
+            [
+              448.0,
+              503.0
+            ],
+            [
+              450.0,
+              506.0
+            ],
+            [
+              455.0,
+              507.0
+            ],
+            [
+              456.0,
+              510.0
+            ],
+            [
+              461.0,
+              510.0
+            ],
+            [
+              462.0,
+              509.0
+            ],
+            [
+              465.0,
+              508.0
+            ],
+            [
+              459.0,
+              508.0
+            ],
+            [
+              457.0,
+              509.0
+            ],
+            [
+              455.0,
+              507.0
+            ],
+            [
+              458.0,
+              505.0
+            ],
+            [
+              460.0,
+              506.0
+            ],
+            [
+              458.0,
+              504.0
+            ],
+            [
+              460.0,
+              503.0
+            ],
+            [
+              462.0,
+              503.0
+            ],
+            [
+              463.0,
+              507.0
+            ],
+            [
+              467.0,
+              504.0
+            ],
+            [
+              469.0,
+              505.0
+            ],
+            [
+              472.0,
+              508.0
+            ],
+            [
+              472.0,
+              511.0
+            ],
+            [
+              476.0,
+              509.0
+            ],
+            [
+              484.0,
+              510.0
+            ],
+            [
+              485.0,
+              507.0
+            ],
+            [
+              488.0,
+              510.0
+            ],
+            [
+              489.0,
+              508.0
+            ],
+            [
+              487.0,
+              507.0
+            ],
+            [
+              491.0,
+              506.0
+            ],
+            [
+              493.0,
+              508.0
+            ],
+            [
+              491.0,
+              506.0
+            ],
+            [
+              494.0,
+              506.0
+            ],
+            [
+              495.0,
+              508.0
+            ],
+            [
+              498.0,
+              509.0
+            ],
+            [
+              492.0,
+              510.0
+            ],
+            [
+              501.0,
+              509.0
+            ],
+            [
+              504.0,
+              509.0
+            ],
+            [
+              505.0,
+              510.0
+            ],
+            [
+              508.0,
+              510.0
+            ],
+            [
+              509.0,
+              508.0
+            ],
+            [
+              510.0,
+              510.0
+            ],
+            [
+              509.0,
+              448.0
+            ],
+            [
+              511.0,
+              434.0
+            ],
+            [
+              510.0,
+              431.0
+            ],
+            [
+              509.0,
+              428.0
+            ],
+            [
+              509.0,
+              379.0
+            ],
+            [
+              509.0,
+              362.0
+            ],
+            [
+              510.0,
+              323.0
+            ],
+            [
+              508.0,
+              321.0
+            ],
+            [
+              507.0,
+              319.0
+            ],
+            [
+              510.0,
+              317.0
+            ],
+            [
+              510.0,
+              312.0
+            ],
+            [
+              508.0,
+              312.0
+            ],
+            [
+              508.0,
+              310.0
+            ],
+            [
+              510.0,
+              309.0
+            ],
+            [
+              508.0,
+              306.0
+            ],
+            [
+              510.0,
+              305.0
+            ],
+            [
+              510.0,
+              302.0
+            ],
+            [
+              508.0,
+              299.0
+            ],
+            [
+              508.0,
+              296.0
+            ],
+            [
+              510.0,
+              295.0
+            ],
+            [
+              511.0,
+              254.0
+            ],
+            [
+              509.0,
+              237.0
+            ],
+            [
+              509.0,
+              213.0
+            ],
+            [
+              510.0,
+              193.0
+            ],
+            [
+              508.0,
+              187.0
+            ],
+            [
+              509.0,
+              182.0
+            ],
+            [
+              509.0,
+              114.0
+            ],
+            [
+              510.0,
+              95.0
+            ],
+            [
+              509.0,
+              98.0
+            ],
+            [
+              506.0,
+              96.0
+            ],
+            [
+              510.0,
+              93.0
+            ],
+            [
+              510.0,
+              89.0
+            ],
+            [
+              508.0,
+              78.0
+            ],
+            [
+              509.0,
+              72.0
+            ],
+            [
+              507.0,
+              71.0
+            ],
+            [
+              510.0,
+              69.0
+            ],
+            [
+              509.0,
+              5.0
+            ],
+            [
+              510.0,
+              2.0
+            ],
+            [
+              509.0,
+              4.0
+            ],
+            [
+              506.0,
+              3.0
+            ],
+            [
+              504.0,
+              5.0
+            ],
+            [
+              503.0,
+              3.0
+            ],
+            [
+              505.0,
+              1.0
+            ],
+            [
+              509.0,
+              0.0
+            ],
+            [
+              497.0,
+              1.0
+            ],
+            [
+              493.0,
+              1.0
+            ],
+            [
+              448.0,
+              1.0
+            ],
+            [
+              372.0,
+              1.0
+            ],
+            [
+              353.0,
+              0.0
+            ],
+            [
+              314.0,
+              1.0
+            ],
+            [
+              282.0,
+              1.0
+            ],
+            [
+              267.0,
+              1.0
+            ],
+            [
+              247.0,
+              1.0
+            ],
+            [
+              243.0,
+              1.0
+            ],
+            [
+              233.0,
+              1.0
+            ],
+            [
+              231.0,
+              1.0
+            ],
+            [
+              219.0,
+              1.0
+            ],
+            [
+              217.0,
+              1.0
+            ],
+            [
+              184.0,
+              0.0
+            ],
+            [
+              159.0,
+              2.0
+            ],
+            [
+              156.0,
+              0.0
+            ],
+            [
+              142.0,
+              1.0
+            ],
+            [
+              136.0,
+              1.0
+            ],
+            [
+              111.0,
+              1.0
+            ],
+            [
+              103.0,
+              0.0
+            ],
+            [
+              101.0,
+              0.0
+            ],
+            [
+              89.0,
+              1.0
+            ],
+            [
+              59.0,
+              0.0
+            ],
+            [
+              51.0,
+              2.0
+            ],
+            [
+              47.0,
+              0.0
+            ],
+            [
+              45.0,
+              3.0
+            ],
+            [
+              32.0,
+              0.0
+            ],
+            [
+              22.0,
+              1.0
+            ],
+            [
+              19.0,
+              1.0
+            ]
+          ]
+        },
+        "properties": {
+          "road_id": "R-0001",
+          "length_m": 185.72,
+          "feature_type": "road"
+        }
+      }
+    ]
+  },
+  "geojson_wgs84": {
+    "type": "FeatureCollection",
+    "name": "Cadastral_Features_Paridhi",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "id": "P-0009",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209001,
+                28.613866
+              ],
+              [
+                77.209001,
+                28.613771
+              ],
+              [
+                77.209007,
+                28.613774
+              ],
+              [
+                77.209006,
+                28.613783
+              ],
+              [
+                77.209009,
+                28.613786
+              ],
+              [
+                77.209021,
+                28.613786
+              ],
+              [
+                77.209023,
+                28.61379
+              ],
+              [
+                77.20902,
+                28.613794
+              ],
+              [
+                77.20902,
+                28.613799
+              ],
+              [
+                77.209025,
+                28.613804
+              ],
+              [
+                77.20902,
+                28.613821
+              ],
+              [
+                77.209014,
+                28.613825
+              ],
+              [
+                77.209014,
+                28.61383
+              ],
+              [
+                77.209016,
+                28.613835
+              ],
+              [
+                77.209031,
+                28.613845
+              ],
+              [
+                77.209024,
+                28.613848
+              ],
+              [
+                77.209024,
+                28.613855
+              ],
+              [
+                77.209027,
+                28.613859
+              ],
+              [
+                77.209009,
+                28.61386
+              ],
+              [
+                77.209001,
+                28.613866
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0009",
+          "numeric_id": 9,
+          "area_sqm": 17.51,
+          "area_hectares": 0.0018,
+          "area_acres": 0.0043,
+          "area_gaj": 20.94,
+          "perimeter_m": 26.8,
+          "compactness": 0.306,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            13.4,
+            108.2
+          ],
+          "centroid_geo": [
+            77.209011,
+            28.613822
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0015",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209413,
+                28.613812
+              ],
+              [
+                77.209366,
+                28.613812
+              ],
+              [
+                77.209364,
+                28.613801
+              ],
+              [
+                77.209411,
+                28.6138
+              ],
+              [
+                77.209413,
+                28.613812
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0015",
+          "numeric_id": 15,
+          "area_sqm": 5.66,
+          "area_hectares": 0.0006,
+          "area_acres": 0.0014,
+          "area_gaj": 6.77,
+          "perimeter_m": 11.62,
+          "compactness": 0.527,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.86,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            474.8,
+            130.8
+          ],
+          "centroid_geo": [
+            77.209389,
+            28.613806
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0003",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209373,
+                28.613899
+              ],
+              [
+                77.209372,
+                28.613871
+              ],
+              [
+                77.209368,
+                28.613863
+              ],
+              [
+                77.209375,
+                28.613863
+              ],
+              [
+                77.209381,
+                28.613874
+              ],
+              [
+                77.209377,
+                28.613876
+              ],
+              [
+                77.209377,
+                28.613882
+              ],
+              [
+                77.209382,
+                28.613886
+              ],
+              [
+                77.209382,
+                28.613894
+              ],
+              [
+                77.209389,
+                28.613898
+              ],
+              [
+                77.209373,
+                28.613899
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0003",
+          "numeric_id": 3,
+          "area_sqm": 3.08,
+          "area_hectares": 0.0003,
+          "area_acres": 0.0008,
+          "area_gaj": 3.69,
+          "perimeter_m": 11.03,
+          "compactness": 0.318,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.81,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            460.0,
+            23.2
+          ],
+          "centroid_geo": [
+            77.209377,
+            28.613883
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0024",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209364,
+                28.613626
+              ],
+              [
+                77.209362,
+                28.613619
+              ],
+              [
+                77.209367,
+                28.613617
+              ],
+              [
+                77.209368,
+                28.613609
+              ],
+              [
+                77.209377,
+                28.613609
+              ],
+              [
+                77.209378,
+                28.613625
+              ],
+              [
+                77.209364,
+                28.613626
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0024",
+          "numeric_id": 24,
+          "area_sqm": 2.18,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0005,
+          "area_gaj": 2.6,
+          "perimeter_m": 6.2,
+          "compactness": 0.711,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.89,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            453.3,
+            392.1
+          ],
+          "centroid_geo": [
+            77.209371,
+            28.613618
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0022",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209418,
+                28.613641
+              ],
+              [
+                77.209404,
+                28.613639
+              ],
+              [
+                77.209402,
+                28.613626
+              ],
+              [
+                77.209418,
+                28.613626
+              ],
+              [
+                77.209418,
+                28.613641
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0022",
+          "numeric_id": 22,
+          "area_sqm": 2.18,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0005,
+          "area_gaj": 2.61,
+          "perimeter_m": 5.94,
+          "compactness": 0.778,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.91,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            501.2,
+            371.7
+          ],
+          "centroid_geo": [
+            77.20941,
+            28.613633
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0023",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209041,
+                28.613629
+              ],
+              [
+                77.209037,
+                28.613625
+              ],
+              [
+                77.209036,
+                28.613615
+              ],
+              [
+                77.209043,
+                28.613608
+              ],
+              [
+                77.209046,
+                28.61361
+              ],
+              [
+                77.209047,
+                28.613616
+              ],
+              [
+                77.209051,
+                28.613618
+              ],
+              [
+                77.209045,
+                28.613621
+              ],
+              [
+                77.209045,
+                28.613628
+              ],
+              [
+                77.209041,
+                28.613629
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0023",
+          "numeric_id": 23,
+          "area_sqm": 1.9,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0005,
+          "area_gaj": 2.28,
+          "perimeter_m": 6.22,
+          "compactness": 0.619,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.87,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            51.2,
+            391.7
+          ],
+          "centroid_geo": [
+            77.209042,
+            28.613618
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0017",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209321,
+                28.613738
+              ],
+              [
+                77.2093,
+                28.613736
+              ],
+              [
+                77.2093,
+                28.613731
+              ],
+              [
+                77.20932,
+                28.613731
+              ],
+              [
+                77.209321,
+                28.613738
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0017",
+          "numeric_id": 17,
+          "area_sqm": 1.25,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.5,
+          "perimeter_m": 5.21,
+          "compactness": 0.579,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.87,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            379.8,
+            231.0
+          ],
+          "centroid_geo": [
+            77.209311,
+            28.613734
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0001",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209056,
+                28.613899
+              ],
+              [
+                77.209056,
+                28.613893
+              ],
+              [
+                77.209061,
+                28.613891
+              ],
+              [
+                77.209061,
+                28.613888
+              ],
+              [
+                77.209069,
+                28.613888
+              ],
+              [
+                77.209068,
+                28.613899
+              ],
+              [
+                77.209056,
+                28.613899
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0001",
+          "numeric_id": 1,
+          "area_sqm": 1.34,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.6,
+          "perimeter_m": 4.79,
+          "compactness": 0.732,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Residential",
+          "confidence": 0.9,
+          "verification_status": "Verified",
+          "centroid_px": [
+            76.7,
+            8.3
+          ],
+          "centroid_geo": [
+            77.209063,
+            28.613894
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0026",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209054,
+                28.613588
+              ],
+              [
+                77.209054,
+                28.613586
+              ],
+              [
+                77.209048,
+                28.613583
+              ],
+              [
+                77.209046,
+                28.613571
+              ],
+              [
+                77.209052,
+                28.613572
+              ],
+              [
+                77.209052,
+                28.61358
+              ],
+              [
+                77.209057,
+                28.613582
+              ],
+              [
+                77.209057,
+                28.613587
+              ],
+              [
+                77.20906,
+                28.61359
+              ],
+              [
+                77.209054,
+                28.613588
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0026",
+          "numeric_id": 26,
+          "area_sqm": 1.04,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.24,
+          "perimeter_m": 5.81,
+          "compactness": 0.387,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.83,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            62.9,
+            445.5
+          ],
+          "centroid_geo": [
+            77.209052,
+            28.61358
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0014",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209256,
+                28.613817
+              ],
+              [
+                77.209256,
+                28.613805
+              ],
+              [
+                77.209264,
+                28.613805
+              ],
+              [
+                77.209264,
+                28.613817
+              ],
+              [
+                77.209256,
+                28.613817
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0014",
+          "numeric_id": 14,
+          "area_sqm": 1.0,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.2,
+          "perimeter_m": 4.17,
+          "compactness": 0.727,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            317.7,
+            123.6
+          ],
+          "centroid_geo": [
+            77.20926,
+            28.613811
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0028",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209047,
+                28.613539
+              ],
+              [
+                77.209029,
+                28.613537
+              ],
+              [
+                77.209028,
+                28.613533
+              ],
+              [
+                77.209048,
+                28.613533
+              ],
+              [
+                77.209047,
+                28.613539
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0028",
+          "numeric_id": 28,
+          "area_sqm": 0.9,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.08,
+          "perimeter_m": 4.76,
+          "compactness": 0.498,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.85,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            47.4,
+            507.0
+          ],
+          "centroid_geo": [
+            77.209039,
+            28.613536
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0018",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209014,
+                28.613734
+              ],
+              [
+                77.209009,
+                28.613728
+              ],
+              [
+                77.209001,
+                28.61373
+              ],
+              [
+                77.209001,
+                28.613723
+              ],
+              [
+                77.209007,
+                28.613722
+              ],
+              [
+                77.20901,
+                28.613727
+              ],
+              [
+                77.209017,
+                28.613725
+              ],
+              [
+                77.209017,
+                28.613733
+              ],
+              [
+                77.209014,
+                28.613734
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0018",
+          "numeric_id": 18,
+          "area_sqm": 1.08,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.29,
+          "perimeter_m": 5.51,
+          "compactness": 0.447,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.84,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            11.1,
+            239.8
+          ],
+          "centroid_geo": [
+            77.209009,
+            28.613728
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0016",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209151,
+                28.613737
+              ],
+              [
+                77.209145,
+                28.613735
+              ],
+              [
+                77.209143,
+                28.613733
+              ],
+              [
+                77.209154,
+                28.613728
+              ],
+              [
+                77.209156,
+                28.613733
+              ],
+              [
+                77.209151,
+                28.613737
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0016",
+          "numeric_id": 16,
+          "area_sqm": 0.71,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.85,
+          "perimeter_m": 3.41,
+          "compactness": 0.773,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            183.2,
+            232.9
+          ],
+          "centroid_geo": [
+            77.20915,
+            28.613733
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0010",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.20924,
+                28.61383
+              ],
+              [
+                77.209237,
+                28.613821
+              ],
+              [
+                77.209244,
+                28.613821
+              ],
+              [
+                77.209247,
+                28.613825
+              ],
+              [
+                77.209247,
+                28.61383
+              ],
+              [
+                77.20924,
+                28.61383
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0010",
+          "numeric_id": 10,
+          "area_sqm": 0.78,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.93,
+          "perimeter_m": 3.5,
+          "compactness": 0.799,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.91,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            296.3,
+            103.7
+          ],
+          "centroid_geo": [
+            77.209243,
+            28.613825
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0020",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209382,
+                28.613717
+              ],
+              [
+                77.209384,
+                28.613712
+              ],
+              [
+                77.20939,
+                28.613712
+              ],
+              [
+                77.209393,
+                28.613708
+              ],
+              [
+                77.209396,
+                28.613708
+              ],
+              [
+                77.209399,
+                28.613715
+              ],
+              [
+                77.209382,
+                28.613717
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0020",
+          "numeric_id": 20,
+          "area_sqm": 0.84,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.0,
+          "perimeter_m": 4.47,
+          "compactness": 0.525,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.86,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            477.8,
+            259.9
+          ],
+          "centroid_geo": [
+            77.209391,
+            28.613713
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0013",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209108,
+                28.61382
+              ],
+              [
+                77.209101,
+                28.613818
+              ],
+              [
+                77.209105,
+                28.61381
+              ],
+              [
+                77.209104,
+                28.613804
+              ],
+              [
+                77.209106,
+                28.613804
+              ],
+              [
+                77.209109,
+                28.613814
+              ],
+              [
+                77.209108,
+                28.61382
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0013",
+          "numeric_id": 13,
+          "area_sqm": 0.73,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.87,
+          "perimeter_m": 4.3,
+          "compactness": 0.496,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.85,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            129.0,
+            120.8
+          ],
+          "centroid_geo": [
+            77.209106,
+            28.613813
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0005",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209092,
+                28.613891
+              ],
+              [
+                77.209092,
+                28.613881
+              ],
+              [
+                77.209093,
+                28.613872
+              ],
+              [
+                77.209097,
+                28.613876
+              ],
+              [
+                77.209094,
+                28.613884
+              ],
+              [
+                77.209098,
+                28.613889
+              ],
+              [
+                77.209097,
+                28.613891
+              ],
+              [
+                77.209092,
+                28.613891
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0005",
+          "numeric_id": 5,
+          "area_sqm": 0.79,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.94,
+          "perimeter_m": 5.14,
+          "compactness": 0.375,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.82,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            114.9,
+            23.2
+          ],
+          "centroid_geo": [
+            77.209094,
+            28.613883
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0006",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209269,
+                28.613886
+              ],
+              [
+                77.20926,
+                28.613883
+              ],
+              [
+                77.209258,
+                28.613878
+              ],
+              [
+                77.209268,
+                28.613878
+              ],
+              [
+                77.209269,
+                28.613886
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0006",
+          "numeric_id": 6,
+          "area_sqm": 0.57,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.68,
+          "perimeter_m": 3.27,
+          "compactness": 0.664,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.88,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            322.6,
+            25.8
+          ],
+          "centroid_geo": [
+            77.209264,
+            28.613881
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0008",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209408,
+                28.613866
+              ],
+              [
+                77.209408,
+                28.61386
+              ],
+              [
+                77.209418,
+                28.61386
+              ],
+              [
+                77.209418,
+                28.613866
+              ],
+              [
+                77.209408,
+                28.613866
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0008",
+          "numeric_id": 8,
+          "area_sqm": 0.66,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.79,
+          "perimeter_m": 3.28,
+          "compactness": 0.772,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.9,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            504.2,
+            51.6
+          ],
+          "centroid_geo": [
+            77.209413,
+            28.613863
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "P-0027",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.209238,
+                28.613583
+              ],
+              [
+                77.209238,
+                28.613576
+              ],
+              [
+                77.209246,
+                28.613576
+              ],
+              [
+                77.209246,
+                28.613582
+              ],
+              [
+                77.209238,
+                28.613583
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "P-0027",
+          "numeric_id": 27,
+          "area_sqm": 0.58,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.69,
+          "perimeter_m": 3.05,
+          "compactness": 0.779,
+          "builtup_area_sqm": 0.0,
+          "builtup_pct": 0.0,
+          "building_count": 0,
+          "land_use": "Vacant / Open Plot",
+          "confidence": 0.91,
+          "verification_status": "Pending Review",
+          "centroid_px": [
+            295.7,
+            446.3
+          ],
+          "centroid_geo": [
+            77.209242,
+            28.613579
+          ],
+          "feature_type": "parcel"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "R-0001",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              77.209002,
+              28.6139
+            ],
+            [
+              77.209001,
+              28.613899
+            ],
+            [
+              77.209002,
+              28.613883
+            ],
+            [
+              77.209002,
+              28.61388
+            ],
+            [
+              77.209001,
+              28.613868
+            ],
+            [
+              77.209001,
+              28.613843
+            ],
+            [
+              77.209002,
+              28.613835
+            ],
+            [
+              77.209002,
+              28.613833
+            ],
+            [
+              77.209002,
+              28.613814
+            ],
+            [
+              77.209002,
+              28.613812
+            ],
+            [
+              77.209002,
+              28.613756
+            ],
+            [
+              77.209002,
+              28.613722
+            ],
+            [
+              77.209002,
+              28.61372
+            ],
+            [
+              77.209002,
+              28.613709
+            ],
+            [
+              77.209002,
+              28.6137
+            ],
+            [
+              77.209002,
+              28.613687
+            ],
+            [
+              77.209002,
+              28.613651
+            ],
+            [
+              77.209002,
+              28.613649
+            ],
+            [
+              77.209,
+              28.613591
+            ],
+            [
+              77.209002,
+              28.61359
+            ],
+            [
+              77.209002,
+              28.613558
+            ],
+            [
+              77.209002,
+              28.613551
+            ],
+            [
+              77.209001,
+              28.613545
+            ],
+            [
+              77.209004,
+              28.613544
+            ],
+            [
+              77.209002,
+              28.613543
+            ],
+            [
+              77.209002,
+              28.613544
+            ],
+            [
+              77.209002,
+              28.613541
+            ],
+            [
+              77.209001,
+              28.613539
+            ],
+            [
+              77.209002,
+              28.613537
+            ],
+            [
+              77.209003,
+              28.613536
+            ],
+            [
+              77.209001,
+              28.613534
+            ],
+            [
+              77.209003,
+              28.613533
+            ],
+            [
+              77.209005,
+              28.613533
+            ],
+            [
+              77.209006,
+              28.613535
+            ],
+            [
+              77.209008,
+              28.613537
+            ],
+            [
+              77.209007,
+              28.61354
+            ],
+            [
+              77.209011,
+              28.613541
+            ],
+            [
+              77.209012,
+              28.61354
+            ],
+            [
+              77.209011,
+              28.613539
+            ],
+            [
+              77.209013,
+              28.613539
+            ],
+            [
+              77.209013,
+              28.613541
+            ],
+            [
+              77.209015,
+              28.613541
+            ],
+            [
+              77.209017,
+              28.613541
+            ],
+            [
+              77.209018,
+              28.613539
+            ],
+            [
+              77.209016,
+              28.613539
+            ],
+            [
+              77.209018,
+              28.613538
+            ],
+            [
+              77.209016,
+              28.613535
+            ],
+            [
+              77.209017,
+              28.613533
+            ],
+            [
+              77.20902,
+              28.613534
+            ],
+            [
+              77.20902,
+              28.613533
+            ],
+            [
+              77.209023,
+              28.613533
+            ],
+            [
+              77.209034,
+              28.613534
+            ],
+            [
+              77.209038,
+              28.613533
+            ],
+            [
+              77.209051,
+              28.613533
+            ],
+            [
+              77.209053,
+              28.613533
+            ],
+            [
+              77.209056,
+              28.613534
+            ],
+            [
+              77.209061,
+              28.613533
+            ],
+            [
+              77.209063,
+              28.613534
+            ],
+            [
+              77.209067,
+              28.613534
+            ],
+            [
+              77.209075,
+              28.613534
+            ],
+            [
+              77.209087,
+              28.613534
+            ],
+            [
+              77.209095,
+              28.613533
+            ],
+            [
+              77.2091,
+              28.613533
+            ],
+            [
+              77.209101,
+              28.613538
+            ],
+            [
+              77.209103,
+              28.613538
+            ],
+            [
+              77.209105,
+              28.613537
+            ],
+            [
+              77.209106,
+              28.613536
+            ],
+            [
+              77.209103,
+              28.613534
+            ],
+            [
+              77.209105,
+              28.613533
+            ],
+            [
+              77.20911,
+              28.613534
+            ],
+            [
+              77.209119,
+              28.613534
+            ],
+            [
+              77.209129,
+              28.613533
+            ],
+            [
+              77.209129,
+              28.613536
+            ],
+            [
+              77.209131,
+              28.613536
+            ],
+            [
+              77.209133,
+              28.613538
+            ],
+            [
+              77.209133,
+              28.613536
+            ],
+            [
+              77.209136,
+              28.613536
+            ],
+            [
+              77.209133,
+              28.613535
+            ],
+            [
+              77.209133,
+              28.613533
+            ],
+            [
+              77.209141,
+              28.613534
+            ],
+            [
+              77.209142,
+              28.613534
+            ],
+            [
+              77.209153,
+              28.613533
+            ],
+            [
+              77.209156,
+              28.613535
+            ],
+            [
+              77.209157,
+              28.613533
+            ],
+            [
+              77.209158,
+              28.613535
+            ],
+            [
+              77.209159,
+              28.613533
+            ],
+            [
+              77.20916,
+              28.613534
+            ],
+            [
+              77.209162,
+              28.613533
+            ],
+            [
+              77.209163,
+              28.613535
+            ],
+            [
+              77.209165,
+              28.613533
+            ],
+            [
+              77.209168,
+              28.613533
+            ],
+            [
+              77.209174,
+              28.613534
+            ],
+            [
+              77.209179,
+              28.613534
+            ],
+            [
+              77.209181,
+              28.613534
+            ],
+            [
+              77.209183,
+              28.613533
+            ],
+            [
+              77.209186,
+              28.613534
+            ],
+            [
+              77.209205,
+              28.613533
+            ],
+            [
+              77.209205,
+              28.613536
+            ],
+            [
+              77.209206,
+              28.613538
+            ],
+            [
+              77.209211,
+              28.613539
+            ],
+            [
+              77.209214,
+              28.613539
+            ],
+            [
+              77.209214,
+              28.613536
+            ],
+            [
+              77.209213,
+              28.613536
+            ],
+            [
+              77.209213,
+              28.613534
+            ],
+            [
+              77.209217,
+              28.613533
+            ],
+            [
+              77.209221,
+              28.613533
+            ],
+            [
+              77.209228,
+              28.613534
+            ],
+            [
+              77.209237,
+              28.613534
+            ],
+            [
+              77.209242,
+              28.613534
+            ],
+            [
+              77.209246,
+              28.613533
+            ],
+            [
+              77.209255,
+              28.613533
+            ],
+            [
+              77.209258,
+              28.613533
+            ],
+            [
+              77.209257,
+              28.613536
+            ],
+            [
+              77.209259,
+              28.613539
+            ],
+            [
+              77.20926,
+              28.613538
+            ],
+            [
+              77.209261,
+              28.613538
+            ],
+            [
+              77.209261,
+              28.613536
+            ],
+            [
+              77.209263,
+              28.613536
+            ],
+            [
+              77.209262,
+              28.613533
+            ],
+            [
+              77.209264,
+              28.613533
+            ],
+            [
+              77.209265,
+              28.613534
+            ],
+            [
+              77.209268,
+              28.613533
+            ],
+            [
+              77.209275,
+              28.613533
+            ],
+            [
+              77.209285,
+              28.613534
+            ],
+            [
+              77.209291,
+              28.613533
+            ],
+            [
+              77.209293,
+              28.613533
+            ],
+            [
+              77.209298,
+              28.613533
+            ],
+            [
+              77.2093,
+              28.613533
+            ],
+            [
+              77.209302,
+              28.613534
+            ],
+            [
+              77.209304,
+              28.613534
+            ],
+            [
+              77.209314,
+              28.613534
+            ],
+            [
+              77.209316,
+              28.613534
+            ],
+            [
+              77.209318,
+              28.613533
+            ],
+            [
+              77.209325,
+              28.613534
+            ],
+            [
+              77.209328,
+              28.613533
+            ],
+            [
+              77.20933,
+              28.613534
+            ],
+            [
+              77.209335,
+              28.613534
+            ],
+            [
+              77.209336,
+              28.613533
+            ],
+            [
+              77.209338,
+              28.613533
+            ],
+            [
+              77.20934,
+              28.613534
+            ],
+            [
+              77.209345,
+              28.613533
+            ],
+            [
+              77.209349,
+              28.613533
+            ],
+            [
+              77.20935,
+              28.613534
+            ],
+            [
+              77.209351,
+              28.613534
+            ],
+            [
+              77.209349,
+              28.613534
+            ],
+            [
+              77.209348,
+              28.613535
+            ],
+            [
+              77.20934,
+              28.613536
+            ],
+            [
+              77.209353,
+              28.613537
+            ],
+            [
+              77.209358,
+              28.613537
+            ],
+            [
+              77.209359,
+              28.613534
+            ],
+            [
+              77.209356,
+              28.613535
+            ],
+            [
+              77.209354,
+              28.613534
+            ],
+            [
+              77.209356,
+              28.613533
+            ],
+            [
+              77.209363,
+              28.613533
+            ],
+            [
+              77.209363,
+              28.613534
+            ],
+            [
+              77.20937,
+              28.613533
+            ],
+            [
+              77.209368,
+              28.613534
+            ],
+            [
+              77.209368,
+              28.613535
+            ],
+            [
+              77.209366,
+              28.613535
+            ],
+            [
+              77.209363,
+              28.613533
+            ],
+            [
+              77.209361,
+              28.613536
+            ],
+            [
+              77.209363,
+              28.613536
+            ],
+            [
+              77.209366,
+              28.613536
+            ],
+            [
+              77.209367,
+              28.613539
+            ],
+            [
+              77.209368,
+              28.613536
+            ],
+            [
+              77.209372,
+              28.613536
+            ],
+            [
+              77.209373,
+              28.613533
+            ],
+            [
+              77.209377,
+              28.613533
+            ],
+            [
+              77.209378,
+              28.613534
+            ],
+            [
+              77.209381,
+              28.613535
+            ],
+            [
+              77.209376,
+              28.613535
+            ],
+            [
+              77.209374,
+              28.613534
+            ],
+            [
+              77.209372,
+              28.613536
+            ],
+            [
+              77.209375,
+              28.613537
+            ],
+            [
+              77.209377,
+              28.613536
+            ],
+            [
+              77.209375,
+              28.613538
+            ],
+            [
+              77.209377,
+              28.613539
+            ],
+            [
+              77.209378,
+              28.613539
+            ],
+            [
+              77.209379,
+              28.613536
+            ],
+            [
+              77.209382,
+              28.613538
+            ],
+            [
+              77.209384,
+              28.613537
+            ],
+            [
+              77.209386,
+              28.613535
+            ],
+            [
+              77.209386,
+              28.613533
+            ],
+            [
+              77.20939,
+              28.613534
+            ],
+            [
+              77.209396,
+              28.613533
+            ],
+            [
+              77.209397,
+              28.613536
+            ],
+            [
+              77.209399,
+              28.613533
+            ],
+            [
+              77.2094,
+              28.613535
+            ],
+            [
+              77.209399,
+              28.613536
+            ],
+            [
+              77.209402,
+              28.613536
+            ],
+            [
+              77.209404,
+              28.613535
+            ],
+            [
+              77.209402,
+              28.613536
+            ],
+            [
+              77.209404,
+              28.613536
+            ],
+            [
+              77.209405,
+              28.613535
+            ],
+            [
+              77.209408,
+              28.613534
+            ],
+            [
+              77.209403,
+              28.613533
+            ],
+            [
+              77.20941,
+              28.613534
+            ],
+            [
+              77.209413,
+              28.613534
+            ],
+            [
+              77.209413,
+              28.613533
+            ],
+            [
+              77.209416,
+              28.613533
+            ],
+            [
+              77.209417,
+              28.613535
+            ],
+            [
+              77.209418,
+              28.613533
+            ],
+            [
+              77.209417,
+              28.613578
+            ],
+            [
+              77.209418,
+              28.613588
+            ],
+            [
+              77.209418,
+              28.61359
+            ],
+            [
+              77.209417,
+              28.613592
+            ],
+            [
+              77.209417,
+              28.613628
+            ],
+            [
+              77.209417,
+              28.61364
+            ],
+            [
+              77.209418,
+              28.613668
+            ],
+            [
+              77.209416,
+              28.613669
+            ],
+            [
+              77.209415,
+              28.613671
+            ],
+            [
+              77.209418,
+              28.613672
+            ],
+            [
+              77.209418,
+              28.613676
+            ],
+            [
+              77.209416,
+              28.613676
+            ],
+            [
+              77.209416,
+              28.613677
+            ],
+            [
+              77.209418,
+              28.613678
+            ],
+            [
+              77.209416,
+              28.61368
+            ],
+            [
+              77.209418,
+              28.613681
+            ],
+            [
+              77.209418,
+              28.613683
+            ],
+            [
+              77.209416,
+              28.613685
+            ],
+            [
+              77.209416,
+              28.613687
+            ],
+            [
+              77.209418,
+              28.613688
+            ],
+            [
+              77.209418,
+              28.613717
+            ],
+            [
+              77.209417,
+              28.61373
+            ],
+            [
+              77.209417,
+              28.613747
+            ],
+            [
+              77.209418,
+              28.613761
+            ],
+            [
+              77.209416,
+              28.613766
+            ],
+            [
+              77.209417,
+              28.613769
+            ],
+            [
+              77.209417,
+              28.613818
+            ],
+            [
+              77.209418,
+              28.613832
+            ],
+            [
+              77.209417,
+              28.61383
+            ],
+            [
+              77.209414,
+              28.613831
+            ],
+            [
+              77.209418,
+              28.613833
+            ],
+            [
+              77.209418,
+              28.613836
+            ],
+            [
+              77.209416,
+              28.613844
+            ],
+            [
+              77.209417,
+              28.613848
+            ],
+            [
+              77.209415,
+              28.613849
+            ],
+            [
+              77.209418,
+              28.61385
+            ],
+            [
+              77.209417,
+              28.613896
+            ],
+            [
+              77.209418,
+              28.613899
+            ],
+            [
+              77.209417,
+              28.613897
+            ],
+            [
+              77.209414,
+              28.613898
+            ],
+            [
+              77.209413,
+              28.613896
+            ],
+            [
+              77.209412,
+              28.613898
+            ],
+            [
+              77.209413,
+              28.613899
+            ],
+            [
+              77.209417,
+              28.6139
+            ],
+            [
+              77.209407,
+              28.613899
+            ],
+            [
+              77.209404,
+              28.613899
+            ],
+            [
+              77.209367,
+              28.613899
+            ],
+            [
+              77.209305,
+              28.613899
+            ],
+            [
+              77.209289,
+              28.6139
+            ],
+            [
+              77.209257,
+              28.613899
+            ],
+            [
+              77.209231,
+              28.613899
+            ],
+            [
+              77.209219,
+              28.613899
+            ],
+            [
+              77.209202,
+              28.613899
+            ],
+            [
+              77.209199,
+              28.613899
+            ],
+            [
+              77.209191,
+              28.613899
+            ],
+            [
+              77.209189,
+              28.613899
+            ],
+            [
+              77.209179,
+              28.613899
+            ],
+            [
+              77.209178,
+              28.613899
+            ],
+            [
+              77.209151,
+              28.6139
+            ],
+            [
+              77.20913,
+              28.613899
+            ],
+            [
+              77.209128,
+              28.6139
+            ],
+            [
+              77.209116,
+              28.613899
+            ],
+            [
+              77.209111,
+              28.613899
+            ],
+            [
+              77.209091,
+              28.613899
+            ],
+            [
+              77.209084,
+              28.6139
+            ],
+            [
+              77.209083,
+              28.6139
+            ],
+            [
+              77.209073,
+              28.613899
+            ],
+            [
+              77.209048,
+              28.6139
+            ],
+            [
+              77.209042,
+              28.613899
+            ],
+            [
+              77.209038,
+              28.6139
+            ],
+            [
+              77.209037,
+              28.613898
+            ],
+            [
+              77.209026,
+              28.6139
+            ],
+            [
+              77.209018,
+              28.613899
+            ],
+            [
+              77.209016,
+              28.613899
+            ]
+          ]
+        },
+        "properties": {
+          "road_id": "R-0001",
+          "length_m": 185.72,
+          "feature_type": "road"
+        }
+      }
+    ]
+  }
+}

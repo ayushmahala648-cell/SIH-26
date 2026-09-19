@@ -130,17 +130,47 @@ This project is currently under development as a **Smart India Hackathon 2026 pr
 ### Development Roadmap
 
 * [x] Define system architecture
-* [ ] Collect / prepare drone imagery dataset
-* [ ] Image preprocessing pipeline
-* [ ] Cadastral feature detection
-* [ ] Parcel segmentation
-* [ ] Boundary extraction
-* [ ] Geospatial data generation
-* [ ] GIS visualization
-* [ ] Backend API
-* [ ] Web-based interface
-* [ ] End-to-end prototype
-* [ ] Model evaluation and optimization
+* [x] Collect / prepare drone imagery dataset
+* [x] Image preprocessing pipeline (CLAHE, radiometric enhancement & sliding-window tiler)
+* [x] Cadastral feature detection (Deep learning multi-class U-Net + boundary affinity)
+* [x] Parcel segmentation (Marker-controlled watershed topological partition)
+* [x] Boundary extraction & regularization (Douglas-Peucker & orthogonal snapping)
+* [x] Geospatial data generation (RFC 7946 GeoJSON, CSV cadastral land records)
+* [x] GIS visualization (Interactive canvas with pan, zoom, layer controls, inspector)
+* [x] Backend API (FastAPI RESTful microservices)
+* [x] Web-based interface (परिधि - Paridhi full-stack GIS portal)
+* [x] End-to-end prototype
+* [x] Model evaluation and optimization
+
+## ⚡ Quick Start Guide
+
+### 1. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Launch the System
+```bash
+python -m backend.main
+```
+Or with Uvicorn directly:
+```bash
+uvicorn backend.main:app --host 0.0.0.0 --port 8000 --reload
+```
+
+### 3. Open the Web Application
+Open your browser and navigate to:
+```
+http://localhost:8000
+```
+- **Landing Page**: `http://localhost:8000/` (Drag & drop drone images or choose from bundled sample orthomosaics)
+- **Interactive Cadastral Workspace**: `http://localhost:8000/new_analysis.html` (Interactive pan/zoom map canvas, layer toggles, parcel inspection, human-in-the-loop verification, and GeoJSON/CSV exports)
+- **Interactive API Documentation (Swagger)**: `http://localhost:8000/docs`
+
+### 4. Run Automated Test Suite
+```bash
+python tests/test_pipeline.py
+```
 
 ## 📊 Expected Output
 
