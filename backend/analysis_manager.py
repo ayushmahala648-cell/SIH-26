@@ -156,6 +156,8 @@ class AnalysisManager:
         overlay_path = os.path.join(out_subfolder, overlay_filename)
         # Convert RGB to BGR for cv2 write
         overlay_bgr = cv2.cvtColor(ml_res["annotated_overlay"], cv2.COLOR_RGB2BGR)
+        if (w_orig, h_orig) != (overlay_bgr.shape[1], overlay_bgr.shape[0]):
+            overlay_bgr = cv2.resize(overlay_bgr, (w_orig, h_orig), interpolation=cv2.INTER_LINEAR)
         cv2.imwrite(overlay_path, overlay_bgr, [int(cv2.IMWRITE_JPEG_QUALITY), 90])
 
         duration = round(time.time() - t0, 2)

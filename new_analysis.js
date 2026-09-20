@@ -293,6 +293,9 @@ class CadastralApp {
       // Load overlay image
       if (data.overlay_url) {
         this.overlayImage = new Image();
+        this.overlayImage.onload = () => {
+          if (this.showOverlayImage) this.render();
+        };
         this.overlayImage.src = data.overlay_url;
       }
 
@@ -564,7 +567,11 @@ class CadastralApp {
 
     // 1. Base Orthomosaic Image or Full AI Overlay
     if (this.showOverlayImage && this.overlayImage && this.overlayImage.complete) {
-      this.ctx.drawImage(this.overlayImage, 0, 0);
+      this.ctx.globalAlpha = this.layers.orthoOpacity;
+      const targetW = this.baseImage && this.baseImage.width ? this.baseImage.width : this.overlayImage.width;
+      const targetH = this.baseImage && this.baseImage.height ? this.baseImage.height : this.overlayImage.height;
+      this.ctx.drawImage(this.overlayImage, 0, 0, targetW, targetH);
+      this.ctx.globalAlpha = 1.0;
     } else if (this.layers.ortho && this.baseImage && this.baseImage.complete) {
       this.ctx.globalAlpha = this.layers.orthoOpacity;
       this.ctx.drawImage(this.baseImage, 0, 0);
