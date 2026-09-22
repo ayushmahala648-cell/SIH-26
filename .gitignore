@@ -8,3 +8,5 @@ venv/
 env/
 
 .env
+outputs/
+uploads/
