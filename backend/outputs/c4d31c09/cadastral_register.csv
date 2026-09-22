@@ -1,0 +1,69 @@
+Parcel ID,Feature Type,Category,Area (sq m),Area (hectares),Area (acres),Area (gaj),Perimeter (m),Vertex Count,Confidence,Status
+CAD-0001,Building,Structure,46.35,0.0046,0.0115,55.43,26.55,7,88%,Verified
+CAD-0002,Building,Structure,3.62,0.0004,0.0009,4.33,8.34,6,88%,Verified
+CAD-0003,Building,Structure,2.32,0.0002,0.0006,2.77,6.08,10,88%,Verified
+CAD-0004,Building,Structure,5.21,0.0005,0.0013,6.23,9.39,6,88%,Verified
+CAD-0005,Building,Structure,2.77,0.0003,0.0007,3.31,6.66,10,88%,Verified
+CAD-0006,Building,Structure,7.08,0.0007,0.0017,8.47,11.28,8,88%,Verified
+CAD-0007,Building,Structure,10.22,0.001,0.0025,12.22,13.36,10,88%,Verified
+CAD-0008,Building,Structure,1.4,0.0001,0.0003,1.67,5.07,6,88%,Verified
+CAD-0009,Building,Structure,4.44,0.0004,0.0011,5.31,8.62,8,88%,Verified
+CAD-0010,Building,Structure,1.8,0.0002,0.0004,2.15,5.35,8,88%,Verified
+CAD-0011,Building,Structure,1.3,0.0001,0.0003,1.55,5.09,11,88%,Verified
+CAD-0012,Building,Structure,4.32,0.0004,0.0011,5.17,8.31,6,88%,Verified
+CAD-0013,Building,Structure,0.89,0.0001,0.0002,1.06,3.79,6,88%,Verified
+CAD-0014,Building,Structure,10.5,0.001,0.0026,12.56,14.63,6,88%,Verified
+CAD-0015,Building,Structure,2.76,0.0003,0.0007,3.3,6.62,12,88%,Verified
+CAD-0016,Building,Structure,9.01,0.0009,0.0022,10.78,13.55,15,88%,Verified
+CAD-0017,Building,Structure,3.42,0.0003,0.0008,4.09,7.83,8,88%,Verified
+CAD-0018,Building,Structure,2.33,0.0002,0.0006,2.79,6.4,5,88%,Verified
+CAD-0019,Building,Structure,3.43,0.0003,0.0008,4.1,7.47,7,88%,Verified
+CAD-0020,Building,Structure,2.4,0.0002,0.0006,2.87,6.4,5,88%,Verified
+CAD-0021,Building,Structure,7.77,0.0008,0.0019,9.29,11.0,6,88%,Verified
+CAD-0022,Building,Structure,6.42,0.0006,0.0016,7.68,10.25,9,88%,Verified
+CAD-0023,Building,Structure,4.84,0.0005,0.0012,5.79,9.04,10,88%,Verified
+CAD-0024,Building,Structure,2.18,0.0002,0.0005,2.61,5.92,5,88%,Verified
+CAD-0025,Building,Structure,5.79,0.0006,0.0014,6.92,9.46,7,88%,Verified
+CAD-0026,Building,Structure,7.13,0.0007,0.0018,8.53,10.82,6,88%,Verified
+CAD-0027,Building,Structure,0.77,0.0001,0.0002,0.92,3.52,5,88%,Verified
+CAD-0028,Building,Structure,5.07,0.0005,0.0013,6.06,9.42,7,88%,Verified
+CAD-0029,Building,Structure,0.66,0.0001,0.0002,0.79,3.31,6,88%,Verified
+CAD-0030,Building,Structure,1.05,0.0001,0.0003,1.26,4.11,7,88%,Verified
+CAD-0031,Building,Structure,1.83,0.0002,0.0005,2.19,5.6,5,88%,Verified
+CAD-0032,Building,Structure,1.2,0.0001,0.0003,1.44,4.48,5,88%,Verified
+CAD-0033,Building,Structure,1.08,0.0001,0.0003,1.29,4.27,6,88%,Verified
+CAD-0034,Building,Structure,7.6,0.0008,0.0019,9.09,11.82,7,88%,Verified
+CAD-0035,Building,Structure,1.69,0.0002,0.0004,2.02,5.23,7,88%,Verified
+CAD-0036,Building,Structure,5.44,0.0005,0.0013,6.51,9.44,5,88%,Verified
+CAD-0037,Building,Structure,0.58,0.0001,0.0001,0.69,3.2,5,88%,Verified
+CAD-0038,Building,Structure,1.73,0.0002,0.0004,2.07,5.19,6,88%,Verified
+CAD-0039,Building,Structure,1.31,0.0001,0.0003,1.57,4.71,8,88%,Verified
+CAD-0040,Building,Structure,10.33,0.001,0.0026,12.35,13.2,5,88%,Verified
+CAD-0041,Building,Structure,0.75,0.0001,0.0002,0.9,3.47,6,88%,Verified
+CAD-0042,Building,Structure,1.25,0.0001,0.0003,1.49,4.48,5,88%,Verified
+CAD-0043,Building,Structure,0.57,0.0001,0.0001,0.68,3.15,7,88%,Verified
+CAD-0044,Building,Structure,0.92,0.0001,0.0002,1.1,3.84,5,88%,Verified
+CAD-0045,Building,Structure,4.16,0.0004,0.001,4.98,8.46,13,88%,Verified
+CAD-0046,Building,Structure,49.34,0.0049,0.0122,59.01,31.73,14,88%,Verified
+CAD-0047,Building,Structure,0.93,0.0001,0.0002,1.11,3.84,9,88%,Verified
+CAD-0048,Building,Structure,0.95,0.0001,0.0002,1.14,4.05,7,88%,Verified
+CAD-0049,Building,Structure,4.29,0.0004,0.0011,5.13,8.39,6,88%,Verified
+CAD-0050,Tree / Forest,Vegetation,3.62,0.0004,0.0009,4.33,7.6,12,85%,Pending Review
+CAD-0051,Tree / Forest,Vegetation,51.68,0.0052,0.0128,61.81,32.65,10,85%,Pending Review
+CAD-0052,Tree / Forest,Vegetation,45.47,0.0045,0.0112,54.38,32.38,10,85%,Pending Review
+CAD-0053,Tree / Forest,Vegetation,13.72,0.0014,0.0034,16.41,14.95,10,85%,Pending Review
+CAD-0054,Tree / Forest,Vegetation,37.06,0.0037,0.0092,44.32,23.5,12,85%,Pending Review
+CAD-0055,Tree / Forest,Vegetation,6.34,0.0006,0.0016,7.58,15.16,9,85%,Pending Review
+CAD-0056,Tree / Forest,Vegetation,4.48,0.0004,0.0011,5.36,9.95,9,85%,Pending Review
+CAD-0057,Tree / Forest,Vegetation,10.94,0.0011,0.0027,13.08,16.51,11,85%,Pending Review
+CAD-0058,Tree / Forest,Vegetation,4.33,0.0004,0.0011,5.18,10.2,10,85%,Pending Review
+CAD-0059,Tree / Forest,Vegetation,3.72,0.0004,0.0009,4.45,11.59,7,85%,Pending Review
+CAD-0060,Tree / Forest,Vegetation,79.9,0.008,0.0197,95.56,40.52,10,85%,Pending Review
+CAD-0061,Tree / Forest,Vegetation,4.62,0.0005,0.0011,5.53,11.72,10,85%,Pending Review
+CAD-0062,Agricultural Land,Land,186.62,0.0187,0.0461,223.2,83.64,9,80%,Pending Review
+CAD-0063,Agricultural Land,Land,330.49,0.033,0.0817,395.27,102.13,11,80%,Pending Review
+CAD-0064,Road / Pathway,Infrastructure,11.37,0.0011,0.0028,13.6,24.8,6,78%,Pending Review
+CAD-0065,Road / Pathway,Infrastructure,34.66,0.0035,0.0086,41.45,51.18,9,78%,Pending Review
+CAD-0066,Road / Pathway,Infrastructure,18.78,0.0019,0.0046,22.46,24.4,7,78%,Pending Review
+CAD-0067,Road / Pathway,Infrastructure,34.54,0.0035,0.0085,41.31,33.99,5,78%,Pending Review
+CAD-0068,Road / Pathway,Infrastructure,167.27,0.0167,0.0413,200.05,109.43,7,78%,Pending Review

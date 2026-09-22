@@ -1,0 +1,169 @@
+Parcel ID,Feature Type,Category,Area (sq m),Area (hectares),Area (acres),Area (gaj),Perimeter (m),Vertex Count,Confidence,Status
+CAD-0001,Building,Structure,650.82,0.0651,0.1608,778.38,141.62,14,88%,Verified
+CAD-0002,Building,Structure,3262.97,0.3263,0.8063,3902.51,242.9,6,88%,Verified
+CAD-0003,Building,Structure,428.57,0.0429,0.1059,512.57,83.34,6,88%,Verified
+CAD-0004,Building,Structure,36.7,0.0037,0.0091,43.89,24.32,7,88%,Verified
+CAD-0005,Building,Structure,445.57,0.0446,0.1101,532.9,86.03,13,88%,Verified
+CAD-0006,Building,Structure,357.73,0.0358,0.0884,427.85,77.77,7,88%,Verified
+CAD-0007,Building,Structure,278.78,0.0279,0.0689,333.42,66.33,5,88%,Verified
+CAD-0008,Building,Structure,1330.47,0.133,0.3288,1591.24,243.2,5,88%,Verified
+CAD-0009,Building,Structure,1386.32,0.1386,0.3426,1658.04,190.98,7,88%,Verified
+CAD-0010,Building,Structure,9729.91,0.973,2.4043,11636.97,395.2,5,88%,Verified
+CAD-0011,Building,Structure,3879.88,0.388,0.9587,4640.34,260.72,7,88%,Verified
+CAD-0012,Building,Structure,7865.4,0.7865,1.9436,9407.02,366.02,12,88%,Verified
+CAD-0013,Building,Structure,934.31,0.0934,0.2309,1117.43,123.35,6,88%,Verified
+CAD-0014,Building,Structure,202.1,0.0202,0.0499,241.71,57.33,7,88%,Verified
+CAD-0015,Building,Structure,357.12,0.0357,0.0882,427.12,78.4,5,88%,Verified
+CAD-0016,Building,Structure,413.09,0.0413,0.1021,494.06,82.88,6,88%,Verified
+CAD-0017,Building,Structure,783.25,0.0783,0.1935,936.77,123.28,5,88%,Verified
+CAD-0018,Building,Structure,3708.99,0.3709,0.9165,4435.95,268.32,5,88%,Verified
+CAD-0019,Building,Structure,382.9,0.0383,0.0946,457.95,78.87,10,88%,Verified
+CAD-0020,Building,Structure,3252.24,0.3252,0.8036,3889.68,271.1,10,88%,Verified
+CAD-0021,Building,Structure,352.82,0.0353,0.0872,421.97,90.79,6,88%,Verified
+CAD-0022,Building,Structure,709.11,0.0709,0.1752,848.1,114.69,8,88%,Verified
+CAD-0023,Building,Structure,412.83,0.0413,0.102,493.74,82.24,8,88%,Verified
+CAD-0024,Building,Structure,1117.95,0.1118,0.2763,1337.07,133.92,5,88%,Verified
+CAD-0025,Building,Structure,275.01,0.0275,0.068,328.91,66.01,5,88%,Verified
+CAD-0026,Building,Structure,318.54,0.0319,0.0787,380.97,75.36,5,88%,Verified
+CAD-0027,Building,Structure,287.55,0.0288,0.0711,343.91,66.14,10,88%,Verified
+CAD-0028,Building,Structure,315.15,0.0315,0.0779,376.92,79.39,9,88%,Verified
+CAD-0029,Building,Structure,257.57,0.0258,0.0636,308.05,65.37,8,88%,Verified
+CAD-0030,Building,Structure,161.82,0.0162,0.04,193.54,55.58,7,88%,Verified
+CAD-0031,Building,Structure,352.61,0.0353,0.0871,421.72,80.02,10,88%,Verified
+CAD-0032,Building,Structure,357.89,0.0358,0.0884,428.04,75.6,5,88%,Verified
+CAD-0033,Building,Structure,316.42,0.0316,0.0782,378.44,80.02,16,88%,Verified
+CAD-0034,Building,Structure,438.03,0.0438,0.1082,523.88,88.88,10,88%,Verified
+CAD-0035,Building,Structure,385.39,0.0385,0.0952,460.93,80.17,5,88%,Verified
+CAD-0036,Building,Structure,421.88,0.0422,0.1042,504.57,83.69,5,88%,Verified
+CAD-0037,Building,Structure,556.25,0.0556,0.1375,665.27,104.79,10,88%,Verified
+CAD-0038,Building,Structure,480.33,0.048,0.1187,574.47,90.09,9,88%,Verified
+CAD-0039,Building,Structure,713.86,0.0714,0.1764,853.78,119.04,5,88%,Verified
+CAD-0040,Building,Structure,271.49,0.0271,0.0671,324.7,70.26,13,88%,Verified
+CAD-0041,Building,Structure,255.17,0.0255,0.0631,305.18,63.52,5,88%,Verified
+CAD-0042,Building,Structure,266.62,0.0267,0.0659,318.88,65.2,5,88%,Verified
+CAD-0043,Building,Structure,3847.72,0.3848,0.9508,4601.87,279.36,5,88%,Verified
+CAD-0044,Building,Structure,358.13,0.0358,0.0885,428.32,76.08,5,88%,Verified
+CAD-0045,Building,Structure,3572.95,0.3573,0.8829,4273.25,258.49,5,88%,Verified
+CAD-0046,Building,Structure,261.85,0.0262,0.0647,313.17,67.1,9,88%,Verified
+CAD-0047,Building,Structure,177.4,0.0177,0.0438,212.17,54.07,7,88%,Verified
+CAD-0048,Building,Structure,3084.16,0.3084,0.7621,3688.66,236.12,6,88%,Verified
+CAD-0049,Building,Structure,156.92,0.0157,0.0388,187.68,50.28,6,88%,Verified
+CAD-0050,Building,Structure,169.09,0.0169,0.0418,202.23,56.97,8,88%,Verified
+CAD-0051,Tree / Forest,Vegetation,3.41,0.0003,0.0008,4.08,9.15,9,85%,Pending Review
+CAD-0052,Tree / Forest,Vegetation,4.68,0.0005,0.0012,5.6,17.61,7,85%,Pending Review
+CAD-0053,Tree / Forest,Vegetation,5.24,0.0005,0.0013,6.27,11.63,10,85%,Pending Review
+CAD-0054,Tree / Forest,Vegetation,7.61,0.0008,0.0019,9.1,18.59,7,85%,Pending Review
+CAD-0055,Tree / Forest,Vegetation,8.23,0.0008,0.002,9.84,11.94,9,85%,Pending Review
+CAD-0056,Tree / Forest,Vegetation,4.28,0.0004,0.0011,5.12,12.04,9,85%,Pending Review
+CAD-0057,Tree / Forest,Vegetation,24.17,0.0024,0.006,28.91,36.93,8,85%,Pending Review
+CAD-0058,Agricultural Land,Land,16.55,0.0017,0.0041,19.79,25.22,10,80%,Pending Review
+CAD-0059,Agricultural Land,Land,25.3,0.0025,0.0063,30.26,25.64,11,80%,Pending Review
+CAD-0060,Agricultural Land,Land,76.36,0.0076,0.0189,91.33,53.87,8,80%,Pending Review
+CAD-0061,Agricultural Land,Land,18.59,0.0019,0.0046,22.23,26.69,10,80%,Pending Review
+CAD-0062,Agricultural Land,Land,78.44,0.0078,0.0194,93.81,43.78,11,80%,Pending Review
+CAD-0063,Agricultural Land,Land,31.58,0.0032,0.0078,37.77,28.37,11,80%,Pending Review
+CAD-0064,Agricultural Land,Land,41.5,0.0042,0.0103,49.63,32.45,11,80%,Pending Review
+CAD-0065,Agricultural Land,Land,96.59,0.0097,0.0239,115.52,49.76,11,80%,Pending Review
+CAD-0066,Agricultural Land,Land,218.45,0.0218,0.054,261.27,67.14,9,80%,Pending Review
+CAD-0067,Agricultural Land,Land,163.16,0.0163,0.0403,195.14,82.93,8,80%,Pending Review
+CAD-0068,Agricultural Land,Land,207.93,0.0208,0.0514,248.68,89.32,7,80%,Pending Review
+CAD-0069,Agricultural Land,Land,27.39,0.0027,0.0068,32.76,28.89,10,80%,Pending Review
+CAD-0070,Agricultural Land,Land,75.5,0.0076,0.0187,90.3,47.4,9,80%,Pending Review
+CAD-0071,Agricultural Land,Land,16.86,0.0017,0.0042,20.16,19.23,11,80%,Pending Review
+CAD-0072,Agricultural Land,Land,57.89,0.0058,0.0143,69.24,40.2,11,80%,Pending Review
+CAD-0073,Agricultural Land,Land,17.17,0.0017,0.0042,20.54,19.18,11,80%,Pending Review
+CAD-0074,Agricultural Land,Land,24.52,0.0025,0.0061,29.33,20.71,10,80%,Pending Review
+CAD-0075,Agricultural Land,Land,72.42,0.0072,0.0179,86.61,51.95,9,80%,Pending Review
+CAD-0076,Agricultural Land,Land,24.43,0.0024,0.006,29.22,29.22,11,80%,Pending Review
+CAD-0077,Agricultural Land,Land,256.68,0.0257,0.0634,306.99,100.67,9,80%,Pending Review
+CAD-0078,Agricultural Land,Land,81.27,0.0081,0.0201,97.2,69.29,9,80%,Pending Review
+CAD-0079,Road / Pathway,Infrastructure,15.99,0.0016,0.004,19.12,24.08,7,78%,Pending Review
+CAD-0080,Road / Pathway,Infrastructure,132.16,0.0132,0.0327,158.06,110.9,6,78%,Pending Review
+CAD-0081,Road / Pathway,Infrastructure,175.21,0.0175,0.0433,209.55,86.69,8,78%,Pending Review
+CAD-0082,Road / Pathway,Infrastructure,10.21,0.001,0.0025,12.21,18.25,8,78%,Pending Review
+CAD-0083,Road / Pathway,Infrastructure,225.81,0.0226,0.0558,270.07,151.25,6,78%,Pending Review
+CAD-0084,Road / Pathway,Infrastructure,15.49,0.0015,0.0038,18.53,20.43,6,78%,Pending Review
+CAD-0085,Road / Pathway,Infrastructure,94.69,0.0095,0.0234,113.25,47.42,8,78%,Pending Review
+CAD-0086,Road / Pathway,Infrastructure,31.01,0.0031,0.0077,37.09,63.54,7,78%,Pending Review
+CAD-0087,Road / Pathway,Infrastructure,46.44,0.0046,0.0115,55.54,46.01,9,78%,Pending Review
+CAD-0088,Road / Pathway,Infrastructure,10.83,0.0011,0.0027,12.95,29.2,5,78%,Pending Review
+CAD-0089,Road / Pathway,Infrastructure,81.33,0.0081,0.0201,97.27,50.13,7,78%,Pending Review
+CAD-0090,Road / Pathway,Infrastructure,21.15,0.0021,0.0052,25.3,29.51,8,78%,Pending Review
+CAD-0091,Road / Pathway,Infrastructure,11.49,0.0011,0.0028,13.74,14.91,9,78%,Pending Review
+CAD-0092,Road / Pathway,Infrastructure,47.13,0.0047,0.0116,56.37,61.68,8,78%,Pending Review
+CAD-0093,Road / Pathway,Infrastructure,72.47,0.0072,0.0179,86.67,56.48,8,78%,Pending Review
+CAD-0094,Road / Pathway,Infrastructure,13.28,0.0013,0.0033,15.88,16.36,9,78%,Pending Review
+CAD-0095,Road / Pathway,Infrastructure,8.0,0.0008,0.002,9.57,16.3,7,78%,Pending Review
+CAD-0096,Road / Pathway,Infrastructure,17.35,0.0017,0.0043,20.75,21.57,10,78%,Pending Review
+CAD-0097,Road / Pathway,Infrastructure,20.36,0.002,0.005,24.35,21.33,8,78%,Pending Review
+CAD-0098,Road / Pathway,Infrastructure,70.99,0.0071,0.0175,84.9,53.9,8,78%,Pending Review
+CAD-0099,Road / Pathway,Infrastructure,8.94,0.0009,0.0022,10.69,16.71,7,78%,Pending Review
+CAD-0100,Road / Pathway,Infrastructure,141.09,0.0141,0.0349,168.74,67.22,8,78%,Pending Review
+CAD-0101,Road / Pathway,Infrastructure,79.99,0.008,0.0198,95.67,66.04,7,78%,Pending Review
+CAD-0102,Road / Pathway,Infrastructure,29.14,0.0029,0.0072,34.85,23.3,9,78%,Pending Review
+CAD-0103,Road / Pathway,Infrastructure,81.81,0.0082,0.0202,97.84,87.41,8,78%,Pending Review
+CAD-0104,Road / Pathway,Infrastructure,8.16,0.0008,0.002,9.76,13.02,10,78%,Pending Review
+CAD-0105,Road / Pathway,Infrastructure,52.1,0.0052,0.0129,62.31,41.54,7,78%,Pending Review
+CAD-0106,Road / Pathway,Infrastructure,9.51,0.001,0.0023,11.37,34.38,6,78%,Pending Review
+CAD-0107,Road / Pathway,Infrastructure,346.49,0.0346,0.0856,414.4,222.45,6,78%,Pending Review
+CAD-0108,Road / Pathway,Infrastructure,18.52,0.0019,0.0046,22.15,26.58,9,78%,Pending Review
+CAD-0109,Road / Pathway,Infrastructure,18.79,0.0019,0.0046,22.47,21.38,9,78%,Pending Review
+CAD-0110,Road / Pathway,Infrastructure,9.03,0.0009,0.0022,10.8,13.91,8,78%,Pending Review
+CAD-0111,Road / Pathway,Infrastructure,20.34,0.002,0.005,24.33,20.61,9,78%,Pending Review
+CAD-0112,Road / Pathway,Infrastructure,26.22,0.0026,0.0065,31.36,25.25,8,78%,Pending Review
+CAD-0113,Road / Pathway,Infrastructure,13.56,0.0014,0.0034,16.22,20.14,8,78%,Pending Review
+CAD-0114,Road / Pathway,Infrastructure,102.11,0.0102,0.0252,122.12,54.65,10,78%,Pending Review
+CAD-0115,Road / Pathway,Infrastructure,37.33,0.0037,0.0092,44.65,34.53,7,78%,Pending Review
+CAD-0116,Road / Pathway,Infrastructure,238.86,0.0239,0.059,285.68,123.34,9,78%,Pending Review
+CAD-0117,Road / Pathway,Infrastructure,10.47,0.001,0.0026,12.52,14.38,9,78%,Pending Review
+CAD-0118,Road / Pathway,Infrastructure,62.0,0.0062,0.0153,74.15,94.84,7,78%,Pending Review
+CAD-0119,Road / Pathway,Infrastructure,17.41,0.0017,0.0043,20.82,22.72,10,78%,Pending Review
+CAD-0120,Road / Pathway,Infrastructure,35.02,0.0035,0.0087,41.88,46.13,7,78%,Pending Review
+CAD-0121,Road / Pathway,Infrastructure,9.1,0.0009,0.0022,10.88,17.48,9,78%,Pending Review
+CAD-0122,Road / Pathway,Infrastructure,179.23,0.0179,0.0443,214.36,73.94,7,78%,Pending Review
+CAD-0123,Road / Pathway,Infrastructure,64.51,0.0065,0.0159,77.15,53.25,7,78%,Pending Review
+CAD-0124,Road / Pathway,Infrastructure,13.76,0.0014,0.0034,16.46,20.01,9,78%,Pending Review
+CAD-0125,Road / Pathway,Infrastructure,9.35,0.0009,0.0023,11.18,13.52,10,78%,Pending Review
+CAD-0126,Road / Pathway,Infrastructure,30.78,0.0031,0.0076,36.81,31.27,9,78%,Pending Review
+CAD-0127,Road / Pathway,Infrastructure,7.96,0.0008,0.002,9.52,14.56,8,78%,Pending Review
+CAD-0128,Road / Pathway,Infrastructure,204.87,0.0205,0.0506,245.02,81.61,7,78%,Pending Review
+CAD-0129,Road / Pathway,Infrastructure,236.59,0.0237,0.0585,282.96,125.58,7,78%,Pending Review
+CAD-0130,Road / Pathway,Infrastructure,32.46,0.0032,0.008,38.82,30.49,8,78%,Pending Review
+CAD-0131,Road / Pathway,Infrastructure,9.26,0.0009,0.0023,11.07,20.55,9,78%,Pending Review
+CAD-0132,Road / Pathway,Infrastructure,202.9,0.0203,0.0501,242.67,85.11,9,78%,Pending Review
+CAD-0133,Road / Pathway,Infrastructure,8.5,0.0008,0.0021,10.17,25.09,7,78%,Pending Review
+CAD-0134,Road / Pathway,Infrastructure,12.42,0.0012,0.0031,14.85,21.92,7,78%,Pending Review
+CAD-0135,Road / Pathway,Infrastructure,48.2,0.0048,0.0119,57.65,83.21,5,78%,Pending Review
+CAD-0136,Road / Pathway,Infrastructure,14.52,0.0015,0.0036,17.37,21.64,7,78%,Pending Review
+CAD-0137,Road / Pathway,Infrastructure,20.97,0.0021,0.0052,25.08,25.7,8,78%,Pending Review
+CAD-0138,Road / Pathway,Infrastructure,9.97,0.001,0.0025,11.92,20.77,5,78%,Pending Review
+CAD-0139,Road / Pathway,Infrastructure,536.75,0.0537,0.1326,641.95,229.07,8,78%,Pending Review
+CAD-0140,Road / Pathway,Infrastructure,80.46,0.008,0.0199,96.23,72.66,6,78%,Pending Review
+CAD-0141,Road / Pathway,Infrastructure,12.27,0.0012,0.003,14.67,27.26,8,78%,Pending Review
+CAD-0142,Road / Pathway,Infrastructure,17.56,0.0018,0.0043,21.0,22.89,7,78%,Pending Review
+CAD-0143,Road / Pathway,Infrastructure,17.08,0.0017,0.0042,20.43,24.44,8,78%,Pending Review
+CAD-0144,Road / Pathway,Infrastructure,33.37,0.0033,0.0082,39.91,34.07,9,78%,Pending Review
+CAD-0145,Road / Pathway,Infrastructure,70.2,0.007,0.0173,83.96,47.24,7,78%,Pending Review
+CAD-0146,Road / Pathway,Infrastructure,20.82,0.0021,0.0051,24.9,37.32,6,78%,Pending Review
+CAD-0147,Road / Pathway,Infrastructure,58.81,0.0059,0.0145,70.34,38.18,10,78%,Pending Review
+CAD-0148,Road / Pathway,Infrastructure,44.33,0.0044,0.011,53.02,35.99,6,78%,Pending Review
+CAD-0149,Road / Pathway,Infrastructure,5510.53,0.5511,1.3617,6590.59,703.03,9,78%,Pending Review
+CAD-0150,Road / Pathway,Infrastructure,14.56,0.0015,0.0036,17.41,21.86,8,78%,Pending Review
+CAD-0151,Road / Pathway,Infrastructure,32.29,0.0032,0.008,38.62,27.73,8,78%,Pending Review
+CAD-0152,Road / Pathway,Infrastructure,21.21,0.0021,0.0052,25.37,22.69,7,78%,Pending Review
+CAD-0153,Road / Pathway,Infrastructure,9.23,0.0009,0.0023,11.04,14.66,9,78%,Pending Review
+CAD-0154,Road / Pathway,Infrastructure,7.9,0.0008,0.002,9.45,14.21,11,78%,Pending Review
+CAD-0155,Road / Pathway,Infrastructure,10.26,0.001,0.0025,12.27,19.65,8,78%,Pending Review
+CAD-0156,Road / Pathway,Infrastructure,12.52,0.0013,0.0031,14.97,19.56,8,78%,Pending Review
+CAD-0157,Road / Pathway,Infrastructure,506.74,0.0507,0.1252,606.06,127.05,8,78%,Pending Review
+CAD-0158,Road / Pathway,Infrastructure,908.17,0.0908,0.2244,1086.17,167.72,10,78%,Pending Review
+CAD-0159,Road / Pathway,Infrastructure,11.56,0.0012,0.0029,13.83,39.49,5,78%,Pending Review
+CAD-0160,Road / Pathway,Infrastructure,8.68,0.0009,0.0021,10.38,17.3,7,78%,Pending Review
+CAD-0161,Vacant / Open Land,Land,128.92,0.0129,0.0319,154.19,66.2,9,75%,Pending Review
+CAD-0162,Vacant / Open Land,Land,48.52,0.0049,0.012,58.03,28.6,8,75%,Pending Review
+CAD-0163,Vacant / Open Land,Land,289.25,0.0289,0.0715,345.94,87.3,7,75%,Pending Review
+CAD-0164,Vacant / Open Land,Land,219.86,0.022,0.0543,262.95,102.89,7,75%,Pending Review
+CAD-0165,Vacant / Open Land,Land,237.94,0.0238,0.0588,284.58,83.79,10,75%,Pending Review
+CAD-0166,Vacant / Open Land,Land,207.94,0.0208,0.0514,248.7,60.93,8,75%,Pending Review
+CAD-0167,Vacant / Open Land,Land,524.84,0.0525,0.1297,627.71,154.31,5,75%,Pending Review
+CAD-0168,Vacant / Open Land,Land,28466.16,2.8466,7.0341,34045.53,1262.92,6,75%,Pending Review

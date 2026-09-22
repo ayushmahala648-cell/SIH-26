@@ -1,0 +1,4974 @@
+{
+  "success": true,
+  "summary": {
+    "analysis_id": "fd9cbc62",
+    "image_name": "aerialPhoto1.jpg.jpeg",
+    "image_dims": [
+      512,
+      512
+    ],
+    "total_features": 68,
+    "total_buildings": 49,
+    "total_trees": 12,
+    "total_farmlands": 2,
+    "total_playgrounds": 0,
+    "total_roads": 5,
+    "total_vacant": 0,
+    "total_surveyed_area_sqm": 1312.81,
+    "total_surveyed_hectares": 0.1313,
+    "total_surveyed_acres": 0.3244,
+    "total_surveyed_gaj": 1570.12,
+    "total_builtup_sqm": 263.2,
+    "builtup_pct": 20.0,
+    "gsd_meters": 0.08,
+    "processing_time_sec": 3.84
+  },
+  "overlay_url": "/outputs/fd9cbc62/cadastral_overlay.jpg",
+  "wireframe_url": "/outputs/fd9cbc62/cadastral_wireframe.jpg",
+  "geojson_url": "/outputs/fd9cbc62/cadastral_features.geojson",
+  "csv_url": "/outputs/fd9cbc62/cadastral_register.csv",
+  "parcels": [
+    {
+      "parcel_id": "CAD-0001",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 7242.5,
+      "area_sqm": 46.35,
+      "area_hectares": 0.0046,
+      "area_acres": 0.0115,
+      "area_gaj": 55.43,
+      "perimeter_m": 26.55,
+      "vertex_count": 7,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0002",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 565.5,
+      "area_sqm": 3.62,
+      "area_hectares": 0.0004,
+      "area_acres": 0.0009,
+      "area_gaj": 4.33,
+      "perimeter_m": 8.34,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0003",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 363.0,
+      "area_sqm": 2.32,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0006,
+      "area_gaj": 2.77,
+      "perimeter_m": 6.08,
+      "vertex_count": 10,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0004",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 813.5,
+      "area_sqm": 5.21,
+      "area_hectares": 0.0005,
+      "area_acres": 0.0013,
+      "area_gaj": 6.23,
+      "perimeter_m": 9.39,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0005",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 433.0,
+      "area_sqm": 2.77,
+      "area_hectares": 0.0003,
+      "area_acres": 0.0007,
+      "area_gaj": 3.31,
+      "perimeter_m": 6.66,
+      "vertex_count": 10,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0006",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 1107.0,
+      "area_sqm": 7.08,
+      "area_hectares": 0.0007,
+      "area_acres": 0.0017,
+      "area_gaj": 8.47,
+      "perimeter_m": 11.28,
+      "vertex_count": 8,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0007",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 1597.0,
+      "area_sqm": 10.22,
+      "area_hectares": 0.001,
+      "area_acres": 0.0025,
+      "area_gaj": 12.22,
+      "perimeter_m": 13.36,
+      "vertex_count": 10,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0008",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 219.5,
+      "area_sqm": 1.4,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.67,
+      "perimeter_m": 5.07,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0009",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 693.5,
+      "area_sqm": 4.44,
+      "area_hectares": 0.0004,
+      "area_acres": 0.0011,
+      "area_gaj": 5.31,
+      "perimeter_m": 8.62,
+      "vertex_count": 8,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0010",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 281.0,
+      "area_sqm": 1.8,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0004,
+      "area_gaj": 2.15,
+      "perimeter_m": 5.35,
+      "vertex_count": 8,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0011",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 203.0,
+      "area_sqm": 1.3,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.55,
+      "perimeter_m": 5.09,
+      "vertex_count": 11,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0012",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 675.5,
+      "area_sqm": 4.32,
+      "area_hectares": 0.0004,
+      "area_acres": 0.0011,
+      "area_gaj": 5.17,
+      "perimeter_m": 8.31,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0013",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 139.5,
+      "area_sqm": 0.89,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.06,
+      "perimeter_m": 3.79,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0014",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 1641.0,
+      "area_sqm": 10.5,
+      "area_hectares": 0.001,
+      "area_acres": 0.0026,
+      "area_gaj": 12.56,
+      "perimeter_m": 14.63,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0015",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 430.5,
+      "area_sqm": 2.76,
+      "area_hectares": 0.0003,
+      "area_acres": 0.0007,
+      "area_gaj": 3.3,
+      "perimeter_m": 6.62,
+      "vertex_count": 12,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0016",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 1408.5,
+      "area_sqm": 9.01,
+      "area_hectares": 0.0009,
+      "area_acres": 0.0022,
+      "area_gaj": 10.78,
+      "perimeter_m": 13.55,
+      "vertex_count": 15,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0017",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 534.5,
+      "area_sqm": 3.42,
+      "area_hectares": 0.0003,
+      "area_acres": 0.0008,
+      "area_gaj": 4.09,
+      "perimeter_m": 7.83,
+      "vertex_count": 8,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0018",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 364.0,
+      "area_sqm": 2.33,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0006,
+      "area_gaj": 2.79,
+      "perimeter_m": 6.4,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0019",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 536.5,
+      "area_sqm": 3.43,
+      "area_hectares": 0.0003,
+      "area_acres": 0.0008,
+      "area_gaj": 4.1,
+      "perimeter_m": 7.47,
+      "vertex_count": 7,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0020",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 375.0,
+      "area_sqm": 2.4,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0006,
+      "area_gaj": 2.87,
+      "perimeter_m": 6.4,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0021",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 1213.5,
+      "area_sqm": 7.77,
+      "area_hectares": 0.0008,
+      "area_acres": 0.0019,
+      "area_gaj": 9.29,
+      "perimeter_m": 11.0,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0022",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 1003.0,
+      "area_sqm": 6.42,
+      "area_hectares": 0.0006,
+      "area_acres": 0.0016,
+      "area_gaj": 7.68,
+      "perimeter_m": 10.25,
+      "vertex_count": 9,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0023",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 757.0,
+      "area_sqm": 4.84,
+      "area_hectares": 0.0005,
+      "area_acres": 0.0012,
+      "area_gaj": 5.79,
+      "perimeter_m": 9.04,
+      "vertex_count": 10,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0024",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 340.0,
+      "area_sqm": 2.18,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0005,
+      "area_gaj": 2.61,
+      "perimeter_m": 5.92,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0025",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 904.0,
+      "area_sqm": 5.79,
+      "area_hectares": 0.0006,
+      "area_acres": 0.0014,
+      "area_gaj": 6.92,
+      "perimeter_m": 9.46,
+      "vertex_count": 7,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0026",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 1113.5,
+      "area_sqm": 7.13,
+      "area_hectares": 0.0007,
+      "area_acres": 0.0018,
+      "area_gaj": 8.53,
+      "perimeter_m": 10.82,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0027",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 120.0,
+      "area_sqm": 0.77,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.92,
+      "perimeter_m": 3.52,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0028",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 792.5,
+      "area_sqm": 5.07,
+      "area_hectares": 0.0005,
+      "area_acres": 0.0013,
+      "area_gaj": 6.06,
+      "perimeter_m": 9.42,
+      "vertex_count": 7,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0029",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 103.5,
+      "area_sqm": 0.66,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.79,
+      "perimeter_m": 3.31,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0030",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 164.5,
+      "area_sqm": 1.05,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.26,
+      "perimeter_m": 4.11,
+      "vertex_count": 7,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0031",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 286.0,
+      "area_sqm": 1.83,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0005,
+      "area_gaj": 2.19,
+      "perimeter_m": 5.6,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0032",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 187.0,
+      "area_sqm": 1.2,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.44,
+      "perimeter_m": 4.48,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0033",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 169.5,
+      "area_sqm": 1.08,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.29,
+      "perimeter_m": 4.27,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0034",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 1187.5,
+      "area_sqm": 7.6,
+      "area_hectares": 0.0008,
+      "area_acres": 0.0019,
+      "area_gaj": 9.09,
+      "perimeter_m": 11.82,
+      "vertex_count": 7,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0035",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 263.5,
+      "area_sqm": 1.69,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0004,
+      "area_gaj": 2.02,
+      "perimeter_m": 5.23,
+      "vertex_count": 7,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0036",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 850.0,
+      "area_sqm": 5.44,
+      "area_hectares": 0.0005,
+      "area_acres": 0.0013,
+      "area_gaj": 6.51,
+      "perimeter_m": 9.44,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0037",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 91.0,
+      "area_sqm": 0.58,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0001,
+      "area_gaj": 0.69,
+      "perimeter_m": 3.2,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0038",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 270.0,
+      "area_sqm": 1.73,
+      "area_hectares": 0.0002,
+      "area_acres": 0.0004,
+      "area_gaj": 2.07,
+      "perimeter_m": 5.19,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0039",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 205.0,
+      "area_sqm": 1.31,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.57,
+      "perimeter_m": 4.71,
+      "vertex_count": 8,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0040",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 1613.5,
+      "area_sqm": 10.33,
+      "area_hectares": 0.001,
+      "area_acres": 0.0026,
+      "area_gaj": 12.35,
+      "perimeter_m": 13.2,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0041",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 116.5,
+      "area_sqm": 0.75,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 0.9,
+      "perimeter_m": 3.47,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0042",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 195.0,
+      "area_sqm": 1.25,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0003,
+      "area_gaj": 1.49,
+      "perimeter_m": 4.48,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0043",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 89.5,
+      "area_sqm": 0.57,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0001,
+      "area_gaj": 0.68,
+      "perimeter_m": 3.15,
+      "vertex_count": 7,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0044",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 143.0,
+      "area_sqm": 0.92,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.1,
+      "perimeter_m": 3.84,
+      "vertex_count": 5,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0045",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 649.5,
+      "area_sqm": 4.16,
+      "area_hectares": 0.0004,
+      "area_acres": 0.001,
+      "area_gaj": 4.98,
+      "perimeter_m": 8.46,
+      "vertex_count": 13,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0046",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 7709.5,
+      "area_sqm": 49.34,
+      "area_hectares": 0.0049,
+      "area_acres": 0.0122,
+      "area_gaj": 59.01,
+      "perimeter_m": 31.73,
+      "vertex_count": 14,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0047",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 145.5,
+      "area_sqm": 0.93,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.11,
+      "perimeter_m": 3.84,
+      "vertex_count": 9,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0048",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 148.0,
+      "area_sqm": 0.95,
+      "area_hectares": 0.0001,
+      "area_acres": 0.0002,
+      "area_gaj": 1.14,
+      "perimeter_m": 4.05,
+      "vertex_count": 7,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0049",
+      "feature_type": "Building",
+      "category": "Structure",
+      "color_hex": "#FF3232",
+      "area_px": 670.0,
+      "area_sqm": 4.29,
+      "area_hectares": 0.0004,
+      "area_acres": 0.0011,
+      "area_gaj": 5.13,
+      "perimeter_m": 8.39,
+      "vertex_count": 6,
+      "confidence": 0.88,
+      "verification_status": "Verified"
+    },
+    {
+      "parcel_id": "CAD-0050",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 565.0,
+      "area_sqm": 3.62,
+      "area_hectares": 0.0004,
+      "area_acres": 0.0009,
+      "area_gaj": 4.33,
+      "perimeter_m": 7.6,
+      "vertex_count": 12,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0051",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 8074.5,
+      "area_sqm": 51.68,
+      "area_hectares": 0.0052,
+      "area_acres": 0.0128,
+      "area_gaj": 61.81,
+      "perimeter_m": 32.65,
+      "vertex_count": 10,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0052",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 7104.5,
+      "area_sqm": 45.47,
+      "area_hectares": 0.0045,
+      "area_acres": 0.0112,
+      "area_gaj": 54.38,
+      "perimeter_m": 32.38,
+      "vertex_count": 10,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0053",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 2143.0,
+      "area_sqm": 13.72,
+      "area_hectares": 0.0014,
+      "area_acres": 0.0034,
+      "area_gaj": 16.41,
+      "perimeter_m": 14.95,
+      "vertex_count": 10,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0054",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 5790.0,
+      "area_sqm": 37.06,
+      "area_hectares": 0.0037,
+      "area_acres": 0.0092,
+      "area_gaj": 44.32,
+      "perimeter_m": 23.5,
+      "vertex_count": 12,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0055",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 990.0,
+      "area_sqm": 6.34,
+      "area_hectares": 0.0006,
+      "area_acres": 0.0016,
+      "area_gaj": 7.58,
+      "perimeter_m": 15.16,
+      "vertex_count": 9,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0056",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 699.5,
+      "area_sqm": 4.48,
+      "area_hectares": 0.0004,
+      "area_acres": 0.0011,
+      "area_gaj": 5.36,
+      "perimeter_m": 9.95,
+      "vertex_count": 9,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0057",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 1709.5,
+      "area_sqm": 10.94,
+      "area_hectares": 0.0011,
+      "area_acres": 0.0027,
+      "area_gaj": 13.08,
+      "perimeter_m": 16.51,
+      "vertex_count": 11,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0058",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 677.0,
+      "area_sqm": 4.33,
+      "area_hectares": 0.0004,
+      "area_acres": 0.0011,
+      "area_gaj": 5.18,
+      "perimeter_m": 10.2,
+      "vertex_count": 10,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0059",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 581.0,
+      "area_sqm": 3.72,
+      "area_hectares": 0.0004,
+      "area_acres": 0.0009,
+      "area_gaj": 4.45,
+      "perimeter_m": 11.59,
+      "vertex_count": 7,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0060",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 12484.0,
+      "area_sqm": 79.9,
+      "area_hectares": 0.008,
+      "area_acres": 0.0197,
+      "area_gaj": 95.56,
+      "perimeter_m": 40.52,
+      "vertex_count": 10,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0061",
+      "feature_type": "Tree / Forest",
+      "category": "Vegetation",
+      "color_hex": "#00B400",
+      "area_px": 721.5,
+      "area_sqm": 4.62,
+      "area_hectares": 0.0005,
+      "area_acres": 0.0011,
+      "area_gaj": 5.53,
+      "perimeter_m": 11.72,
+      "vertex_count": 10,
+      "confidence": 0.85,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0062",
+      "feature_type": "Agricultural Land",
+      "category": "Land",
+      "color_hex": "#FFA500",
+      "area_px": 29159.5,
+      "area_sqm": 186.62,
+      "area_hectares": 0.0187,
+      "area_acres": 0.0461,
+      "area_gaj": 223.2,
+      "perimeter_m": 83.64,
+      "vertex_count": 9,
+      "confidence": 0.8,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0063",
+      "feature_type": "Agricultural Land",
+      "category": "Land",
+      "color_hex": "#FFA500",
+      "area_px": 51638.5,
+      "area_sqm": 330.49,
+      "area_hectares": 0.033,
+      "area_acres": 0.0817,
+      "area_gaj": 395.27,
+      "perimeter_m": 102.13,
+      "vertex_count": 11,
+      "confidence": 0.8,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0064",
+      "feature_type": "Road / Pathway",
+      "category": "Infrastructure",
+      "color_hex": "#FFFF00",
+      "area_px": 1776.5,
+      "area_sqm": 11.37,
+      "area_hectares": 0.0011,
+      "area_acres": 0.0028,
+      "area_gaj": 13.6,
+      "perimeter_m": 24.8,
+      "vertex_count": 6,
+      "confidence": 0.78,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0065",
+      "feature_type": "Road / Pathway",
+      "category": "Infrastructure",
+      "color_hex": "#FFFF00",
+      "area_px": 5416.0,
+      "area_sqm": 34.66,
+      "area_hectares": 0.0035,
+      "area_acres": 0.0086,
+      "area_gaj": 41.45,
+      "perimeter_m": 51.18,
+      "vertex_count": 9,
+      "confidence": 0.78,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0066",
+      "feature_type": "Road / Pathway",
+      "category": "Infrastructure",
+      "color_hex": "#FFFF00",
+      "area_px": 2934.0,
+      "area_sqm": 18.78,
+      "area_hectares": 0.0019,
+      "area_acres": 0.0046,
+      "area_gaj": 22.46,
+      "perimeter_m": 24.4,
+      "vertex_count": 7,
+      "confidence": 0.78,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0067",
+      "feature_type": "Road / Pathway",
+      "category": "Infrastructure",
+      "color_hex": "#FFFF00",
+      "area_px": 5397.5,
+      "area_sqm": 34.54,
+      "area_hectares": 0.0035,
+      "area_acres": 0.0085,
+      "area_gaj": 41.31,
+      "perimeter_m": 33.99,
+      "vertex_count": 5,
+      "confidence": 0.78,
+      "verification_status": "Pending Review"
+    },
+    {
+      "parcel_id": "CAD-0068",
+      "feature_type": "Road / Pathway",
+      "category": "Infrastructure",
+      "color_hex": "#FFFF00",
+      "area_px": 26136.0,
+      "area_sqm": 167.27,
+      "area_hectares": 0.0167,
+      "area_acres": 0.0413,
+      "area_gaj": 200.05,
+      "perimeter_m": 109.43,
+      "vertex_count": 7,
+      "confidence": 0.78,
+      "verification_status": "Pending Review"
+    }
+  ],
+  "geojson_data": {
+    "type": "FeatureCollection",
+    "metadata": {
+      "width": 512,
+      "height": 512,
+      "gsd_meters": 0.08,
+      "total_features": 68,
+      "counts": {
+        "Building": 49,
+        "Tree / Forest": 12,
+        "Agricultural Land": 2,
+        "Playground / Open Turf": 0,
+        "Road / Pathway": 5,
+        "Vacant / Open Land": 0
+      },
+      "total_surveyed_sqm": 1312.81,
+      "total_builtup_sqm": 263.2,
+      "builtup_pct": 20.0
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "id": "CAD-0001",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                439.0,
+                60.0
+              ],
+              [
+                423.0,
+                79.0
+              ],
+              [
+                423.0,
+                145.0
+              ],
+              [
+                506.0,
+                144.0
+              ],
+              [
+                511.0,
+                139.0
+              ],
+              [
+                511.0,
+                60.0
+              ],
+              [
+                439.0,
+                60.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0001",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 7242.5,
+          "area_sqm": 46.35,
+          "area_hectares": 0.0046,
+          "area_acres": 0.0115,
+          "area_gaj": 55.43,
+          "perimeter_m": 26.55,
+          "vertex_count": 7,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0002",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                28.0,
+                499.0
+              ],
+              [
+                28.0,
+                511.0
+              ],
+              [
+                66.0,
+                511.0
+              ],
+              [
+                66.0,
+                496.0
+              ],
+              [
+                31.0,
+                496.0
+              ],
+              [
+                28.0,
+                499.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0002",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 565.5,
+          "area_sqm": 3.62,
+          "area_hectares": 0.0004,
+          "area_acres": 0.0009,
+          "area_gaj": 4.33,
+          "perimeter_m": 8.34,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0003",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                344.0,
+                32.0
+              ],
+              [
+                344.0,
+                49.0
+              ],
+              [
+                356.0,
+                49.0
+              ],
+              [
+                357.0,
+                48.0
+              ],
+              [
+                361.0,
+                48.0
+              ],
+              [
+                365.0,
+                45.0
+              ],
+              [
+                366.0,
+                41.0
+              ],
+              [
+                367.0,
+                40.0
+              ],
+              [
+                367.0,
+                32.0
+              ],
+              [
+                344.0,
+                32.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0003",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 363.0,
+          "area_sqm": 2.32,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0006,
+          "area_gaj": 2.77,
+          "perimeter_m": 6.08,
+          "vertex_count": 10,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0004",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                361.0,
+                220.0
+              ],
+              [
+                361.0,
+                242.0
+              ],
+              [
+                397.0,
+                242.0
+              ],
+              [
+                398.0,
+                241.0
+              ],
+              [
+                398.0,
+                220.0
+              ],
+              [
+                361.0,
+                220.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0004",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 813.5,
+          "area_sqm": 5.21,
+          "area_hectares": 0.0005,
+          "area_acres": 0.0013,
+          "area_gaj": 6.23,
+          "perimeter_m": 9.39,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0005",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                286.0,
+                436.0
+              ],
+              [
+                286.0,
+                457.0
+              ],
+              [
+                302.0,
+                457.0
+              ],
+              [
+                303.0,
+                456.0
+              ],
+              [
+                306.0,
+                456.0
+              ],
+              [
+                307.0,
+                454.0
+              ],
+              [
+                307.0,
+                439.0
+              ],
+              [
+                306.0,
+                437.0
+              ],
+              [
+                307.0,
+                436.0
+              ],
+              [
+                286.0,
+                436.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0005",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 433.0,
+          "area_sqm": 2.77,
+          "area_hectares": 0.0003,
+          "area_acres": 0.0007,
+          "area_gaj": 3.31,
+          "perimeter_m": 6.66,
+          "vertex_count": 10,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0006",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                382.0,
+                7.0
+              ],
+              [
+                382.0,
+                54.0
+              ],
+              [
+                386.0,
+                56.0
+              ],
+              [
+                402.0,
+                56.0
+              ],
+              [
+                404.0,
+                36.0
+              ],
+              [
+                406.0,
+                31.0
+              ],
+              [
+                406.0,
+                7.0
+              ],
+              [
+                382.0,
+                7.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0006",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 1107.0,
+          "area_sqm": 7.08,
+          "area_hectares": 0.0007,
+          "area_acres": 0.0017,
+          "area_gaj": 8.47,
+          "perimeter_m": 11.28,
+          "vertex_count": 8,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0007",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                457.0,
+                171.0
+              ],
+              [
+                457.0,
+                221.0
+              ],
+              [
+                489.0,
+                221.0
+              ],
+              [
+                490.0,
+                218.0
+              ],
+              [
+                488.0,
+                217.0
+              ],
+              [
+                487.0,
+                213.0
+              ],
+              [
+                488.0,
+                194.0
+              ],
+              [
+                490.0,
+                190.0
+              ],
+              [
+                490.0,
+                171.0
+              ],
+              [
+                457.0,
+                171.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0007",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 1597.0,
+          "area_sqm": 10.22,
+          "area_hectares": 0.001,
+          "area_acres": 0.0025,
+          "area_gaj": 12.22,
+          "perimeter_m": 13.36,
+          "vertex_count": 10,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0008",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                286.0,
+                258.0
+              ],
+              [
+                286.0,
+                268.0
+              ],
+              [
+                307.0,
+                268.0
+              ],
+              [
+                308.0,
+                267.0
+              ],
+              [
+                308.0,
+                258.0
+              ],
+              [
+                286.0,
+                258.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0008",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 219.5,
+          "area_sqm": 1.4,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.67,
+          "perimeter_m": 5.07,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0009",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                59.0,
+                1.0
+              ],
+              [
+                59.0,
+                24.0
+              ],
+              [
+                62.0,
+                25.0
+              ],
+              [
+                63.0,
+                24.0
+              ],
+              [
+                86.0,
+                24.0
+              ],
+              [
+                89.0,
+                25.0
+              ],
+              [
+                89.0,
+                1.0
+              ],
+              [
+                59.0,
+                1.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0009",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 693.5,
+          "area_sqm": 4.44,
+          "area_hectares": 0.0004,
+          "area_acres": 0.0011,
+          "area_gaj": 5.31,
+          "perimeter_m": 8.62,
+          "vertex_count": 8,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0010",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                452.0,
+                225.0
+              ],
+              [
+                452.0,
+                244.0
+              ],
+              [
+                463.0,
+                244.0
+              ],
+              [
+                464.0,
+                243.0
+              ],
+              [
+                466.0,
+                243.0
+              ],
+              [
+                467.0,
+                242.0
+              ],
+              [
+                467.0,
+                225.0
+              ],
+              [
+                452.0,
+                225.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0010",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 281.0,
+          "area_sqm": 1.8,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0004,
+          "area_gaj": 2.15,
+          "perimeter_m": 5.35,
+          "vertex_count": 8,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0011",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                262.0,
+                39.0
+              ],
+              [
+                262.0,
+                61.0
+              ],
+              [
+                270.0,
+                61.0
+              ],
+              [
+                271.0,
+                60.0
+              ],
+              [
+                271.0,
+                58.0
+              ],
+              [
+                272.0,
+                57.0
+              ],
+              [
+                271.0,
+                56.0
+              ],
+              [
+                271.0,
+                44.0
+              ],
+              [
+                272.0,
+                43.0
+              ],
+              [
+                272.0,
+                39.0
+              ],
+              [
+                262.0,
+                39.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0011",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 203.0,
+          "area_sqm": 1.3,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.55,
+          "perimeter_m": 5.09,
+          "vertex_count": 11,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0012",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                306.0,
+                109.0
+              ],
+              [
+                306.0,
+                139.0
+              ],
+              [
+                326.0,
+                139.0
+              ],
+              [
+                328.0,
+                137.0
+              ],
+              [
+                329.0,
+                109.0
+              ],
+              [
+                306.0,
+                109.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0012",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 675.5,
+          "area_sqm": 4.32,
+          "area_hectares": 0.0004,
+          "area_acres": 0.0011,
+          "area_gaj": 5.17,
+          "perimeter_m": 8.31,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0013",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                237.0,
+                124.0
+              ],
+              [
+                237.0,
+                138.0
+              ],
+              [
+                246.0,
+                138.0
+              ],
+              [
+                247.0,
+                137.0
+              ],
+              [
+                247.0,
+                124.0
+              ],
+              [
+                237.0,
+                124.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0013",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 139.5,
+          "area_sqm": 0.89,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.06,
+          "perimeter_m": 3.79,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0014",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                441.0,
+                120.0
+              ],
+              [
+                441.0,
+                144.0
+              ],
+              [
+                506.0,
+                144.0
+              ],
+              [
+                510.0,
+                135.0
+              ],
+              [
+                510.0,
+                120.0
+              ],
+              [
+                441.0,
+                120.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0014",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 1641.0,
+          "area_sqm": 10.5,
+          "area_hectares": 0.001,
+          "area_acres": 0.0026,
+          "area_gaj": 12.56,
+          "perimeter_m": 14.63,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0015",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                148.0,
+                171.0
+              ],
+              [
+                148.0,
+                189.0
+              ],
+              [
+                163.0,
+                189.0
+              ],
+              [
+                164.0,
+                188.0
+              ],
+              [
+                170.0,
+                188.0
+              ],
+              [
+                172.0,
+                187.0
+              ],
+              [
+                173.0,
+                185.0
+              ],
+              [
+                173.0,
+                177.0
+              ],
+              [
+                172.0,
+                176.0
+              ],
+              [
+                172.0,
+                172.0
+              ],
+              [
+                171.0,
+                171.0
+              ],
+              [
+                148.0,
+                171.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0015",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 430.5,
+          "area_sqm": 2.76,
+          "area_hectares": 0.0003,
+          "area_acres": 0.0007,
+          "area_gaj": 3.3,
+          "perimeter_m": 6.62,
+          "vertex_count": 12,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0016",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                160.0,
+                246.0
+              ],
+              [
+                194.0,
+                247.0
+              ],
+              [
+                196.0,
+                244.0
+              ],
+              [
+                197.0,
+                230.0
+              ],
+              [
+                208.0,
+                226.0
+              ],
+              [
+                208.0,
+                212.0
+              ],
+              [
+                184.0,
+                212.0
+              ],
+              [
+                186.0,
+                213.0
+              ],
+              [
+                181.0,
+                216.0
+              ],
+              [
+                178.0,
+                214.0
+              ],
+              [
+                180.0,
+                212.0
+              ],
+              [
+                164.0,
+                212.0
+              ],
+              [
+                165.0,
+                215.0
+              ],
+              [
+                160.0,
+                217.0
+              ],
+              [
+                160.0,
+                246.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0016",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 1408.5,
+          "area_sqm": 9.01,
+          "area_hectares": 0.0009,
+          "area_acres": 0.0022,
+          "area_gaj": 10.78,
+          "perimeter_m": 13.55,
+          "vertex_count": 15,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0017",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                130.0,
+                511.0
+              ],
+              [
+                161.0,
+                511.0
+              ],
+              [
+                166.0,
+                499.0
+              ],
+              [
+                166.0,
+                494.0
+              ],
+              [
+                136.0,
+                494.0
+              ],
+              [
+                136.0,
+                497.0
+              ],
+              [
+                130.0,
+                506.0
+              ],
+              [
+                130.0,
+                511.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0017",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 534.5,
+          "area_sqm": 3.42,
+          "area_hectares": 0.0003,
+          "area_acres": 0.0008,
+          "area_gaj": 4.09,
+          "perimeter_m": 7.83,
+          "vertex_count": 8,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0018",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                127.0,
+                264.0
+              ],
+              [
+                127.0,
+                278.0
+              ],
+              [
+                153.0,
+                278.0
+              ],
+              [
+                153.0,
+                264.0
+              ],
+              [
+                127.0,
+                264.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0018",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 364.0,
+          "area_sqm": 2.33,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0006,
+          "area_gaj": 2.79,
+          "perimeter_m": 6.4,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0019",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                469.0,
+                225.0
+              ],
+              [
+                469.0,
+                245.0
+              ],
+              [
+                495.0,
+                245.0
+              ],
+              [
+                495.0,
+                242.0
+              ],
+              [
+                496.0,
+                241.0
+              ],
+              [
+                496.0,
+                225.0
+              ],
+              [
+                469.0,
+                225.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0019",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 536.5,
+          "area_sqm": 3.43,
+          "area_hectares": 0.0003,
+          "area_acres": 0.0008,
+          "area_gaj": 4.1,
+          "perimeter_m": 7.47,
+          "vertex_count": 7,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0020",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                15.0,
+                196.0
+              ],
+              [
+                15.0,
+                221.0
+              ],
+              [
+                30.0,
+                221.0
+              ],
+              [
+                30.0,
+                196.0
+              ],
+              [
+                15.0,
+                196.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0020",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 375.0,
+          "area_sqm": 2.4,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0006,
+          "area_gaj": 2.87,
+          "perimeter_m": 6.4,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0021",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                401.0,
+                203.0
+              ],
+              [
+                401.0,
+                240.0
+              ],
+              [
+                434.0,
+                239.0
+              ],
+              [
+                434.0,
+                207.0
+              ],
+              [
+                432.0,
+                203.0
+              ],
+              [
+                401.0,
+                203.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0021",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 1213.5,
+          "area_sqm": 7.77,
+          "area_hectares": 0.0008,
+          "area_acres": 0.0019,
+          "area_gaj": 9.29,
+          "perimeter_m": 11.0,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0022",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                146.0,
+                55.0
+              ],
+              [
+                146.0,
+                86.0
+              ],
+              [
+                157.0,
+                86.0
+              ],
+              [
+                159.0,
+                84.0
+              ],
+              [
+                164.0,
+                83.0
+              ],
+              [
+                177.0,
+                85.0
+              ],
+              [
+                180.0,
+                81.0
+              ],
+              [
+                180.0,
+                55.0
+              ],
+              [
+                146.0,
+                55.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0022",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 1003.0,
+          "area_sqm": 6.42,
+          "area_hectares": 0.0006,
+          "area_acres": 0.0016,
+          "area_gaj": 7.68,
+          "perimeter_m": 10.25,
+          "vertex_count": 9,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0023",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                97.0,
+                484.0
+              ],
+              [
+                94.0,
+                493.0
+              ],
+              [
+                87.0,
+                500.0
+              ],
+              [
+                87.0,
+                510.0
+              ],
+              [
+                113.0,
+                510.0
+              ],
+              [
+                115.0,
+                508.0
+              ],
+              [
+                120.0,
+                496.0
+              ],
+              [
+                125.0,
+                490.0
+              ],
+              [
+                125.0,
+                484.0
+              ],
+              [
+                97.0,
+                484.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0023",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 757.0,
+          "area_sqm": 4.84,
+          "area_hectares": 0.0005,
+          "area_acres": 0.0012,
+          "area_gaj": 5.79,
+          "perimeter_m": 9.04,
+          "vertex_count": 10,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0024",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                314.0,
+                291.0
+              ],
+              [
+                314.0,
+                308.0
+              ],
+              [
+                334.0,
+                308.0
+              ],
+              [
+                334.0,
+                291.0
+              ],
+              [
+                314.0,
+                291.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0024",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 340.0,
+          "area_sqm": 2.18,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0005,
+          "area_gaj": 2.61,
+          "perimeter_m": 5.92,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0025",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                203.0,
+                103.0
+              ],
+              [
+                197.0,
+                107.0
+              ],
+              [
+                197.0,
+                138.0
+              ],
+              [
+                219.0,
+                138.0
+              ],
+              [
+                223.0,
+                135.0
+              ],
+              [
+                224.0,
+                103.0
+              ],
+              [
+                203.0,
+                103.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0025",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 904.0,
+          "area_sqm": 5.79,
+          "area_hectares": 0.0006,
+          "area_acres": 0.0014,
+          "area_gaj": 6.92,
+          "perimeter_m": 9.46,
+          "vertex_count": 7,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0026",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                421.0,
+                1.0
+              ],
+              [
+                421.0,
+                42.0
+              ],
+              [
+                446.0,
+                42.0
+              ],
+              [
+                448.0,
+                33.0
+              ],
+              [
+                449.0,
+                1.0
+              ],
+              [
+                421.0,
+                1.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0026",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 1113.5,
+          "area_sqm": 7.13,
+          "area_hectares": 0.0007,
+          "area_acres": 0.0018,
+          "area_gaj": 8.53,
+          "perimeter_m": 10.82,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0027",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                52.0,
+                473.0
+              ],
+              [
+                52.0,
+                483.0
+              ],
+              [
+                64.0,
+                483.0
+              ],
+              [
+                64.0,
+                473.0
+              ],
+              [
+                52.0,
+                473.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0027",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 120.0,
+          "area_sqm": 0.77,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.92,
+          "perimeter_m": 3.52,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0028",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                288.0,
+                176.0
+              ],
+              [
+                288.0,
+                196.0
+              ],
+              [
+                323.0,
+                196.0
+              ],
+              [
+                326.0,
+                195.0
+              ],
+              [
+                328.0,
+                192.0
+              ],
+              [
+                328.0,
+                176.0
+              ],
+              [
+                288.0,
+                176.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0028",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 792.5,
+          "area_sqm": 5.07,
+          "area_hectares": 0.0005,
+          "area_acres": 0.0013,
+          "area_gaj": 6.06,
+          "perimeter_m": 9.42,
+          "vertex_count": 7,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0029",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                263.0,
+                197.0
+              ],
+              [
+                263.0,
+                210.0
+              ],
+              [
+                270.0,
+                210.0
+              ],
+              [
+                271.0,
+                209.0
+              ],
+              [
+                271.0,
+                197.0
+              ],
+              [
+                263.0,
+                197.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0029",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 103.5,
+          "area_sqm": 0.66,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.79,
+          "perimeter_m": 3.31,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0030",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                193.0,
+                288.0
+              ],
+              [
+                193.0,
+                302.0
+              ],
+              [
+                204.0,
+                302.0
+              ],
+              [
+                204.0,
+                299.0
+              ],
+              [
+                205.0,
+                298.0
+              ],
+              [
+                205.0,
+                288.0
+              ],
+              [
+                193.0,
+                288.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0030",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 164.5,
+          "area_sqm": 1.05,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.26,
+          "perimeter_m": 4.11,
+          "vertex_count": 7,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0031",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                110.0,
+                65.0
+              ],
+              [
+                110.0,
+                78.0
+              ],
+              [
+                132.0,
+                78.0
+              ],
+              [
+                132.0,
+                65.0
+              ],
+              [
+                110.0,
+                65.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0031",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 286.0,
+          "area_sqm": 1.83,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0005,
+          "area_gaj": 2.19,
+          "perimeter_m": 5.6,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0032",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                205.0,
+                386.0
+              ],
+              [
+                205.0,
+                397.0
+              ],
+              [
+                222.0,
+                397.0
+              ],
+              [
+                222.0,
+                386.0
+              ],
+              [
+                205.0,
+                386.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0032",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 187.0,
+          "area_sqm": 1.2,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.44,
+          "perimeter_m": 4.48,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0033",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                239.0,
+                297.0
+              ],
+              [
+                239.0,
+                314.0
+              ],
+              [
+                248.0,
+                314.0
+              ],
+              [
+                249.0,
+                313.0
+              ],
+              [
+                249.0,
+                297.0
+              ],
+              [
+                239.0,
+                297.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0033",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 169.5,
+          "area_sqm": 1.08,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.29,
+          "perimeter_m": 4.27,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0034",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                11.0,
+                269.0
+              ],
+              [
+                12.0,
+                274.0
+              ],
+              [
+                10.0,
+                277.0
+              ],
+              [
+                10.0,
+                319.0
+              ],
+              [
+                34.0,
+                319.0
+              ],
+              [
+                34.0,
+                269.0
+              ],
+              [
+                11.0,
+                269.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0034",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 1187.5,
+          "area_sqm": 7.6,
+          "area_hectares": 0.0008,
+          "area_acres": 0.0019,
+          "area_gaj": 9.09,
+          "perimeter_m": 11.82,
+          "vertex_count": 7,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0035",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                191.0,
+                430.0
+              ],
+              [
+                191.0,
+                449.0
+              ],
+              [
+                202.0,
+                449.0
+              ],
+              [
+                203.0,
+                448.0
+              ],
+              [
+                205.0,
+                448.0
+              ],
+              [
+                205.0,
+                430.0
+              ],
+              [
+                191.0,
+                430.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0035",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 263.5,
+          "area_sqm": 1.69,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0004,
+          "area_gaj": 2.02,
+          "perimeter_m": 5.23,
+          "vertex_count": 7,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0036",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                486.0,
+                352.0
+              ],
+              [
+                486.0,
+                386.0
+              ],
+              [
+                511.0,
+                386.0
+              ],
+              [
+                511.0,
+                352.0
+              ],
+              [
+                486.0,
+                352.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0036",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 850.0,
+          "area_sqm": 5.44,
+          "area_hectares": 0.0005,
+          "area_acres": 0.0013,
+          "area_gaj": 6.51,
+          "perimeter_m": 9.44,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0037",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                263.0,
+                228.0
+              ],
+              [
+                263.0,
+                241.0
+              ],
+              [
+                270.0,
+                241.0
+              ],
+              [
+                270.0,
+                228.0
+              ],
+              [
+                263.0,
+                228.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0037",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 91.0,
+          "area_sqm": 0.58,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.69,
+          "perimeter_m": 3.2,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0038",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                364.0,
+                81.0
+              ],
+              [
+                364.0,
+                98.0
+              ],
+              [
+                378.0,
+                98.0
+              ],
+              [
+                380.0,
+                96.0
+              ],
+              [
+                380.0,
+                81.0
+              ],
+              [
+                364.0,
+                81.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0038",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 270.0,
+          "area_sqm": 1.73,
+          "area_hectares": 0.0002,
+          "area_acres": 0.0004,
+          "area_gaj": 2.07,
+          "perimeter_m": 5.19,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0039",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                122.0,
+                45.0
+              ],
+              [
+                122.0,
+                64.0
+              ],
+              [
+                133.0,
+                64.0
+              ],
+              [
+                133.0,
+                49.0
+              ],
+              [
+                132.0,
+                48.0
+              ],
+              [
+                132.0,
+                46.0
+              ],
+              [
+                131.0,
+                45.0
+              ],
+              [
+                122.0,
+                45.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0039",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 205.0,
+          "area_sqm": 1.31,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.57,
+          "perimeter_m": 4.71,
+          "vertex_count": 8,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0040",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                181.0,
+                43.0
+              ],
+              [
+                181.0,
+                94.0
+              ],
+              [
+                213.0,
+                94.0
+              ],
+              [
+                212.0,
+                43.0
+              ],
+              [
+                181.0,
+                43.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0040",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 1613.5,
+          "area_sqm": 10.33,
+          "area_hectares": 0.001,
+          "area_acres": 0.0026,
+          "area_gaj": 12.35,
+          "perimeter_m": 13.2,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0041",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                264.0,
+                80.0
+              ],
+              [
+                264.0,
+                93.0
+              ],
+              [
+                272.0,
+                93.0
+              ],
+              [
+                273.0,
+                92.0
+              ],
+              [
+                273.0,
+                80.0
+              ],
+              [
+                264.0,
+                80.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0041",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 116.5,
+          "area_sqm": 0.75,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 0.9,
+          "perimeter_m": 3.47,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0042",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                145.0,
+                113.0
+              ],
+              [
+                145.0,
+                126.0
+              ],
+              [
+                160.0,
+                126.0
+              ],
+              [
+                160.0,
+                113.0
+              ],
+              [
+                145.0,
+                113.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0042",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 195.0,
+          "area_sqm": 1.25,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0003,
+          "area_gaj": 1.49,
+          "perimeter_m": 4.48,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0043",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                208.0,
+                276.0
+              ],
+              [
+                208.0,
+                283.0
+              ],
+              [
+                219.0,
+                283.0
+              ],
+              [
+                220.0,
+                282.0
+              ],
+              [
+                221.0,
+                282.0
+              ],
+              [
+                221.0,
+                276.0
+              ],
+              [
+                208.0,
+                276.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0043",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 89.5,
+          "area_sqm": 0.57,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0001,
+          "area_gaj": 0.68,
+          "perimeter_m": 3.15,
+          "vertex_count": 7,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0044",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                135.0,
+                466.0
+              ],
+              [
+                135.0,
+                479.0
+              ],
+              [
+                146.0,
+                479.0
+              ],
+              [
+                146.0,
+                466.0
+              ],
+              [
+                135.0,
+                466.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0044",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 143.0,
+          "area_sqm": 0.92,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.1,
+          "perimeter_m": 3.84,
+          "vertex_count": 5,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0045",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                310.0,
+                12.0
+              ],
+              [
+                311.0,
+                20.0
+              ],
+              [
+                312.0,
+                21.0
+              ],
+              [
+                310.0,
+                26.0
+              ],
+              [
+                310.0,
+                39.0
+              ],
+              [
+                313.0,
+                37.0
+              ],
+              [
+                315.0,
+                37.0
+              ],
+              [
+                317.0,
+                39.0
+              ],
+              [
+                334.0,
+                39.0
+              ],
+              [
+                334.0,
+                35.0
+              ],
+              [
+                335.0,
+                34.0
+              ],
+              [
+                335.0,
+                12.0
+              ],
+              [
+                310.0,
+                12.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0045",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 649.5,
+          "area_sqm": 4.16,
+          "area_hectares": 0.0004,
+          "area_acres": 0.001,
+          "area_gaj": 4.98,
+          "perimeter_m": 8.46,
+          "vertex_count": 13,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0046",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                10.0,
+                195.0
+              ],
+              [
+                10.0,
+                218.0
+              ],
+              [
+                23.0,
+                225.0
+              ],
+              [
+                27.0,
+                235.0
+              ],
+              [
+                26.0,
+                258.0
+              ],
+              [
+                21.0,
+                262.0
+              ],
+              [
+                15.0,
+                254.0
+              ],
+              [
+                10.0,
+                257.0
+              ],
+              [
+                10.0,
+                319.0
+              ],
+              [
+                70.0,
+                319.0
+              ],
+              [
+                82.0,
+                299.0
+              ],
+              [
+                82.0,
+                230.0
+              ],
+              [
+                53.0,
+                195.0
+              ],
+              [
+                10.0,
+                195.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0046",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 7709.5,
+          "area_sqm": 49.34,
+          "area_hectares": 0.0049,
+          "area_acres": 0.0122,
+          "area_gaj": 59.01,
+          "perimeter_m": 31.73,
+          "vertex_count": 14,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0047",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                487.0,
+                206.0
+              ],
+              [
+                487.0,
+                217.0
+              ],
+              [
+                496.0,
+                217.0
+              ],
+              [
+                497.0,
+                216.0
+              ],
+              [
+                500.0,
+                215.0
+              ],
+              [
+                500.0,
+                214.0
+              ],
+              [
+                501.0,
+                213.0
+              ],
+              [
+                501.0,
+                206.0
+              ],
+              [
+                487.0,
+                206.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0047",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 145.5,
+          "area_sqm": 0.93,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.11,
+          "perimeter_m": 3.84,
+          "vertex_count": 9,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0048",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                264.0,
+                104.0
+              ],
+              [
+                264.0,
+                121.0
+              ],
+              [
+                271.0,
+                121.0
+              ],
+              [
+                271.0,
+                120.0
+              ],
+              [
+                273.0,
+                117.0
+              ],
+              [
+                273.0,
+                104.0
+              ],
+              [
+                264.0,
+                104.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0048",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 148.0,
+          "area_sqm": 0.95,
+          "area_hectares": 0.0001,
+          "area_acres": 0.0002,
+          "area_gaj": 1.14,
+          "perimeter_m": 4.05,
+          "vertex_count": 7,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0049",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                338.0,
+                220.0
+              ],
+              [
+                338.0,
+                252.0
+              ],
+              [
+                357.0,
+                252.0
+              ],
+              [
+                359.0,
+                250.0
+              ],
+              [
+                359.0,
+                220.0
+              ],
+              [
+                338.0,
+                220.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0049",
+          "feature_type": "Building",
+          "category": "Structure",
+          "color_hex": "#FF3232",
+          "area_px": 670.0,
+          "area_sqm": 4.29,
+          "area_hectares": 0.0004,
+          "area_acres": 0.0011,
+          "area_gaj": 5.13,
+          "perimeter_m": 8.39,
+          "vertex_count": 6,
+          "confidence": 0.88,
+          "verification_status": "Verified"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0050",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                311.0,
+                470.0
+              ],
+              [
+                311.0,
+                473.0
+              ],
+              [
+                307.0,
+                483.0
+              ],
+              [
+                299.0,
+                485.0
+              ],
+              [
+                287.0,
+                481.0
+              ],
+              [
+                276.0,
+                475.0
+              ],
+              [
+                276.0,
+                473.0
+              ],
+              [
+                279.0,
+                468.0
+              ],
+              [
+                289.0,
+                461.0
+              ],
+              [
+                297.0,
+                459.0
+              ],
+              [
+                306.0,
+                461.0
+              ],
+              [
+                311.0,
+                470.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0050",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 565.0,
+          "area_sqm": 3.62,
+          "area_hectares": 0.0004,
+          "area_acres": 0.0009,
+          "area_gaj": 4.33,
+          "perimeter_m": 7.6,
+          "vertex_count": 12,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0051",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                505.0,
+                429.0
+              ],
+              [
+                505.0,
+                447.0
+              ],
+              [
+                473.0,
+                505.0
+              ],
+              [
+                463.0,
+                511.0
+              ],
+              [
+                374.0,
+                511.0
+              ],
+              [
+                368.0,
+                496.0
+              ],
+              [
+                365.0,
+                441.0
+              ],
+              [
+                404.0,
+                414.0
+              ],
+              [
+                470.0,
+                413.0
+              ],
+              [
+                505.0,
+                429.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0051",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 8074.5,
+          "area_sqm": 51.68,
+          "area_hectares": 0.0052,
+          "area_acres": 0.0128,
+          "area_gaj": 61.81,
+          "perimeter_m": 32.65,
+          "vertex_count": 10,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0052",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                28.0,
+                331.0
+              ],
+              [
+                44.0,
+                332.0
+              ],
+              [
+                81.0,
+                408.0
+              ],
+              [
+                83.0,
+                433.0
+              ],
+              [
+                81.0,
+                442.0
+              ],
+              [
+                40.0,
+                495.0
+              ],
+              [
+                29.0,
+                489.0
+              ],
+              [
+                0.0,
+                454.0
+              ],
+              [
+                0.0,
+                338.0
+              ],
+              [
+                28.0,
+                331.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0052",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 7104.5,
+          "area_sqm": 45.47,
+          "area_hectares": 0.0045,
+          "area_acres": 0.0112,
+          "area_gaj": 54.38,
+          "perimeter_m": 32.38,
+          "vertex_count": 10,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0053",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                117.0,
+                294.0
+              ],
+              [
+                121.0,
+                321.0
+              ],
+              [
+                121.0,
+                346.0
+              ],
+              [
+                105.0,
+                351.0
+              ],
+              [
+                82.0,
+                348.0
+              ],
+              [
+                68.0,
+                332.0
+              ],
+              [
+                68.0,
+                320.0
+              ],
+              [
+                83.0,
+                301.0
+              ],
+              [
+                106.0,
+                290.0
+              ],
+              [
+                117.0,
+                294.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0053",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 2143.0,
+          "area_sqm": 13.72,
+          "area_hectares": 0.0014,
+          "area_acres": 0.0034,
+          "area_gaj": 16.41,
+          "perimeter_m": 14.95,
+          "vertex_count": 10,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0054",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                386.0,
+                282.0
+              ],
+              [
+                404.0,
+                285.0
+              ],
+              [
+                437.0,
+                304.0
+              ],
+              [
+                443.0,
+                325.0
+              ],
+              [
+                436.0,
+                352.0
+              ],
+              [
+                431.0,
+                358.0
+              ],
+              [
+                410.0,
+                366.0
+              ],
+              [
+                380.0,
+                367.0
+              ],
+              [
+                342.0,
+                349.0
+              ],
+              [
+                349.0,
+                313.0
+              ],
+              [
+                362.0,
+                298.0
+              ],
+              [
+                386.0,
+                282.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0054",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 5790.0,
+          "area_sqm": 37.06,
+          "area_hectares": 0.0037,
+          "area_acres": 0.0092,
+          "area_gaj": 44.32,
+          "perimeter_m": 23.5,
+          "vertex_count": 12,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0055",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                386.0,
+                193.0
+              ],
+              [
+                399.0,
+                208.0
+              ],
+              [
+                414.0,
+                247.0
+              ],
+              [
+                390.0,
+                255.0
+              ],
+              [
+                368.0,
+                257.0
+              ],
+              [
+                360.0,
+                248.0
+              ],
+              [
+                361.0,
+                211.0
+              ],
+              [
+                363.0,
+                207.0
+              ],
+              [
+                386.0,
+                193.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0055",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 990.0,
+          "area_sqm": 6.34,
+          "area_hectares": 0.0006,
+          "area_acres": 0.0016,
+          "area_gaj": 7.58,
+          "perimeter_m": 15.16,
+          "vertex_count": 9,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0056",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                353.0,
+                158.0
+              ],
+              [
+                376.0,
+                150.0
+              ],
+              [
+                386.0,
+                153.0
+              ],
+              [
+                394.0,
+                181.0
+              ],
+              [
+                386.0,
+                190.0
+              ],
+              [
+                384.0,
+                191.0
+              ],
+              [
+                361.0,
+                170.0
+              ],
+              [
+                353.0,
+                161.0
+              ],
+              [
+                353.0,
+                158.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0056",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 699.5,
+          "area_sqm": 4.48,
+          "area_hectares": 0.0004,
+          "area_acres": 0.0011,
+          "area_gaj": 5.36,
+          "perimeter_m": 9.95,
+          "vertex_count": 9,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0057",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                424.0,
+                156.0
+              ],
+              [
+                432.0,
+                150.0
+              ],
+              [
+                446.0,
+                146.0
+              ],
+              [
+                497.0,
+                147.0
+              ],
+              [
+                503.0,
+                151.0
+              ],
+              [
+                511.0,
+                165.0
+              ],
+              [
+                511.0,
+                173.0
+              ],
+              [
+                500.0,
+                177.0
+              ],
+              [
+                440.0,
+                177.0
+              ],
+              [
+                432.0,
+                173.0
+              ],
+              [
+                424.0,
+                156.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0057",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 1709.5,
+          "area_sqm": 10.94,
+          "area_hectares": 0.0011,
+          "area_acres": 0.0027,
+          "area_gaj": 13.08,
+          "perimeter_m": 16.51,
+          "vertex_count": 11,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0058",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                350.0,
+                154.0
+              ],
+              [
+                332.0,
+                166.0
+              ],
+              [
+                313.0,
+                172.0
+              ],
+              [
+                305.0,
+                171.0
+              ],
+              [
+                296.0,
+                159.0
+              ],
+              [
+                296.0,
+                157.0
+              ],
+              [
+                323.0,
+                149.0
+              ],
+              [
+                345.0,
+                146.0
+              ],
+              [
+                349.0,
+                148.0
+              ],
+              [
+                350.0,
+                154.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0058",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 677.0,
+          "area_sqm": 4.33,
+          "area_hectares": 0.0004,
+          "area_acres": 0.0011,
+          "area_gaj": 5.18,
+          "perimeter_m": 10.2,
+          "vertex_count": 10,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0059",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                0.0,
+                112.0
+              ],
+              [
+                5.0,
+                113.0
+              ],
+              [
+                27.0,
+                157.0
+              ],
+              [
+                25.0,
+                168.0
+              ],
+              [
+                23.0,
+                169.0
+              ],
+              [
+                0.0,
+                166.0
+              ],
+              [
+                0.0,
+                112.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0059",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 581.0,
+          "area_sqm": 3.72,
+          "area_hectares": 0.0004,
+          "area_acres": 0.0009,
+          "area_gaj": 4.45,
+          "perimeter_m": 11.59,
+          "vertex_count": 7,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0060",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                29.0,
+                93.0
+              ],
+              [
+                43.0,
+                84.0
+              ],
+              [
+                77.0,
+                85.0
+              ],
+              [
+                151.0,
+                144.0
+              ],
+              [
+                160.0,
+                165.0
+              ],
+              [
+                155.0,
+                262.0
+              ],
+              [
+                124.0,
+                268.0
+              ],
+              [
+                108.0,
+                263.0
+              ],
+              [
+                51.0,
+                194.0
+              ],
+              [
+                29.0,
+                93.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0060",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 12484.0,
+          "area_sqm": 79.9,
+          "area_hectares": 0.008,
+          "area_acres": 0.0197,
+          "area_gaj": 95.56,
+          "perimeter_m": 40.52,
+          "vertex_count": 10,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0061",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                376.0,
+                20.0
+              ],
+              [
+                378.0,
+                21.0
+              ],
+              [
+                381.0,
+                30.0
+              ],
+              [
+                381.0,
+                47.0
+              ],
+              [
+                369.0,
+                73.0
+              ],
+              [
+                359.0,
+                76.0
+              ],
+              [
+                342.0,
+                64.0
+              ],
+              [
+                342.0,
+                61.0
+              ],
+              [
+                370.0,
+                21.0
+              ],
+              [
+                376.0,
+                20.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0061",
+          "feature_type": "Tree / Forest",
+          "category": "Vegetation",
+          "color_hex": "#00B400",
+          "area_px": 721.5,
+          "area_sqm": 4.62,
+          "area_hectares": 0.0005,
+          "area_acres": 0.0011,
+          "area_gaj": 5.53,
+          "perimeter_m": 11.72,
+          "vertex_count": 10,
+          "confidence": 0.85,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0062",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                114.0,
+                79.0
+              ],
+              [
+                138.0,
+                74.0
+              ],
+              [
+                179.0,
+                85.0
+              ],
+              [
+                240.0,
+                163.0
+              ],
+              [
+                221.0,
+                511.0
+              ],
+              [
+                171.0,
+                511.0
+              ],
+              [
+                88.0,
+                452.0
+              ],
+              [
+                99.0,
+                95.0
+              ],
+              [
+                114.0,
+                79.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0062",
+          "feature_type": "Agricultural Land",
+          "category": "Land",
+          "color_hex": "#FFA500",
+          "area_px": 29159.5,
+          "area_sqm": 186.62,
+          "area_hectares": 0.0187,
+          "area_acres": 0.0461,
+          "area_gaj": 223.2,
+          "perimeter_m": 83.64,
+          "vertex_count": 9,
+          "confidence": 0.8,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0063",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                354.0,
+                0.0
+              ],
+              [
+                372.0,
+                16.0
+              ],
+              [
+                511.0,
+                275.0
+              ],
+              [
+                511.0,
+                347.0
+              ],
+              [
+                475.0,
+                412.0
+              ],
+              [
+                346.0,
+                511.0
+              ],
+              [
+                282.0,
+                511.0
+              ],
+              [
+                260.0,
+                347.0
+              ],
+              [
+                260.0,
+                193.0
+              ],
+              [
+                282.0,
+                0.0
+              ],
+              [
+                354.0,
+                0.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0063",
+          "feature_type": "Agricultural Land",
+          "category": "Land",
+          "color_hex": "#FFA500",
+          "area_px": 51638.5,
+          "area_sqm": 330.49,
+          "area_hectares": 0.033,
+          "area_acres": 0.0817,
+          "area_gaj": 395.27,
+          "perimeter_m": 102.13,
+          "vertex_count": 11,
+          "confidence": 0.8,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0064",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                511.0,
+                387.0
+              ],
+              [
+                511.0,
+                511.0
+              ],
+              [
+                473.0,
+                511.0
+              ],
+              [
+                478.0,
+                408.0
+              ],
+              [
+                489.0,
+                388.0
+              ],
+              [
+                511.0,
+                387.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0064",
+          "feature_type": "Road / Pathway",
+          "category": "Infrastructure",
+          "color_hex": "#FFFF00",
+          "area_px": 1776.5,
+          "area_sqm": 11.37,
+          "area_hectares": 0.0011,
+          "area_acres": 0.0028,
+          "area_gaj": 13.6,
+          "perimeter_m": 24.8,
+          "vertex_count": 6,
+          "confidence": 0.78,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0065",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                0.0,
+                252.0
+              ],
+              [
+                8.0,
+                253.0
+              ],
+              [
+                90.0,
+                352.0
+              ],
+              [
+                135.0,
+                492.0
+              ],
+              [
+                130.0,
+                511.0
+              ],
+              [
+                67.0,
+                511.0
+              ],
+              [
+                49.0,
+                491.0
+              ],
+              [
+                0.0,
+                336.0
+              ],
+              [
+                0.0,
+                252.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0065",
+          "feature_type": "Road / Pathway",
+          "category": "Infrastructure",
+          "color_hex": "#FFFF00",
+          "area_px": 5416.0,
+          "area_sqm": 34.66,
+          "area_hectares": 0.0035,
+          "area_acres": 0.0086,
+          "area_gaj": 41.45,
+          "perimeter_m": 51.18,
+          "vertex_count": 9,
+          "confidence": 0.78,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0066",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                0.0,
+                78.0
+              ],
+              [
+                9.0,
+                78.0
+              ],
+              [
+                31.0,
+                92.0
+              ],
+              [
+                48.0,
+                183.0
+              ],
+              [
+                46.0,
+                194.0
+              ],
+              [
+                0.0,
+                198.0
+              ],
+              [
+                0.0,
+                78.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0066",
+          "feature_type": "Road / Pathway",
+          "category": "Infrastructure",
+          "color_hex": "#FFFF00",
+          "area_px": 2934.0,
+          "area_sqm": 18.78,
+          "area_hectares": 0.0019,
+          "area_acres": 0.0046,
+          "area_gaj": 22.46,
+          "perimeter_m": 24.4,
+          "vertex_count": 7,
+          "confidence": 0.78,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0067",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                511.0,
+                54.0
+              ],
+              [
+                420.0,
+                101.0
+              ],
+              [
+                360.0,
+                0.0
+              ],
+              [
+                511.0,
+                0.0
+              ],
+              [
+                511.0,
+                54.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0067",
+          "feature_type": "Road / Pathway",
+          "category": "Infrastructure",
+          "color_hex": "#FFFF00",
+          "area_px": 5397.5,
+          "area_sqm": 34.54,
+          "area_hectares": 0.0035,
+          "area_acres": 0.0085,
+          "area_gaj": 41.31,
+          "perimeter_m": 33.99,
+          "vertex_count": 5,
+          "confidence": 0.78,
+          "verification_status": "Pending Review"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "CAD-0068",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                0.0,
+                0.0
+              ],
+              [
+                228.0,
+                0.0
+              ],
+              [
+                278.0,
+                28.0
+              ],
+              [
+                281.0,
+                511.0
+              ],
+              [
+                260.0,
+                511.0
+              ],
+              [
+                0.0,
+                44.0
+              ],
+              [
+                0.0,
+                0.0
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "parcel_id": "CAD-0068",
+          "feature_type": "Road / Pathway",
+          "category": "Infrastructure",
+          "color_hex": "#FFFF00",
+          "area_px": 26136.0,
+          "area_sqm": 167.27,
+          "area_hectares": 0.0167,
+          "area_acres": 0.0413,
+          "area_gaj": 200.05,
+          "perimeter_m": 109.43,
+          "vertex_count": 7,
+          "confidence": 0.78,
+          "verification_status": "Pending Review"
+        }
+      }
+    ]
+  }
+}
